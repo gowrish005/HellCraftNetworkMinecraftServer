@@ -1,0 +1,40 @@
+location: spawn:50.500:0.000:-42.500
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: SUNFLOWER !ENCHANTED'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴛ&#ffb939&lᴏ&#ffcd71&lᴘ &#ffe1aa&lʙ&#fff5e3&lᴀ&#e8f9e8&lʟ&#bbeebb&lᴀ&#8de38d&lɴ&#60d860&lᴄ&#32cd32&lᴇ'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '#FFA500#&l1 &f%essentials_baltop_player_0% &8| #32CD32$%essentials_baltop_balance_fixed_0%'
+    height: 0.3
+  - content: '#FFA500#&l2 &f%essentials_baltop_player_1% &8| #32CD32$%essentials_baltop_balance_fixed_1%'
+    height: 0.3
+  - content: '#FFA500#&l3 &f%essentials_baltop_player_2% &8| #32CD32$%essentials_baltop_balance_fixed_2%'
+    height: 0.3
+  - content: '#FFA500#&l4 &f%essentials_baltop_player_3% &8| #32CD32$%essentials_baltop_balance_fixed_3%'
+    height: 0.3
+  - content: '#FFA500#&l5 &f%essentials_baltop_player_4% &8| #32CD32$%essentials_baltop_balance_fixed_4%'
+    height: 0.3
+  - content: '#FFA500#&l6 &f%essentials_baltop_player_5% &8| #32CD32$%essentials_baltop_balance_fixed_5%'
+    height: 0.3
+  - content: '#FFA500#&l7 &f%essentials_baltop_player_6% &8| #32CD32$%essentials_baltop_balance_fixed_6%'
+    height: 0.3
+  - content: '#FFA500#&l8 &f%essentials_baltop_player_7% &8| #32CD32$%essentials_baltop_balance_fixed_7%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&fʏᴏᴜʀ ʙᴀʟᴀɴᴄᴇ&8: &e$%vault_eco_balance%&r'
+    height: 0.3
+  - content: '&fʏᴏᴜʀ ʙᴀʟᴛᴏᴘ ʀᴀɴᴋ&8: &e%essentials_baltop_rank%'
+    height: 0.3
+  actions: {}

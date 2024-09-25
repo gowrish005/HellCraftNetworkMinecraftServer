@@ -1,0 +1,78 @@
+quests:
+  20: # Quest id
+    name: 'Grinder' # The name given to the quest.
+    type: kill-mob # The type of quest
+    variable: pig:0 # The block the player must break.
+    required-progress: 15 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: golden_sword:0
+      amount: 1
+      name: '&eGrinder'
+      lore:
+        - '&7kill &e15 pigs'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+  21: # Quest id
+    name: 'Farmer' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: carrot:0 # The block the player must break.
+    required-progress: 32 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: hay_block:0
+      amount: 1
+      name: '&eFarmer'
+      lore:
+        - '&7Harvest &e32 carrot'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  22: # Quest id
+     name: 'Farmer' # The name given to the quest.
+     type: block-break # The type of quest
+     variable: potato:0 # The block the player must break.
+     required-progress: 32 # The amount of times the player should break the coal ore block.
+     points: 10 # The amount of points that will be rewarded
+     item: # The item that will be displayed in menus.
+       material: hay_block:0
+       amount: 1
+       name: '&eFarmer'
+       lore:
+         - '&7Harvest &e32 potato'
+         - ''
+         - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  23: # Quest id
+     name: 'Smelt' # The name given to the quest.
+     type: smelt # The type of quest
+     variable: cooked_porkchop:0 # The block the player must break.
+     required-progress: 16 # The amount of times the player should break the coal ore block.
+     points: 10 # The amount of points that will be rewarded
+     item: # The item that will be displayed in menus.
+       material: furnace:0
+       amount: 1
+       name: '&eSmelt'
+       lore:
+         - '&7Smelt &e16 cooked porkchop'
+         - ''
+         - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  24: # Quest id
+     name: 'Smelt' # The name given to the quest.
+     type: smelt # The type of quest
+     variable: baked_potato:0 # The block the player must break.
+     required-progress: 16 # The amount of times the player should break the coal ore block.
+     points: 10 # The amount of points that will be rewarded
+     item: # The item that will be displayed in menus.
+       material: furnace:0
+       amount: 1
+       name: '&eSmelt'
+       lore:
+         - '&7Smelt &e16 baked potato'
+         - ''
+         - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+ 
+

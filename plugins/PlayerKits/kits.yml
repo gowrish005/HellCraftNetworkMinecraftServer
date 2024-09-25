@@ -1,0 +1,1413 @@
+Kits:
+  Starter:
+    slot: 19
+    display_item: IRON_SWORD
+    display_name: '&6&lStarter &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 43200
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lStarter &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    first_join: true
+    Items:
+      '1':
+        id: IRON_HELMET
+        amount: '1'
+        durability: '0'
+        preview_slot: 0
+      '2':
+        id: IRON_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        preview_slot: 1
+      '3':
+        id: IRON_LEGGINGS
+        amount: '1'
+        durability: '0'
+        preview_slot: 2
+      '4':
+        id: IRON_BOOTS
+        amount: '1'
+        durability: '0'
+        preview_slot: 3
+      '5':
+        id: IRON_SWORD
+        amount: '1'
+        durability: '0'
+        preview_slot: 4
+      '6':
+        id: IRON_PICKAXE
+        amount: '1'
+        durability: '0'
+        preview_slot: 5
+      '7':
+        id: IRON_AXE
+        amount: '1'
+        durability: '0'
+        preview_slot: 6
+      '8':
+        id: STICK
+        amount: '1'
+        durability: '0'
+        name: '&6&lClaim&e&lTool&fStick'
+        lore:
+        - '&a&l&nIndianMC'
+        unbreakable: 'false'
+        preview_slot: 7
+      '9':
+        id: GOLDEN_SHOVEL
+        amount: '1'
+        durability: '0'
+        name: '&6&lClaim&e&lTool'
+        lore:
+        - '&a&l&nIndianMC'
+        unbreakable: 'false'
+        preview_slot: 8
+      '10':
+        id: COOKED_PORKCHOP
+        amount: '64'
+        durability: '0'
+        preview_slot: 9
+  Supreme:
+    slot: 21
+    display_item: IRON_BLOCK
+    display_name: '&6&lSupreme &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 86400
+    permission: playerkits.supreme
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lSupreme &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    Commands:
+    - economy give %player% 1000
+    display_item_glowing: true
+    Items:
+      '1':
+        id: OAK_LOG
+        amount: '64'
+        durability: '0'
+        preview_slot: 4
+      '2':
+        id: GOLDEN_APPLE
+        amount: '16'
+        durability: '0'
+        name: '&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &cGolden Apples'
+        lore:
+        - Obtained From &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &e&k
+        - ' &e'
+        unbreakable: 'false'
+        preview_slot: 12
+      '3':
+        id: DIAMOND_PICKAXE
+        amount: '1'
+        durability: '0'
+        name: '&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &cPicaxe'
+        lore:
+        - Obtained From &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &e&k
+        - ' &e'
+        enchants:
+        - DIG_SPEED;2
+        - LOOT_BONUS_BLOCKS;1
+        - DURABILITY;1
+        unbreakable: 'false'
+        preview_slot: 13
+      '4':
+        id: ENCHANTED_GOLDEN_APPLE
+        amount: '2'
+        durability: '0'
+        name: '&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &cEnchanted Golden Apples'
+        lore:
+        - Obtained From &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &e&k
+        - ' &e'
+        unbreakable: 'false'
+        preview_slot: 14
+      '5':
+        id: DIAMOND_HELMET
+        amount: '1'
+        durability: '0'
+        name: '&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &cCap'
+        lore:
+        - Obtained From &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &e&k
+        - ' &e'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;1
+        unbreakable: 'false'
+        preview_slot: 20
+      '6':
+        id: DIAMOND_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        name: '&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &cShirt'
+        lore:
+        - Obtained From &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &e&k
+        - ' &e'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;1
+        unbreakable: 'false'
+        preview_slot: 21
+      '7':
+        id: DIAMOND_SWORD
+        amount: '1'
+        durability: '0'
+        name: '&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &cSword'
+        lore:
+        - Obtained From &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &e&k
+        - ' &e'
+        enchants:
+        - DAMAGE_ALL;2
+        - FIRE_ASPECT;1
+        unbreakable: 'false'
+        preview_slot: 22
+      '8':
+        id: DIAMOND_LEGGINGS
+        amount: '1'
+        durability: '0'
+        name: '&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &cPants'
+        lore:
+        - Obtained From &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &e&k
+        - ' &e'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;1
+        unbreakable: 'false'
+        preview_slot: 23
+      '9':
+        id: DIAMOND_BOOTS
+        amount: '1'
+        durability: '0'
+        name: '&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &cBoots'
+        lore:
+        - Obtained From &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &e&k
+        - ' &e'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;1
+        unbreakable: 'false'
+        preview_slot: 24
+      '10':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 30
+      '11':
+        id: DIAMOND_AXE
+        amount: '1'
+        durability: '0'
+        name: '&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &cAxe'
+        lore:
+        - Obtained From &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &e&k
+        - ' &e'
+        unbreakable: 'false'
+        preview_slot: 31
+      '12':
+        id: BOOKSHELF
+        amount: '16'
+        durability: '0'
+        preview_slot: 32
+      '13':
+        id: ENCHANTING_TABLE
+        amount: '1'
+        durability: '0'
+        preview_slot: 40
+  Godlike:
+    slot: 23
+    display_name: '&6&lGodlike &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 86400
+    permission: playerkits.godlike
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lGodlike &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    Items:
+      '1':
+        id: GOLDEN_APPLE
+        amount: '16'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 4
+      '2':
+        id: EXPERIENCE_BOTTLE
+        amount: '48'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 11
+      '3':
+        id: DIAMOND_SHOVEL
+        amount: '1'
+        durability: '0'
+        name: '&f<&b&lɢᴏᴅʟɪᴋᴇ&f>'
+        lore:
+        - obtained by &f<&b&lɢᴏᴅʟɪᴋᴇ&f>
+        enchants:
+        - DURABILITY;2
+        - DIG_SPEED;4
+        - SILK_TOUCH;1
+        unbreakable: 'false'
+        preview_slot: 12
+      '4':
+        id: BOOKSHELF
+        amount: '32'
+        durability: '0'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 13
+      '5':
+        id: DIAMOND_PICKAXE
+        amount: '1'
+        durability: '0'
+        name: '&f<&b&lɢᴏᴅʟɪᴋᴇ&f>'
+        lore:
+        - obtained by &f<&b&lɢᴏᴅʟɪᴋᴇ&f>
+        enchants:
+        - DURABILITY;2
+        - DIG_SPEED;4
+        - LOOT_BONUS_BLOCKS;2
+        unbreakable: 'false'
+        preview_slot: 14
+      '6':
+        offhand: true
+        id: EXPERIENCE_BOTTLE
+        amount: '48'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 15
+      '7':
+        id: DIAMOND_HELMET
+        amount: '1'
+        durability: '0'
+        name: '&f<&b&lɢᴏᴅʟɪᴋᴇ&f>'
+        lore:
+        - obtained by &f<&b&lɢᴏᴅʟɪᴋᴇ&f>
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;2
+        unbreakable: 'false'
+        preview_slot: 20
+      '8':
+        id: DIAMOND_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        name: '&f<&b&lɢᴏᴅʟɪᴋᴇ&f>'
+        lore:
+        - obtained by &f<&b&lɢᴏᴅʟɪᴋᴇ&f>
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;2
+        unbreakable: 'false'
+        preview_slot: 21
+      '9':
+        id: DIAMOND_SWORD
+        amount: '1'
+        durability: '0'
+        name: '&f<&b&lɢᴏᴅʟɪᴋᴇ&f>'
+        lore:
+        - obtained by &f<&b&lɢᴏᴅʟɪᴋᴇ&f>
+        enchants:
+        - DURABILITY;2
+        - DAMAGE_ALL;4
+        - FIRE_ASPECT;1
+        - LOOT_BONUS_MOBS;2
+        - SWEEPING_EDGE;2
+        unbreakable: 'false'
+        preview_slot: 22
+      '10':
+        id: DIAMOND_LEGGINGS
+        amount: '1'
+        durability: '0'
+        name: '&f<&b&lɢᴏᴅʟɪᴋᴇ&f>'
+        lore:
+        - obtained by &f<&b&lɢᴏᴅʟɪᴋᴇ&f>
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;2
+        unbreakable: 'false'
+        preview_slot: 23
+      '11':
+        id: DIAMOND_BOOTS
+        amount: '1'
+        durability: '0'
+        name: '&f<&b&lɢᴏᴅʟɪᴋᴇ&f>'
+        lore:
+        - obtained by &f<&b&lɢᴏᴅʟɪᴋᴇ&f>
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;2
+        unbreakable: 'false'
+        preview_slot: 24
+      '12':
+        id: OAK_LOG
+        amount: '32'
+        durability: '0'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 29
+      '13':
+        id: DIAMOND_AXE
+        amount: '1'
+        durability: '0'
+        name: '&f<&b&lɢᴏᴅʟɪᴋᴇ&f>'
+        lore:
+        - obtained by &f<&b&lɢᴏᴅʟɪᴋᴇ&f>
+        enchants:
+        - DURABILITY;2
+        - DAMAGE_ALL;4
+        - DIG_SPEED;4
+        - LOOT_BONUS_BLOCKS;2
+        unbreakable: 'false'
+        preview_slot: 30
+      '14':
+        id: ENCHANTING_TABLE
+        amount: '1'
+        durability: '0'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 31
+      '15':
+        id: DIAMOND_HOE
+        amount: '1'
+        durability: '0'
+        name: '&f<&b&lɢᴏᴅʟɪᴋᴇ&f>'
+        lore:
+        - obtained by &f<&b&lɢᴏᴅʟɪᴋᴇ&f>
+        enchants:
+        - DURABILITY;2
+        - DIG_SPEED;4
+        - LOOT_BONUS_BLOCKS;2
+        unbreakable: 'false'
+        preview_slot: 32
+      '16':
+        id: OAK_LOG
+        amount: '32'
+        durability: '0'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 33
+      '17':
+        id: ENCHANTED_GOLDEN_APPLE
+        amount: '8'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 40
+    auto_armor: false
+    Commands:
+    - economy give %player% 5000
+    display_item: DIAMOND_BLOCK
+    display_item_glowing: true
+  Divine:
+    slot: 25
+    display_item: NETHERITE_BLOCK
+    display_name: '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&r&b>&a &e&lᴅᴀɪʟʏ ᴋɪᴛ'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 86400
+    permission: playerkit.kit.devine
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lDivine &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    Commands:
+    - economy give %player% 10000
+    auto_armor: true
+    noBuyItem:
+      display_item_glowing: false
+      display_name: '&cYou don''t have&r &b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&r&b> Rank'
+      display_lore:
+      - '&b&nContact &c&lOwner#0957'
+      - '&eon &9&lDiscord'
+      - '&eTo Buy &b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&r&b> &eRank'
+      display_item: BARRIER
+    display_item_glowing: true
+    Items:
+      '1':
+        id: OAK_LOG
+        amount: '32'
+        durability: '0'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: OAK_LOG
+        amount: '32'
+        durability: '0'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 1
+      '3':
+        offhand: true
+        id: OAK_LOG
+        amount: '32'
+        durability: '0'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 2
+      '4':
+        id: DIAMOND_AXE
+        amount: '1'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        enchants:
+        - SILK_TOUCH;1
+        - DIG_SPEED;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 3
+      '5':
+        id: GOLDEN_APPLE
+        amount: '32'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 4
+      '6':
+        id: DIAMOND_PICKAXE
+        amount: '1'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        enchants:
+        - DURABILITY;3
+        - LOOT_BONUS_BLOCKS;3
+        - DIG_SPEED;5
+        unbreakable: 'false'
+        preview_slot: 5
+      '7':
+        offhand: true
+        id: OAK_LOG
+        amount: '32'
+        durability: '0'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 6
+      '8':
+        offhand: true
+        id: OAK_LOG
+        amount: '32'
+        durability: '0'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 7
+      '9':
+        offhand: true
+        id: OAK_LOG
+        amount: '32'
+        durability: '0'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 8
+      '10':
+        id: BOW
+        amount: '1'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        enchants:
+        - ARROW_DAMAGE;5
+        - ARROW_KNOCKBACK;2
+        - ARROW_FIRE;1
+        - ARROW_INFINITE;1
+        unbreakable: 'false'
+        preview_slot: 10
+      '11':
+        nbt:
+        - RepairCost;1;int
+        id: DIAMOND_HELMET
+        amount: '1'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        enchants:
+        - DURABILITY;3
+        - PROTECTION_ENVIRONMENTAL;4
+        - WATER_WORKER;1
+        - OXYGEN;3
+        unbreakable: 'false'
+        preview_slot: 11
+      '12':
+        nbt:
+        - RepairCost;1;int
+        id: DIAMOND_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        enchants:
+        - DURABILITY;3
+        - PROTECTION_ENVIRONMENTAL;4
+        unbreakable: 'false'
+        preview_slot: 12
+      '13':
+        id: DIAMOND_LEGGINGS
+        amount: '1'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        enchants:
+        - DURABILITY;3
+        - PROTECTION_ENVIRONMENTAL;4
+        unbreakable: 'false'
+        preview_slot: 13
+      '14':
+        nbt:
+        - RepairCost;3;int
+        id: DIAMOND_BOOTS
+        amount: '1'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        enchants:
+        - DURABILITY;3
+        - DEPTH_STRIDER;3
+        - PROTECTION_ENVIRONMENTAL;4
+        - PROTECTION_FALL;4
+        unbreakable: 'false'
+        preview_slot: 14
+      '15':
+        id: DIAMOND_SWORD
+        amount: '1'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        enchants:
+        - DAMAGE_ALL;5
+        - DURABILITY;3
+        - FIRE_ASPECT;2
+        - SWEEPING_EDGE;3
+        - LOOT_BONUS_MOBS;3
+        unbreakable: 'false'
+        preview_slot: 15
+      '16':
+        nbt:
+        - Charged;false;boolean
+        id: CROSSBOW
+        amount: '1'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        enchants:
+        - QUICK_CHARGE;3
+        - MULTISHOT;1
+        - PIERCING;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 16
+      '17':
+        id: BOOKSHELF
+        amount: '32'
+        durability: '0'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 20
+      '18':
+        id: DIAMOND_HOE
+        amount: '1'
+        durability: '0'
+        name: '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&a'
+        lore:
+        - obtaied by &b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&a
+        enchants:
+        - DIG_SPEED;5
+        - DURABILITY;3
+        - LOOT_BONUS_BLOCKS;3
+        unbreakable: 'false'
+        preview_slot: 21
+      '19':
+        id: ENCHANTED_GOLDEN_APPLE
+        amount: '16'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 22
+      '20':
+        id: DIAMOND_SHOVEL
+        amount: '1'
+        durability: '0'
+        name: '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&a'
+        lore:
+        - obtaied by &b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&a
+        enchants:
+        - DIG_SPEED;5
+        - DURABILITY;3
+        - SILK_TOUCH;1
+        unbreakable: 'false'
+        preview_slot: 23
+      '21':
+        id: BOOKSHELF
+        amount: '32'
+        durability: '0'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 24
+      '22':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 30
+      '23':
+        id: ENCHANTING_TABLE
+        amount: '1'
+        durability: '0'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 31
+      '24':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 32
+      '25':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        name: '&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||'
+        lore:
+        - '&f&lobtained by &e&k'
+        - ''
+        - '&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k'
+        - ''
+        - ''
+        unbreakable: 'false'
+        preview_slot: 40
+  '&5&l&kl&d&l&kl&5&l&kl&2&n&lWᴀʀʀ&a&n&lɪᴏʀ&5&l&kl&d&l&kl&5&l&5&l&kl':
+    slot: 1
+    display_item: DIAMOND_CHESTPLATE
+    display_name: '&6&l&5&l&kl&d&l&kl&5&l&kl&2&n&lWᴀʀʀ&a&n&lɪᴏʀ&5&l&kl&d&l&kl&5&l&5&l&kl
+      &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.&5&l&kl&d&l&kl&5&l&kl&2&n&lWᴀʀʀ&a&n&lɪᴏʀ&5&l&kl&d&l&kl&5&l&5&l&kl
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&l&5&l&kl&d&l&kl&5&l&kl&2&n&lWᴀʀʀ&a&n&lɪᴏʀ&5&l&kl&d&l&kl&5&l&5&l&kl
+        &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    Items:
+      '1':
+        id: DIAMOND_HELMET
+        amount: '1'
+        durability: '0'
+        name: '&5&l&kl&d&l&kl&5&l&kl&2&l&nWᴀʀʀ&a&l&nɪᴏʀ&5&l&kl&d&l&kl&5&l&kl &2&l&kl&a&l&kl&2&l&kl&4&l&nHᴇʟᴍ&c&l&nᴇᴛ&2&l&kl&a&l&kl&2&l&k'
+        lore:
+        - '&5&l&kl&d&l&kl&5&l&kl&2&l&nWᴀʀʀ&a&l&nɪᴏʀ&5&l&kl&d&l&kl&5&l&kl'
+        enchants:
+        - DURABILITY;5
+        - PROTECTION_ENVIRONMENTAL;5
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: DIAMOND_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        name: '&5&l&kl&d&l&kl&5&l&kl&2&l&nWᴀʀʀ&a&l&nɪᴏʀ&5&l&kl&d&l&kl&5&l&kl &2&l&kl&a&l&kl&2&l&kl&4&l&nCʜᴇꜱᴛ&c&l&nᴘʟᴀᴛᴇ&2&l&kl&a&l&kl&2&l&kl'
+        lore:
+        - '&5&l&kl&d&l&kl&5&l&kl&2&l&nWᴀʀʀ&a&l&nɪᴏʀ&5&l&kl&d&l&kl&5&l&kl'
+        enchants:
+        - DURABILITY;5
+        - PROTECTION_ENVIRONMENTAL;5
+        unbreakable: 'false'
+        preview_slot: 1
+      '3':
+        id: DIAMOND_LEGGINGS
+        amount: '1'
+        durability: '0'
+        name: '&5&l&kl&d&l&kl&5&l&kl&2&l&nWᴀʀʀ&a&l&nɪᴏʀ&5&l&kl&d&l&kl&5&l&kl &2&l&kl&a&l&kl&2&l&kl&4&l&nCʜᴇꜱᴛ&c&l&nᴘʟᴀᴛᴇ&2&l&kl&a&l&kl&2&l&kl'
+        lore:
+        - '&5&l&kl&d&l&kl&5&l&kl&2&l&nWᴀʀʀ&a&l&nɪᴏʀ&5&l&kl&d&l&kl&5&l&kl'
+        enchants:
+        - DURABILITY;5
+        - PROTECTION_ENVIRONMENTAL;5
+        unbreakable: 'false'
+        preview_slot: 2
+      '4':
+        id: DIAMOND_BOOTS
+        amount: '1'
+        durability: '0'
+        name: '&5&l&kl&d&l&kl&5&l&kl&2&l&nWᴀʀʀ&a&l&nɪᴏʀ&5&l&kl&d&l&kl&5&l&kl &2&l&kl&a&l&kl&2&l&kl&4&l&nCʜᴇꜱᴛ&c&l&nᴘʟᴀᴛᴇ&2&l&kl&a&l&kl&2&l&kl'
+        lore:
+        - '&5&l&kl&d&l&kl&5&l&kl&2&l&nWᴀʀʀ&a&l&nɪᴏʀ&5&l&kl&d&l&kl&5&l&kl'
+        enchants:
+        - DURABILITY;5
+        - PROTECTION_ENVIRONMENTAL;5
+        unbreakable: 'false'
+        preview_slot: 3
+    display_item_glowing: true
+  '&5&l&kl&d&l&kl&5&l&kl&6&l&nDᴇᴍ&e&l&nᴏɴ&4&n&lSʟᴀ&c&n&lʏᴇʀ&5&l&kl&d&l&kl&5&l&kl':
+    slot: 7
+    display_item: DIAMOND_SWORD
+    display_name: '&6&l&5&l&kl&d&l&kl&5&l&kl&6&l&nDᴇᴍ&e&l&nᴏɴ&4&n&lSʟᴀ&c&n&lʏᴇʀ&5&l&kl&d&l&kl&5&l&kl
+      &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 604800
+    permission: kit.demon
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&l&5&l&kl&d&l&kl&5&l&kl&6&l&nDᴇᴍ&e&l&nᴏɴ&4&n&lSʟᴀ&c&n&lʏᴇʀ&5&l&kl&d&l&kl&5&l&kl
+        &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    Items:
+      '1':
+        id: DIAMOND_SWORD
+        amount: '1'
+        durability: '0'
+        name: '&5&l&kl&d&l&kl&5&l&kl &6&l&n Dᴇᴍ&e&l&nᴏɴ&4&l&nSʟᴀ&c&l&nʏᴇʀ &5&l&kl&d&l&kl&5&l&kl'
+        lore:
+        - '&5&l&kl&d&l&kl&5&l&kl &6&l&n Dᴇᴍ&e&l&nᴏɴ&4&l&nSʟᴀ&c&l&nʏᴇʀ &5&l&kl&d&l&kl&5&l&kl'
+        enchants:
+        - DURABILITY;3
+        - LOOT_BONUS_MOBS;3
+        - DAMAGE_ALL;5
+        - DAMAGE_UNDEAD;5
+        - FIRE_ASPECT;2
+        - MENDING;1
+        - SWEEPING_EDGE;3
+        - DAMAGE_ARTHROPODS;5
+        unbreakable: 'false'
+        preview_slot: 22
+    noBuyItem:
+      display_item: BARRIER
+    display_item_glowing: true
+  Divine_once_kit:
+    slot: 34
+    display_item: NETHERITE_INGOT
+    display_name: '&6&lDivine_once_kit &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 1
+    permission: playerkits.kit.Divine_once_kit
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lDivine_once_kit &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    noBuyItem:
+      display_item: BARRIER
+    Commands:
+    - economy give %player% 50000
+    auto_armor: true
+    one_time: true
+    one_time_buy: false
+    display_item_glowing: true
+    Items:
+      '1':
+        id: NETHERITE_SWORD
+        amount: '1'
+        durability: '0'
+        name: '&c&k||&r &b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&r &c&l&k||'
+        lore:
+        - obtained by &b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&a &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - DAMAGE_ALL;5
+        - DURABILITY;5
+        - MENDING;1
+        - LOOT_BONUS_MOBS;5
+        - SWEEPING_EDGE;3
+        unbreakable: 'false'
+        preview_slot: 4
+      '2':
+        id: NETHERITE_PICKAXE
+        amount: '1'
+        durability: '0'
+        name: '&c&k||&r &b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&r &c&l&k||'
+        lore:
+        - obtained by &b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&a &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - DIG_SPEED;6
+        - DURABILITY;6
+        - LOOT_BONUS_BLOCKS;4
+        - MENDING;1
+        unbreakable: 'false'
+        preview_slot: 13
+      '3':
+        id: NETHERITE_HELMET
+        amount: '1'
+        durability: '0'
+        name: '&c&k||&r &4<&6&lG&f&lO&a&lD&4>&r &c&l&k||'
+        lore:
+        - obtained by &b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&a &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;4
+        - PROTECTION_FIRE;4
+        - PROTECTION_EXPLOSIONS;4
+        - PROTECTION_PROJECTILE;4
+        - OXYGEN;3
+        - WATER_WORKER;1
+        - MENDING;1
+        unbreakable: 'false'
+        preview_slot: 20
+      '4':
+        id: NETHERITE_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        name: '&c&k||&r &4<&6&lG&f&lO&a&lD&4>&r &c&l&k||'
+        lore:
+        - obtained by &b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&a &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;4
+        - PROTECTION_FIRE;4
+        - PROTECTION_EXPLOSIONS;4
+        - PROTECTION_PROJECTILE;4
+        - MENDING;1
+        unbreakable: 'false'
+        preview_slot: 21
+      '5':
+        id: NETHERITE_SHOVEL
+        amount: '1'
+        durability: '0'
+        name: '&c&k||&r &b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&r &c&l&k||'
+        lore:
+        - obtained by &b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&a &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - DIG_SPEED;6
+        - DURABILITY;5
+        - MENDING;1
+        - SILK_TOUCH;1
+        unbreakable: 'false'
+        preview_slot: 22
+      '6':
+        id: NETHERITE_LEGGINGS
+        amount: '1'
+        durability: '0'
+        name: '&c&k||&r &4<&6&lG&f&lO&a&lD&4>&r &c&l&k||'
+        lore:
+        - obtained by &b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&a &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;4
+        - PROTECTION_FIRE;4
+        - PROTECTION_EXPLOSIONS;4
+        - PROTECTION_PROJECTILE;4
+        - MENDING;1
+        unbreakable: 'false'
+        preview_slot: 23
+      '7':
+        id: NETHERITE_BOOTS
+        amount: '1'
+        durability: '0'
+        name: '&c&k||&r &4<&6&lG&f&lO&a&lD&4>&r &c&l&k||'
+        lore:
+        - obtained by &b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&a &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;4
+        - PROTECTION_FIRE;4
+        - PROTECTION_EXPLOSIONS;4
+        - PROTECTION_PROJECTILE;4
+        - PROTECTION_FALL;4
+        - DEPTH_STRIDER;3
+        - MENDING;1
+        unbreakable: 'false'
+        preview_slot: 24
+      '8':
+        id: NETHERITE_AXE
+        amount: '1'
+        durability: '0'
+        name: '&c&k||&r &b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&r &c&l&k||'
+        lore:
+        - obtained by &b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&a &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - DIG_SPEED;6
+        - DURABILITY;5
+        - LOOT_BONUS_BLOCKS;4
+        - MENDING;1
+        unbreakable: 'false'
+        preview_slot: 31
+  godlike_kit_once:
+    slot: 32
+    display_item: DIAMOND
+    display_name: '&f<&b&lɢᴏᴅʟɪᴋᴇ&f>&r &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 604800
+    permission: playerkits.kit.godlike_kit_once
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lgodlike_kit_once &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    Items:
+      '1':
+        id: NETHERITE_PICKAXE
+        amount: '1'
+        durability: '0'
+        name: '&e&k|&f<&b&lɢᴏᴅʟɪᴋᴇ&f>&e&k|'
+        lore:
+        - obtained by &f<&b&lɢᴏᴅʟɪᴋᴇ&f>&r &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - DIG_SPEED;6
+        - DURABILITY;5
+        - MENDING;1
+        - SILK_TOUCH;1
+        unbreakable: 'false'
+        preview_slot: 3
+      '2':
+        id: NETHERITE_HELMET
+        amount: '1'
+        durability: '0'
+        name: '&e&k|&f<&b&lɢᴏᴅʟɪᴋᴇ&f>&e&k|'
+        lore:
+        - obtained by &f<&b&lɢᴏᴅʟɪᴋᴇ&f>&r &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;4
+        - PROTECTION_FIRE;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 4
+      '3':
+        id: NETHERITE_AXE
+        amount: '1'
+        durability: '0'
+        name: '&e&k|&f<&b&lɢᴏᴅʟɪᴋᴇ&f>&e&k|'
+        lore:
+        - obtained by &f<&b&lɢᴏᴅʟɪᴋᴇ&f>&r &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - DIG_SPEED;6
+        - DURABILITY;5
+        - MENDING;1
+        - SILK_TOUCH;1
+        unbreakable: 'false'
+        preview_slot: 5
+      '4':
+        id: NETHERITE_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        name: '&e&k|&f<&b&lɢᴏᴅʟɪᴋᴇ&f>&e&k|'
+        lore:
+        - obtained by &f<&b&lɢᴏᴅʟɪᴋᴇ&f>&r &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;4
+        - PROTECTION_FIRE;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 13
+      '5':
+        id: NETHERITE_LEGGINGS
+        amount: '1'
+        durability: '0'
+        name: '&e&k|&f<&b&lɢᴏᴅʟɪᴋᴇ&f>&e&k|'
+        lore:
+        - obtained by &f<&b&lɢᴏᴅʟɪᴋᴇ&f>&r &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;4
+        - PROTECTION_FIRE;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 22
+      '6':
+        id: NETHERITE_SWORD
+        amount: '1'
+        durability: '0'
+        name: '&e&k|&f<&b&lɢᴏᴅʟɪᴋᴇ&f>&e&k|'
+        lore:
+        - obtained by &f<&b&lɢᴏᴅʟɪᴋᴇ&f>&r &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - DAMAGE_ALL;5
+        - LOOT_BONUS_MOBS;4
+        - DURABILITY;4
+        - MENDING;1
+        - SWEEPING_EDGE;3
+        unbreakable: 'false'
+        preview_slot: 30
+      '7':
+        id: NETHERITE_BOOTS
+        amount: '1'
+        durability: '0'
+        name: '&e&k|&f<&b&lɢᴏᴅʟɪᴋᴇ&f>&e&k|'
+        lore:
+        - obtained by &f<&b&lɢᴏᴅʟɪᴋᴇ&f>&r &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;4
+        - PROTECTION_FIRE;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 31
+      '8':
+        id: NETHERITE_SHOVEL
+        amount: '1'
+        durability: '0'
+        name: '&e&k|&f<&b&lɢᴏᴅʟɪᴋᴇ&f>&e&k|'
+        lore:
+        - obtained by &f<&b&lɢᴏᴅʟɪᴋᴇ&f>&r &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - DIG_SPEED;6
+        - DURABILITY;5
+        - MENDING;1
+        - SILK_TOUCH;1
+        unbreakable: 'false'
+        preview_slot: 32
+    one_time: true
+    auto_armor: true
+    display_item_glowing: true
+  Supreme_once_kit:
+    slot: 30
+    display_item: IRON_INGOT
+    display_name: '&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.Supreme_once_kit
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lSupreme_once_kit &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    Items:
+      '1':
+        id: NETHERITE_SWORD
+        amount: '1'
+        durability: '0'
+        name: '&e&k|&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7>&e&k|'
+        lore:
+        - obtained by &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - DAMAGE_ALL;5
+        - DURABILITY;3
+        - FIRE_ASPECT;2
+        - SWEEPING_EDGE;3
+        - LOOT_BONUS_MOBS;3
+        unbreakable: 'false'
+        preview_slot: 4
+      '2':
+        id: NETHERITE_PICKAXE
+        amount: '1'
+        durability: '0'
+        name: '&e&k|&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7>&e&k|'
+        lore:
+        - obtained by &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - DURABILITY;3
+        - LOOT_BONUS_BLOCKS;3
+        - DIG_SPEED;5
+        unbreakable: 'false'
+        preview_slot: 13
+      '3':
+        nbt:
+        - RepairCost;1;int
+        id: NETHERITE_HELMET
+        amount: '1'
+        durability: '0'
+        name: '&e&k|&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7>&e&k|'
+        lore:
+        - obtained by &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - DURABILITY;3
+        - PROTECTION_ENVIRONMENTAL;4
+        - WATER_WORKER;1
+        - OXYGEN;3
+        unbreakable: 'false'
+        preview_slot: 20
+      '4':
+        nbt:
+        - RepairCost;1;int
+        id: NETHERITE_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        name: '&e&k|&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7>&e&k|'
+        lore:
+        - obtained by &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - DURABILITY;3
+        - PROTECTION_ENVIRONMENTAL;4
+        unbreakable: 'false'
+        preview_slot: 21
+      '5':
+        id: NETHERITE_SHOVEL
+        amount: '1'
+        durability: '0'
+        name: '&e&k|&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7>&e&k|'
+        lore:
+        - obtained by &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - DIG_SPEED;5
+        - DURABILITY;3
+        - SILK_TOUCH;1
+        unbreakable: 'false'
+        preview_slot: 22
+      '6':
+        id: NETHERITE_LEGGINGS
+        amount: '1'
+        durability: '0'
+        name: '&e&k|&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7>&e&k|'
+        lore:
+        - obtained by &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - DURABILITY;3
+        - PROTECTION_ENVIRONMENTAL;4
+        unbreakable: 'false'
+        preview_slot: 23
+      '7':
+        nbt:
+        - RepairCost;3;int
+        id: NETHERITE_BOOTS
+        amount: '1'
+        durability: '0'
+        name: '&e&k|&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7>&e&k|'
+        lore:
+        - obtained by &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - DURABILITY;3
+        - DEPTH_STRIDER;3
+        - PROTECTION_ENVIRONMENTAL;4
+        - PROTECTION_FALL;4
+        unbreakable: 'false'
+        preview_slot: 24
+      '8':
+        id: NETHERITE_AXE
+        amount: '1'
+        durability: '0'
+        name: '&e&k|&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7>&e&k|'
+        lore:
+        - obtained by &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - SILK_TOUCH;1
+        - DIG_SPEED;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 31
+      '9':
+        id: NETHERITE_HOE
+        amount: '1'
+        durability: '0'
+        name: '&e&k|&7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7>&e&k|'
+        lore:
+        - obtained by &7<&6ꜱ&eᴜ&6ᴘ&eʀ&6ᴇ&eᴍ&6ᴇ&7> &4&l!!&c&lᴏɴᴄᴇ ᴋɪᴛ&4&l!!
+        enchants:
+        - DIG_SPEED;5
+        - DURABILITY;3
+        - LOOT_BONUS_BLOCKS;3
+        unbreakable: 'false'
+        preview_slot: 40
+    display_item_glowing: true
+    one_time: true
+  LEKING001:
+    Items:
+      '1':
+        id: DEEPSLATE
+        amount: '2'
+        durability: '0'
+      '2':
+        id: GUNPOWDER
+        amount: '7'
+        durability: '0'
+      '3':
+        id: WOODEN_AXE
+        amount: '1'
+        durability: '0'
+      '4':
+        id: WOODEN_AXE
+        amount: '1'
+        durability: '0'
+      '5':
+        id: GRASS_BLOCK
+        amount: '2'
+        durability: '0'
+      '6':
+        id: GHAST_SPAWN_EGG
+        amount: '1'
+        durability: '0'
+    display_item: IRON_SWORD
+    display_name: '&6&lLEKING001 &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.LEKING001
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lLEKING001 &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'

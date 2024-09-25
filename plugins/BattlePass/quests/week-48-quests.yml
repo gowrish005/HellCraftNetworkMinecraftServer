@@ -1,0 +1,45 @@
+quests:
+  137: # Quest id
+    name: 'Killer' # The name given to the quest.
+    type: kill-mob # The type of quest
+    variable: slime:0 # The block the player must break.
+    required-progress: 50 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: golden_sword:0
+      amount: 1
+      name: '&eKiller'
+      lore:
+        - '&7Kill &e50 slime'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+  138: # Quest id
+    name: 'Craft' # The name given to the quest.
+    type: craft # The type of quest
+    variable: piston:0 # The block the player must break.
+    required-progress: 32 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCraft'
+      lore:
+        - '&7Craft &e32 piston'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  139: # Quest id
+    name: 'Craft' # The name given to the quest.
+    type: craft # The type of quest
+    variable: sticky_piston:0 # The block the player must break.
+    required-progress: 32 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCraft'
+      lore:
+        - '&7Craft &e32 sticky piston'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'

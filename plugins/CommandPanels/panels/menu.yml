@@ -1,0 +1,330 @@
+panels:
+  menu:
+    perm: cp.menu
+    rows: '6'
+    title: '&d&lMenu'
+    empty: gray_stained_glass_pane
+    item:
+      '0':
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        material: white_stained_glass_pane
+        commands:
+          - discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'
+      '1':
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        material: white_stained_glass_pane
+        commands:
+          - discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'
+      '2':
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        material: white_stained_glass_pane
+        commands:
+          - discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'
+      '3':
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        material: white_stained_glass_pane
+        commands:
+          - discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'
+      '4':
+        material: compass
+        name: '&b&lServer selector '
+        commands:
+          - dmenu open servers
+        lore:
+          - '&fTravel through the different'
+          - '&fServers to find your friends & Games.'
+          - '&7'
+          - '&e► &aClick to open Server selector '
+      '5':
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        material: white_stained_glass_pane
+        commands:
+          - Discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'
+      '6':
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        material: white_stained_glass_pane
+        commands:
+          - discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'
+      '7':
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        material: white_stained_glass_pane
+        commands:
+          - discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'
+      '8':
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        material: white_stained_glass_pane
+        commands:
+          - discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'
+      '9':
+        material: white_stained_glass_pane
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        commands:
+          - discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'
+      '13':
+        name: '&f&lPlayer Info'
+        material: player_head
+        lore:
+          - '&6&lPlayer Name : &6&l%player_name%'
+          - '&r'
+          - '&aBalance: &a&n%vault_eco_balance_formatted%'
+          - '&2Baltop Rank: &f# &2&n%essentials_baltop_rank%'
+          - '&eExp Level: &e&n%player_level%'
+          - '&cKills: &d%statistic_player_kills%'
+          - '&cDeaths: &d%statistic_deaths%'
+          - '&r'
+          - '&fFirst Join: &b&n%player_first_join_date%'
+          - '&r'
+          - '&7(click to teleport to spawn)'
+        commands:
+          - spawn
+          - cpc
+      '17':
+        material: white_stained_glass_pane
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        commands:
+          - discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'
+      '18':
+        material: white_stained_glass_pane
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        commands:
+          - discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'
+      '26':
+        material: white_stained_glass_pane
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        commands:
+          - discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'
+      '27':
+        material: white_stained_glass_pane
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        commands:
+          - discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'
+      '29':
+        material: blaze_rod
+        name: '&c&lAuction House'
+        lore:
+          - '&6&lCommands available -'
+          - '&r'
+          - '&e/ah'
+          - '&e/ah sell <price> [<amount>]'
+          - '&e/ah sellinventory <price>'
+          - '&r'
+          - '&7(Click to open auction house)'
+        commands:
+          - ah
+      '30':
+        material: clock
+        name: '&d&lRewards'
+        lore:
+          - '&6&lCommands available -'
+          - '&r'
+          - /rewards - Open the rewards menu
+          - /rewards claim - Claims available rewards
+          - '&r'
+          - '&7(Click to open rewards menu)'
+        commands:
+          - rewards
+      '31':
+        material: golden_horse_armor
+        name: '&d&lRandom Teleporter'
+        lore:
+          - '&6&lCommands available -'
+          - '&r'
+          - '&e/rtp - Randomly teleport!'
+          - '&e/rtp biome <biome> (Needs Rank Perks)'
+          - '&r'
+          - '&7(Click to teleport to a random location in Main world)'
+        commands:
+          - rtp
+      '32':
+        name: '&c&lPlayer Levels'
+        lore:
+          - '&c&lNot Available yet!'
+          - '&r'
+          - '&4It will be added soon.'
+          - '&4Staff are working on it.'
+        material: glass_pane
+        commands:
+          - cpc
+      '33':
+        material: emerald
+        name: '&a&lShop '
+        lore:
+          - '&6&lCommands available -'
+          - '&r'
+          - '&e/shop (Open the main shop)'
+          - '&e/shop <section> (Open a shop section directly)'
+          - '&e/sellall inventory (Sell all items from your inventory)'
+          - '&e/sellall <item> (Sell items that match the material)'
+          - '&e/sellall hand (Sell items holding in your hand)'
+          - '&r'
+          - '&7(Click to open Shop)'
+        commands:
+          - shop
+      '35':
+        material: white_stained_glass_pane
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        commands:
+          - discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'
+      '36':
+        material: white_stained_glass_pane
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        commands:
+          - discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'
+      '44':
+        material: white_stained_glass_pane
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        commands:
+          - discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'
+      '45':
+        material: white_stained_glass_pane
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        commands:
+          - discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'
+      '46':
+        material: white_bed
+        commands:
+          - home
+        name: '&d&lHomes'
+        lore:
+          - '&r'
+          - '&fThis will open a menu.'
+          - '&fwhere you can choose a home,'
+          - '&fand teleport there.'
+          - '&r'
+          - '&7(Click to open homes menu)'
+      '47':
+        material: yellow_wool
+        name: '&d&lTheme Color selector'
+        commands:
+          - ezcolors
+        lore:
+          - '&r'
+          - '&fThis will open a menu.'
+          - '&fwhere you can change your &etheme&f,'
+          - '&fcolor which will affect,'
+          - '&fYour chat color and name in &asocreboard&f.'
+          - '&fand in some more places.'
+          - '&7(Click to Open Themes Menu)'
+      '48':
+        material: glow_item_frame
+        name: '&d&lScore Board '
+        commands:
+          - tab scoreboard toggle
+          - cpc
+        lore:
+          - '&fThis will toggle your scoreboard'
+          - '&7(Click to Toggle scoreboard)'
+      '49':
+        material: name_tag
+        name: '&e&lNick Disabler'
+        commands:
+          - nick off
+          - cpc
+        lore:
+          - '&fThis will reset any type of Nick Name You have.'
+          - '&7(Click to disable Nick)'
+      '50':
+        material: diamond_chestplate
+        name: '&6&lPlayer Kits'
+        commands:
+          - kit
+        lore:
+          - '&fThis will open a GUI where you can view & claim kits.'
+          - '&7(Click to open kits menu)'
+      '51':
+        material: ender_pearl
+        name: '&c&lWarps'
+        commands:
+          - cp Warp
+        lore:
+          - '&fThis will open a menu with server''s main warps'
+          - '&7(click to see warps)'
+      '52':
+        material: diamond
+        commands:
+          - pw
+        name: '&b&lPlayer Warps'
+        lore:
+          - '&r'
+          - '&fThis will open a menu.'
+          - '&fwhere you can choose a Player warp,'
+          - '&fand teleport there.'
+          - '&r'
+          - '&7(Click to open player warps menu)'
+      '53':
+        material: white_stained_glass_pane
+        name: >-
+          &x&0&0&f&b&3&7&lᴘ&x&0&0&f&b&3&c&lʟ&x&0&0&f&b&4&1&lᴀ&x&0&0&f&b&4&6&lʏ&x&0&0&f&b&4&a&l.&x&0&0&f&c&4&f&lʜ&x&0&0&f&c&5&4&lᴇ&x&0&0&f&c&5&9&lʟ&x&0&0&f&c&5&e&lʟ&x&0&0&f&c&6&3&l-&x&0&0&f&c&6&7&lᴄ&x&0&0&f&c&6&c&lʀ&x&0&0&f&c&7&1&lᴀ&x&0&0&f&c&7&6&lꜰ&x&0&0&f&c&7&b&lᴛ&x&0&0&f&d&8&0&l.&x&0&0&f&d&8&4&lᴘ&x&0&0&f&d&8&9&lʟ&x&0&0&f&d&8&e&lᴀ&x&0&0&f&d&9&3&lʏ
+        commands:
+          - discord
+          - cpc
+        lore:
+          - '&e► &aClick to get discord server link.'

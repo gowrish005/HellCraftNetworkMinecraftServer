@@ -1,0 +1,31 @@
+quests:
+  59: # Quest id
+    name: 'Farmer' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: pumpkin:0 # The block the player must break.
+    required-progress: 500 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: pumpkin:0
+      amount: 1
+      name: '&eFarmer'
+      lore:
+        - '&7Break &e500 pumpkin'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+ 
+  60: # Quest id
+    name: 'Craft' # The name given to the quest.
+    type: craft # The type of quest
+    variable: bread:0 # The block the player must break.
+    required-progress: 64 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCraft'
+      lore:
+        - '&7Craft &e64 bread'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'

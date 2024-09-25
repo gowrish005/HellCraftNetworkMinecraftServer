@@ -1,0 +1,145 @@
+quests:
+  202: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: black_concrete_powder:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 black concrete powder'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  203: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: blue_concrete_powder:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 blue concrete powder'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  204: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: brown_concrete_powder:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 brown concrete powder'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  205: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: cyan_concrete_powder:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 cyan concrete powder'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  206: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: gray_concrete_powder:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 gray concrete powder'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  207: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: green_concrete_powder:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 green concrete powder'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  208: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: light_blue_concrete_powder:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 light blue concrete powder'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  209: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: lime_concrete_powder:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 lime concrete powder'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  210: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: purple_concrete_powder:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 purple concrete powder'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+
+
+
+
+
+
+
+ 
+ 

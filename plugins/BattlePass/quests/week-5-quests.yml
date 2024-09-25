@@ -1,0 +1,30 @@
+quests:
+  14: # Quest id
+    name: 'Vote' # The name given to the quest.
+    type: votifier_vote # The type of quest
+    variable: none # The block the player must break.
+    required-progress: 5 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: tripwire_hook:0
+      amount: 1
+      name: '&eVote'
+      lore:
+        - '&7vote &e5 times'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+
+  15: # Quest id
+    name: 'Grinder' # The name given to the quest.
+    type: kill-mob # The type of quest
+    variable: cow # The block the player must break.
+    required-progress: 32 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: golden_sword:0
+      amount: 1
+      name: '&eGrinder'
+      lore:
+        - '&7kill &e32 cows'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'  

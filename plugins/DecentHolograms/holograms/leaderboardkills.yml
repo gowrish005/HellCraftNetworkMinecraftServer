@@ -1,0 +1,136 @@
+location: spawn:55.521:0.000:-37.500
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: netherite_sword !ENCHANTED'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴍ&#ffb020&lᴏ&#ffbc40&lѕ&#ffc760&lᴛ &#ffd280&lᴋ&#ffdd9f&lɪ&#ffe9bf&lʟ&#fff4df&lʟ&#ffffff&lѕ
+      &#e5f9e5&l- &#ccf3cc&lᴀ&#b2ecb2&lʟ&#99e699&lʟ &#7fe07f&lᴛ&#65da65&lɪ&#4cd34c&lᴍ&#32cd32&lᴇ'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '#FFA500#1 &f%ajlb_lb_statistic_player_kills_1_alltime_name% &8| #32CD32%ajlb_lb_statistic_player_kills_1_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#2 &f%ajlb_lb_statistic_player_kills_2_alltime_name% &8| #32CD32%ajlb_lb_statistic_player_kills_2_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#3 &f%ajlb_lb_statistic_player_kills_3_alltime_name% &8| #32CD32%ajlb_lb_statistic_player_kills_3_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#4 &f%ajlb_lb_statistic_player_kills_4_alltime_name% &8| #32CD32%ajlb_lb_statistic_player_kills_4_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#5 &f%ajlb_lb_statistic_player_kills_5_alltime_name% &8| #32CD32%ajlb_lb_statistic_player_kills_5_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#6 &f%ajlb_lb_statistic_player_kills_6_alltime_name% &8| #32CD32%ajlb_lb_statistic_player_kills_6_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#7 &f%ajlb_lb_statistic_player_kills_7_alltime_name% &8| #32CD32%ajlb_lb_statistic_player_kills_7_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#8 &f%ajlb_lb_statistic_player_kills_8_alltime_name% &8| #32CD32%ajlb_lb_statistic_player_kills_8_alltime_value%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&fʏᴏᴜʀ ᴋɪʟʟѕ &8: &e%statistic_player_kills%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴄ&#ffb42b&lʟ&#ffc355&lɪ&#ffd280&lᴄ&#ffe1aa&lᴋ &#fff0d5&lᴛ&#ffffff&lᴏ
+      &#ddf7dd&lᴛ&#bbeebb&lᴏ&#99e699&lɢ&#76de76&lɢ&#54d554&lʟ&#32cd32&lᴇ'
+    height: 0.3
+  - content: '#FFFFFF&lALL TIME&r &8- &7Monthly&r &8- &7Weekly'
+    height: 0.3
+  actions:
+    LEFT:
+    - NEXT_PAGE
+    RIGHT:
+    - NEXT_PAGE
+- lines:
+  - content: '#ICON: netherite_sword !ENCHANTED'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴍ&#ffb020&lᴏ&#ffbc40&lѕ&#ffc760&lᴛ &#ffd280&lᴋ&#ffdd9f&lɪ&#ffe9bf&lʟ&#fff4df&lʟ&#ffffff&lѕ
+      &#e5f9e5&l- &#ccf3cc&lᴍ&#b2ecb2&lᴏ&#99e699&lɴ&#7fe07f&lᴛ&#65da65&lʜ&#4cd34c&lʟ&#32cd32&lʏ'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '#FFA500#1 &f%ajlb_lb_statistic_player_kills_1_monthly_name% &8| #32CD32%ajlb_lb_statistic_player_kills_1_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#2 &f%ajlb_lb_statistic_player_kills_2_monthly_name% &8| #32CD32%ajlb_lb_statistic_player_kills_2_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#3 &f%ajlb_lb_statistic_player_kills_3_monthly_name% &8| #32CD32%ajlb_lb_statistic_player_kills_3_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#4 &f%ajlb_lb_statistic_player_kills_4_monthly_name% &8| #32CD32%ajlb_lb_statistic_player_kills_4_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#5 &f%ajlb_lb_statistic_player_kills_5_monthly_name% &8| #32CD32%ajlb_lb_statistic_player_kills_5_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#6 &f%ajlb_lb_statistic_player_kills_6_monthly_name% &8| #32CD32%ajlb_lb_statistic_player_kills_6_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#7 &f%ajlb_lb_statistic_player_kills_7_monthly_name% &8| #32CD32%ajlb_lb_statistic_player_kills_7_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#8 &f%ajlb_lb_statistic_player_kills_8_monthly_name% &8| #32CD32%ajlb_lb_statistic_player_kills_8_monthly_value%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&fʏᴏᴜʀ ᴋɪʟʟѕ &8: &e%statistic_player_kills%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴄ&#ffb42b&lʟ&#ffc355&lɪ&#ffd280&lᴄ&#ffe1aa&lᴋ &#fff0d5&lᴛ&#ffffff&lᴏ
+      &#ddf7dd&lᴛ&#bbeebb&lᴏ&#99e699&lɢ&#76de76&lɢ&#54d554&lʟ&#32cd32&lᴇ'
+    height: 0.3
+  - content: '&7ALL TIME&r &8- #FFFFFF&lMonthly&r &8- &7Weekly'
+    height: 0.3
+  actions:
+    LEFT:
+    - NEXT_PAGE
+    RIGHT:
+    - NEXT_PAGE
+- lines:
+  - content: '#ICON: netherite_sword !ENCHANTED'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴍ&#ffb122&lᴏ&#ffbd44&lѕ&#ffc966&lᴛ &#ffd588&lᴋ&#ffe1aa&lɪ&#ffedcc&lʟ&#fff9ee&lʟ&#f1fcf1&lѕ
+      &#d6f5d6&l- &#bbeebb&lᴡ&#9fe89f&lᴇ&#84e184&lᴇ&#69da69&lᴋ&#4dd44d&lʟ&#32cd32&lʏ'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '#FFA500#1 &f%ajlb_lb_statistic_player_kills_1_weekly_name% &8| #32CD32%ajlb_lb_statistic_player_kills_1_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#2 &f%ajlb_lb_statistic_player_kills_2_weekly_name% &8| #32CD32%ajlb_lb_statistic_player_kills_2_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#3 &f%ajlb_lb_statistic_player_kills_3_weekly_name% &8| #32CD32%ajlb_lb_statistic_player_kills_3_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#4 &f%ajlb_lb_statistic_player_kills_4_weekly_name% &8| #32CD32%ajlb_lb_statistic_player_kills_4_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#5 &f%ajlb_lb_statistic_player_kills_5_weekly_name% &8| #32CD32%ajlb_lb_statistic_player_kills_5_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#6 &f%ajlb_lb_statistic_player_kills_6_weekly_name% &8| #32CD32%ajlb_lb_statistic_player_kills_6_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#7 &f%ajlb_lb_statistic_player_kills_7_weekly_name% &8| #32CD32%ajlb_lb_statistic_player_kills_7_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#8 &f%ajlb_lb_statistic_player_kills_8_weekly_name% &8| #32CD32%ajlb_lb_statistic_player_kills_8_weekly_value%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&fʏᴏᴜʀ ᴋɪʟʟѕ &8: &e%statistic_player_kills%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴄ&#ffb42b&lʟ&#ffc355&lɪ&#ffd280&lᴄ&#ffe1aa&lᴋ &#fff0d5&lᴛ&#ffffff&lᴏ
+      &#ddf7dd&lᴛ&#bbeebb&lᴏ&#99e699&lɢ&#76de76&lɢ&#54d554&lʟ&#32cd32&lᴇ'
+    height: 0.3
+  - content: '&7ALL TIME&r &8- &7Monthly&r &8- #FFFFFF&lWeekly'
+    height: 0.3
+  actions:
+    LEFT:
+    - PAGE:leaderboardkills:1
+    RIGHT:
+    - PAGE:leaderboardkills:1
+
+

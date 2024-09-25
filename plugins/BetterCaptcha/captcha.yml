@@ -1,0 +1,119 @@
+#These are the available captchas. YOU CAN CREATE AS MANY CAPTCHAS AS YOU WANT. ONLY ONE WILL BE USED AT THE SAME TIME.
+#If all of them are disabled. The plugin will disable it self.
+#Available captcha types:
+# UNIQUE - Only one item is added using listed materials. That item will be picked as correct item.
+# RANDOM - Random items will be added using listed materials. One will be picked as correct item.
+# STATIC - Random items will be added using listed materials. The selected item will be picked as correct item.
+# BETTER_HEADS - Random heads from the plugin "BetterHeads". Amount must be at least 1.
+#You can create as many captchas you want. Keep in mind, only one will be displayed at the same time.
+#REMINDER: Repeated materials WILL BE IGNORED.
+#This plugin supports my other plugin called "BetterHeads" for custom textured heads using Head ID. Example: "BETTER_HEADS|1000"
+#It also supports custom textured heads using texture url. (Requires NBTAPI installed)
+#Example: "CUSTOM_HEAD|ewogICJ0aW1lc3RhbXAiIDogMTU5NDQ0NjkyMDI5NiwKICAicHJvZmlsZUlkIiA6ICJlMWMxYTE5NDdlODY0MTRmODZiYjQyZDgyYTIxY2ZiOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbG9uc29BbGlhZ2EiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTY4YWE3NGNjODg1NzgwNjBkMGZlM2JkOTA4YjM0ZjY5ZjEyZTA3ZjFmODljNWRkYzE1ZTZiZjYwZjA0Y2NjNiIKICAgIH0KICB9Cn0=|&ePlugin developer"
+Captchas:
+  example-of-unique:
+    Enabled: true
+    Type: UNIQUE
+    #Available placeholders for title are:
+    # {MATERIAL} - Replaced by material name, example: DIAMOND_SWORD
+    # {NAME} - Replaced by material name with format, example: Diamond sword (In case you use CUSTOM_HEAD or BETTERHEADS as material, it will display the name of the head)
+    Title: "&8Click the {NAME}!"
+    Items:
+    - "DIAMOND"
+    - "EMERALD"
+    - "ENDER_EYE"
+    - "IRON_INGOT"
+    - "GOLD_INGOT"
+    - "BLAZE_POWDER"
+    - "REDSTONE"
+    - "PAPER"
+    - "BOOK"
+    - "EYE_OF_ENDER"
+  example-of-random:
+    Enabled: true
+    Type: RANDOM
+    Title: "&8Click the {NAME}!"
+    #Amount of items that will be displayed ADDITIONAL to the correct item. If amount if 4, then you'll see 1 (correct item) + 4 (incorrect items) = 5 items.
+    #If materials list is lower than amount specified (If Amount is 4, you need at least 5 valid items, one will be the correct item), then captcha will be disabled. (Due to security reasons)
+    Amount: 6
+    Items:
+    - "DIAMOND"
+    - "DIAMOND_HELMET"
+    - "DIAMOND_CHESTPLATE"
+    - "DIAMOND_LEGGINGS"
+    - "DIAMOND_BOOTS"
+    - "DIAMOND_PICKAXE"
+    - "DIAMOND_SWORD"
+    - "DIAMOND_AXE"
+    - "DIAMOND_HORSE_ARMOR"
+  example-of-static:
+    Enabled: true
+    Type: STATIC
+    Title: "&8Click the {NAME}!"
+    Selected: CHICKEN
+    Amount: 6
+    Items:
+    - "RAW_BEEF"
+    - "COOKED_BEEF"
+    - "BREAD"
+    - "MELON_BLOCK"
+    - "RAW_FISH"
+    - "MUSHROOM_SOUP"
+    - "CARROT_ITEM"
+    - "BEEF"
+    - "SALMON"
+    - "COD"
+    - "COOKED_FISH"
+  example-of-better-heads:
+    Enabled: true
+    Type: BETTER_HEADS
+    Title: "&8Click the {NAME}!"
+    Amount: 15
+  example-of-static-with-custom-head:
+    Enabled: true
+    Type: STATIC
+    Title: "&8Click the {NAME}!"
+    Selected: "CUSTOM_HEAD|ewogICJ0aW1lc3RhbXAiIDogMTU5NDQ0NjkyMDI5NiwKICAicHJvZmlsZUlkIiA6ICJlMWMxYTE5NDdlODY0MTRmODZiYjQyZDgyYTIxY2ZiOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbG9uc29BbGlhZ2EiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTY4YWE3NGNjODg1NzgwNjBkMGZlM2JkOTA4YjM0ZjY5ZjEyZTA3ZjFmODljNWRkYzE1ZTZiZjYwZjA0Y2NjNiIKICAgIH0KICB9Cn0=|&ePlugin developer"
+    Amount: 6
+    Items:
+    - "CUSTOM_HEAD|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNjNmQwMDFjOGFmNmYwZWYxYmNkMzE2MzJlOTdmNmI0MWY4ZTE4ZWZkMDk1NGNmOTdiMThjMGIyZDNlNTllOSJ9fX0=|&eBlue bird"
+    - "CUSTOM_HEAD|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGM1ZmZmYzJlOTc4ZDYzOWM3ODI2MjYyYTI1YzA4YTJiMGI5ZmZmNTM2MGUzNzVjMDA0Yjc5OWIzZmY2NzkyNiJ9fX0=|&eSquid"
+    - "CUSTOM_HEAD|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2UxMTkwZThhZTdkODc5MGZlMmI1ODAwNzQ0YWUyMzUyNTYwMDg4NTkwMTE1MDQ1YmEwYzVlOGM0ZTMyZDE2MiJ9fX0=|&eAngry bee"
+    - "CUSTOM_HEAD|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmYzYTgwYTJlMzk5NjJmODFlNDllMWY2ZWQ4Y2IwZmI4ZDIyZTY1MzI0NzZiMDBmYjQwYzFjNzJjY2M4OWFjNCJ9fX0=|&eIron golem"
+    - "CUSTOM_HEAD|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTI3YTY4YzczNTY3NGYzY2JkNzE2NWQyMWNjZjYxY2MxN2Y0MDk1ZDhjNWU1M2Y3NmEzYTQ1MDZlYzk0NGEyYSJ9fX0=|&ePopcorn"
+    - "CUSTOM_HEAD|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2Y0YjhjOWYzMzc4NjkxNTllZDMxYTcxYmQ1MDNiNzI1YjJlZTI2NGE2ZWIxMWU1OGU2NTdlMWE4YTk5YyJ9fX0=|&eTV"
+  example-of-random-with-betterhead:
+    Enabled: true
+    Type: RANDOM
+    Title: "&8Click the {NAME}!"
+    Amount: 10
+    Items:
+    - "BETTER_HEADS|21255"
+    - "BETTER_HEADS|20597"
+    - "BETTER_HEADS|5089"
+    - "BETTER_HEADS|8634"
+    - "BETTER_HEADS|8946"
+    - "BETTER_HEADS|1688"
+    - "BETTER_HEADS|1030"
+    - "BETTER_HEADS|5035"
+    - "BETTER_HEADS|10350"
+    - "BETTER_HEADS|1950"
+    - "BETTER_HEADS|9456"
+    - "BETTER_HEADS|9576"
+    - "BETTER_HEADS|6452"
+    - "BETTER_HEADS|14963"
+  example-of-random-with-items-with-displayname-and-durability:
+    Enabled: true
+    Type: RANDOM
+    Title: "&8Click the {NAME}!"
+    Amount: 5
+    Items:
+    - "DIAMOND_SWORD:200|&6&lGod sword"
+    - "BOW:20|&5&lGod bow"
+    - "IRON_CHESTPLATE:120|&9&lCommon bow"
+    - "GOLDEN_LEGGINGS:50|&a&lRare leggings"
+    - "NETHERITE_HELMET:190|&5&lDivine helmet"
+    - "SHIELD:60|&a&lRare shield"
+    - "ARROW|&2&lPoison arrow"
+    - "NETHERITE_AXE:90|&e&lMjolnir"
+    - "LEATHER_BOOTS:75|&5&lFlash boots"

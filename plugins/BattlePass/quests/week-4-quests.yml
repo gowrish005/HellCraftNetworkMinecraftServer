@@ -1,0 +1,93 @@
+quests:
+   8:
+    name: 'Grinder'
+    type: kill-mob
+    variable: zombie
+    required-progress: 15
+    points: 10
+    item:
+      material: golden_sword:0
+      name: '&eGrinder'
+      lore:
+        - '&7Kill &e15 zombies'
+        - ''
+        - '&7Progress &e%total_progress%&7/&e%required_progress%'
+
+   9:
+    name: 'Grinder'
+    type: kill-mob
+    variable: spider
+    required-progress: 5
+    points: 10
+    item:
+      material: golden_sword:0
+      name: '&eGrinder'
+      lore:
+        - '&7Kill &e5 spiders'
+        - ''
+        - '&7Progress &e%total_progress%&7/&e%required_progress%'
+
+   10:
+     name: 'Grinder'
+     type: kill-mob
+     variable: skeleton
+     required-progress: 32
+     points: 10
+     item:
+       material: golden_sword:0
+       name: '&eGrinder'
+       lore:
+         - '&7Kill &e32 skeletons'
+         - ''
+         - '&7Progress &e%total_progress%&7/&e%required_progress%'
+
+   11: # Quest id
+     name: 'Lumberjack' # The name given to the quest.
+     type: block-break # The type of quest
+     variable: birch_log:0 # The block the player must break.
+     required-progress: 32 # The amount of times the player should break the coal ore block.
+     points: 10 # The amount of points that will be rewarded
+     item: # The item that will be displayed in menus.
+       material: diamond_axe:0
+       amount: 1
+       name: '&eLumberjack'
+       lore:
+         - '&7Break &e32 birch log'
+         - ''
+         - '&7Progress &e%progress_bar%'
+
+   12: # Quest id
+     name: 'Lumberjack' # The name given to the quest.
+     type: block-break # The type of quest
+     variable: acacia_log:0 # The block the player must break.
+     required-progress: 32 # The amount of times the player should break the coal ore block.
+     points: 10 # The amount of points that will be rewarded
+     item: # The item that will be displayed in menus.
+       material: diamond_axe:0
+       amount: 1
+       name: '&eLumberjack'
+       lore:
+         - '&7Break &e32 acacia log'
+         - ''
+         - '&7Progress &e%progress_bar%'
+
+   13: # Quest id
+     name: 'Lumberjack' # The name given to the quest.
+     type: block-break # The type of quest
+     variable: jungle_log:0 # The block the player must break.
+     required-progress: 32 # The amount of times the player should break the coal ore block.
+     points: 10 # The amount of points that will be rewarded
+     item: # The item that will be displayed in menus.
+       material: diamond_axe:0
+       amount: 1
+       name: '&eLumberjack'
+       lore:
+         - '&7Break &e32 jungle log'
+         - ''
+         - '&7Progress &e%progress_bar%'
+
+
+
+
+
+ 

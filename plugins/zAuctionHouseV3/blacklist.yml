@@ -1,0 +1,58 @@
+#########################################################################################################################################
+#
+#
+#   Sponsor: https://serveur-minecraft-vote.fr/
+#   5€ gift code on Minecraft Vote Server : ZAUCTIONHOUSE (https://serveur-minecraft-vote.fr/utiliser/un/code/cadeau?code=ZAUCTIONHOUSE)
+#
+#   Documentation: https://zauctionhouse.groupez.dev/
+#   Discord: https://discord.groupez.dev/
+#
+#   You can find the list of blacklisted items here. Here are the different types of blacklist:
+#   - zauctionhouse:similar_model_id
+#   - zauctionhouse:names_contains
+#   - zauctionhouse:zauctionhouse:contains_lore
+#   - zauctionhouse:material_similar
+#
+#   Documentation: https://zauctionhouse.groupez.dev/blacklist
+#
+#########################################################################################################################################
+
+blacklists:
+
+    # Blacklist items if their name contains an element
+  - type: "zauctionhouse:names_contains"
+    key: "Custom Sword"
+      
+    # Blacklist of items with a custom model id
+  - type: "zauctionhouse:similar_model_id"
+    key: PAPER # Material name (https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html)
+    modelId: 10001    
+    
+    # Blacklist of items with lore contains key
+  - type: "zauctionhouse:contains_lore"
+    key: "Click to open a menu where you can."
+
+  - type: "zauctionhouse:contains_lore"
+    key: "customize & get more info!"
+
+  - type: "zauctionhouse:contains_lore"
+    key: "About survival mode in"
+
+  - type: "zauctionhouse:contains_lore"
+    key: "Hell Craft network"
+
+  - type: "zauctionhouse:contains_lore"
+    key: "&e&lClick to open a menu where you can."
+
+  - type: "zauctionhouse:contains_lore"
+    key: "&aView, &dcustomize &f& get more &binfo&f!"
+
+  - type: "zauctionhouse:contains_lore"
+    key: "About survival mode in"
+
+  - type: "zauctionhouse:contains_lore"
+    key: "&#00FB37H&#00FB3De&#00FB43l&#00FB49l &#00FC50C&#00FC56r&#00FC5Ca&#00FC62f&#00FC68t &#00FC6En&#00FC74e&#00FC7At&#00FD81w&#00FD87o&#00FD8Dr&#00FD93k." 
+    
+    # Blacklist of items with lore contains key
+  - type: "zauctionhouse:material_similar"
+    key: CLOCK # (https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html)

@@ -1,0 +1,26 @@
+location: spawn:-2.019:7.143:-24.428
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&c&lIMPORTANT NOTICE'
+    height: 0.3
+  - content: '&6ʙᴜʏɪɴɢ ᴄʀᴀᴛᴇ ᴋᴇʏѕ ᴄᴀɴ ʙᴇ ᴀ ꜰᴏʀᴍ ᴏꜰ &4&lɢᴀᴍʙʟɪɴɢ'
+    height: 0.3
+  - content: '&eᴘʟᴇᴀѕᴇ ʙᴇ ᴀᴡᴀʀᴇ ᴏꜰ ᴛʜᴇ ʀɪѕᴋѕ ɪɴᴠᴏʟᴠᴇᴅ.'
+    height: 0.3
+  - content: '&e ᴛʜɪɴᴋ ᴛᴡɪᴄᴇ ʙᴇꜰᴏʀᴇ ѕᴘᴇɴᴅɪɴɢ ʀᴇᴀʟ &a&lᴍᴏɴᴇʏ.'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&4&l!!ʙᴇ ᴄᴀʀᴇꜰᴜʟ ᴡʜɪʟᴇ ᴏᴘᴇɴɪɴɢ ᴄʀᴀᴛᴇѕ!!'
+    height: 0.3
+  - content: '&c&nᴏᴛʜᴇʀ ᴘʟᴀʏᴇʀ ᴍɪɢʜᴛ ᴘɪᴄᴋᴜᴘ ʏᴏᴜ ɪᴛᴇᴍѕ'
+    height: 0.3
+  - content: '&f&nɪꜰ ᴄʟᴏѕᴇ ᴇɴᴏᴜɢʜ'
+    height: 0.3
+  actions: {}

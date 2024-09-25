@@ -1,0 +1,31 @@
+quests:
+  135: # Quest id
+    name: 'Mine' # The name given to the quest.
+    type: block_break # The type of quest
+    variable: nether_quartz_ore:0 # The block the player must break.
+    required-progress: 512 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_pickaxe:0
+      amount: 1
+      name: '&eMine'
+      lore:
+        - '&7Break &e512 nether quartz'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+  136: # Quest id
+    name: 'Craft' # The name given to the quest.
+    type: craft # The type of quest
+    variable: soul_torch:0 # The block the player must break.
+    required-progress: 128 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCraft'
+      lore:
+        - '&7Craft &e128 soul torch'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+ 

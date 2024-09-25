@@ -1,0 +1,16 @@
+kits:
+  claim:
+    delay: 3600
+    items:
+    - golden_shovel 1 name:&6&lClaim&e&lTool lore:&a&l&nIndianMC
+    - stick 1 name:&6&lClaim&e&lTool&fStick lore:&a&l&nIndianMC
+  claimTools:
+    delay: 3600
+    items:
+    - golden_shovel 1 name:&6&lClaim&e&lTool lore:&a&l&nIndianMC
+    - stick 1 name:&6&lClaim&e&lTool&fStick lore:&a&l&nIndianMC
+  mythical:
+    delay: 5
+    items:
+    - tripwire_hook 4 name:&6Mythical_key_Crate_Key
+    - enchanting_table 1 lore:&f&lobtained_by_&e&k||&b<&6&lᴅᴇ&f&lᴠɪ&a&lɴᴇ&b>&e&k||

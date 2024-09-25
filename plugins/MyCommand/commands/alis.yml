@@ -1,0 +1,113 @@
+withdraw:
+  command: /withdraw
+  type: RUN_COMMAND
+  runcmd:
+  - /papercurrency withdraw $arg1
+  register: true
+  permission-required: false
+  required_args: 1
+  require_all_arguments: true
+
+playerglow:
+  command: /playerglow
+  type: RUN_COMMAND
+  runcmd:
+  - /eglow
+  register: true
+  permission-required: false
+
+banknote:
+  command: /banknote
+  type: RUN_COMMAND
+  runcmd:
+  - /papercurrency withdraw $arg1
+  register: true
+  permission-required: false
+  required_args: 1
+  require_all_arguments: true
+
+withdrawall:
+  command: /withdrawall
+  type: RUN_COMMAND
+  runcmd:
+  - /pcmax withdraw
+  register: true
+  permission-required: false
+  required_args: 1
+  require_all_arguments: false
+
+withdrawxp:
+  command: /withdrawxp
+  type: RUN_COMMAND
+  runcmd:
+  - /papercurrency withdraw $arg1 xp
+  register: true
+  permission-required: false
+  required_args: 1
+  require_all_arguments: true
+
+withdrawallxp:
+  command: /withdrawallxp
+  type: RUN_COMMAND
+  runcmd:
+  - /pcmax withdraw xp
+  register: true
+  permission-required: false
+  required_args: 1
+  require_all_arguments: false
+
+giftsend:
+  command: /giftsend
+  type: RUN_COMMAND
+  runcmd:
+  - /ezg send $arg1
+  register: true
+  permission-required: false
+  required_args: 1
+  require_all_arguments: true
+
+mail:
+  command: /mail
+  type: RUN_COMMAND
+  runcmd:
+  - /ezg send $arg1
+  register: true
+  permission-required: false
+  required_args: 1
+  require_all_arguments: true
+
+giftrecived:
+  command: /giftrecived
+  type: RUN_COMMAND
+  runcmd:
+  - /ezg open
+  register: true
+  permission-required: false
+  required_args: 0
+
+mailrecived:
+  command: /mailrecived
+  type: RUN_COMMAND
+  runcmd:
+  - /ezg open
+  register: true
+  permission-required: false
+  required_args: 0
+
+mailopen:
+  command: /mailopen
+  type: RUN_COMMAND
+  runcmd:
+  - /ezg open
+  register: true
+  permission-required: false
+  required_args: 0
+
+giftopen:
+  command: /giftopen
+  type: RUN_COMMAND
+  runcmd:
+  - /ezg open
+  register: true
+  permission-required: false
+  required_args: 0

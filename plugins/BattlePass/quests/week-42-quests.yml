@@ -1,0 +1,47 @@
+quests:
+  122: # Quest id
+    name: 'Grinder' # The name given to the quest.
+    type: kill-mob # The type of quest
+    variable: cow:0 # The block the player must break.
+    required-progress: 150 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: golden_sword:0
+      amount: 1
+      name: '&eGrinder'
+      lore:
+        - '&7Kill &e150 cows'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+  123: # Quest id
+    name: 'Grinder' # The name given to the quest.
+    type: kill-mob # The type of quest
+    variable: sheep:0 # The block the player must break.
+    required-progress: 150 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: golden_sword:0
+      amount: 1
+      name: '&eGrinder'
+      lore:
+        - '&7Kill &e150 sheep'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  124: # Quest id
+    name: 'Best Friends' # The name given to the quest.
+    type: tame # The type of quest
+    variable: wolf:0 # The block the player must break.
+    required-progress: 5 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: bone:0
+      amount: 1
+      name: '&eGrinder'
+      lore:
+        - '&7Tame &e5 wolves'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+

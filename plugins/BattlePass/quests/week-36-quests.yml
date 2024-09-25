@@ -1,0 +1,79 @@
+quests:
+  109: # Quest id
+    name: 'Grinder' # The name given to the quest.
+    type: kill-mob # The type of quest
+    variable: zombie:0 # The block the player must break.
+    required-progress: 500 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: golden_sword:0
+      amount: 1
+      name: '&eGrinder'
+      lore:
+        - '&7Kill &e500 zombies'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+  110: # Quest id
+    name: 'Grinder' # The name given to the quest.
+    type: kill-mob # The type of quest
+    variable: skeleton:0 # The block the player must break.
+    required-progress: 500 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: golden_sword:0
+      amount: 1
+      name: '&eGrinder'
+      lore:
+        - '&7Kill &e500 skeletons'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  111: # Quest id
+    name: 'Grinder' # The name given to the quest.
+    type: kill-mob # The type of quest
+    variable: spider:0 # The block the player must break.
+    required-progress: 250 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: golden_sword:0
+      amount: 1
+      name: '&eGrinder'
+      lore:
+        - '&7Kill &e250 spiders'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  112: # Quest id
+    name: 'Grinder' # The name given to the quest.
+    type: kill-mob # The type of quest
+    variable: cave_spider:0 # The block the player must break.
+    required-progress: 250 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: golden_sword:0
+      amount: 1
+      name: '&eGrinder'
+      lore:
+        - '&7Kill &e250 cave spiders'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  113: # Quest id
+    name: 'Grinder' # The name given to the quest.
+    type: kill-mob # The type of quest
+    variable: creeper:0 # The block the player must break.
+    required-progress: 50 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: golden_sword:0
+      amount: 1
+      name: '&eGrinder'
+      lore:
+        - '&7Kill &e50 creepers'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+
+
+

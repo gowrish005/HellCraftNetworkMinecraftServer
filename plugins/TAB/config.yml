@@ -1,0 +1,231 @@
+# https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Header-&-Footer
+header-footer:
+header-footer:
+  enabled: true
+  header:
+  - ''
+  - '       &8&m●                    ●&r  &#dffb00&l&o&nʜ&#defb08&l&o&nᴇ&#ddfb10&l&o&nʟ&#dcfb18&l&o&nʟ &#dbfb20&l&o&nᴄ&#dafb28&l&o&nʀ&#d9fb30&l&o&nᴀ&#d8fb38&l&o&nꜰ&#d8fb40&l&o&nᴛ &#d7fb48&l&o&nɴ&#d6fb50&l&o&nᴇ&#d5fb58&l&o&nᴛ&#d4fb60&l&o&nᴡ&#d3fb68&l&o&nᴏ&#d2fb70&l&o&nʀ&#d1fb78&l&o&nᴋ&r  &8&m●                    ●&r       '
+  - ''
+  footer:
+  - '&6&lᴘɪɴɢ&7:&e %ping%  &r &6&lᴛᴘѕ&7:&e %server_tps_1%'
+  - ''
+  - ''
+  - '&#69FF35➘ ᴘʟᴀʏᴇʀꜱ ➘&f'
+  - '%bungee_total% &7&o(Total)'
+  - ''
+  - '&8&m●                                                      ●&r'
+  - ''
+  disable-condition: '%world%=disabledworld'
+  per-world:
+    world1:
+      header:
+      - an example of world with custom
+      footer:
+      - header/footer and prefix/suffix
+    world2;world3:
+      header:
+      - This is a shared header for
+      - world2 and world3
+  per-server:
+    server1:
+      header:
+      - an example of server with custom header
+tablist-name-formatting:
+  enabled: true
+  align-tabsuffix-on-the-right: true
+  character-width-overrides: {}
+  anti-override: false
+  disable-condition: '%world%=disabledworld'
+scoreboard-teams:
+  enabled: true
+  enable-collision: false
+  invisible-nametags: false
+  anti-override: true
+  sorting-types:
+  - GROUPS:owner,ceo,dev,jrdev,admin,mod,helper,trail,youtube,devine,godlike,supreme,custom,default
+  - PLACEHOLDER_A_TO_Z:%player%
+  case-sensitive-sorting: true
+  can-see-friendly-invisibles: false
+  disable-condition: '%world%=disabledworld'
+  unlimited-nametag-mode:
+    enabled: false
+    disable-on-boats: true
+    disable-condition: '%world%=disabledworld'
+    dynamic-lines:
+    - abovename
+    - nametag
+    - belowname
+    - another
+    static-lines:
+      myCustomLine: 0.66
+yellow-number-in-tablist:
+  enabled: true
+  value: '%ping%'
+  disable-condition: '%world%=disabledworld'
+belowname-objective:
+  enabled: false
+  number: '%health%'
+  text: '&cHealth'
+  disable-condition: '%world%=disabledworld'
+prevent-spectator-effect:
+  enabled: false
+bossbar:
+  enabled: false
+  toggle-command: /bossbar
+  remember-toggle-choice: false
+  hidden-by-default: false
+  bars:
+    ServerInfo:
+      style: PROGRESS
+      color: '%animation:barcolors%'
+      progress: '100'
+      text: '&fWebsite: &bwww.domain.com'
+scoreboard:
+  enabled: true
+  toggle-command: /sb
+  remember-toggle-choice: false
+  hidden-by-default: false
+  use-numbers: false
+  static-number: 0
+  delay-on-join-milliseconds: 0
+  respect-other-plugins: true
+  scoreboards:
+    admin:
+      display-condition: permission:tab.scoreboard.admin
+      title: Admin scoreboard
+      lines:
+      - '%animation:MyAnimation1%'
+      - '&6Online:'
+      - '* &eOnline&7: &f%online%'
+      - '* &eCurrent World&7: &f%worldonline%'
+      - '* &eStaff&7: &f%staffonline%'
+      - ' &#dffb00%pinger_isonline_185.207.164.129:22654% &fLobby&7: &#dffb00%bungee_lobby%'
+      - ' &#dffb00%pinger_isonline_185.207.164.129:20002% &fSurvival&7: &#dffb00%bungee_survival%'
+      - ' &#dffb00%pinger_isonline_185.207.164.129:21689% &fbedwars&7: &#dffb00%bungee_bedwars%'
+      - ' '
+      - '&6Server Info:'
+      - '* &bTPS&7: %tps%'
+      - '* &bUptime&7: &f%server_uptime%'
+      - '* &bMemory&7: &f%memory-used%&7/&4%memory-max%'
+      - '%animation:MyAnimation1%'
+    scoreboard1:
+      title: '&#c1fb00&l&oʜ&#bbf80b&l&oᴇ&#b4f516&l&oʟ&#aef321&l&oʟ &#a7f02c&l&oѕ&#a1ed37&l&oᴜ&#9aea42&l&oʀ&#94e74d&l&oᴠ&#8de458&l&oɪ&#87e263&l&oᴠ&#80df6e&l&oᴀ&#7adc79&l&oʟ'
+      lines:
+      - '&#fddc00+&#fde126-&#fee74d-&#feec73-&#fef199-&#fff6bf-&#fffce6-&#f2fdfd-&#ccf6f8-&#a6f0f2-&#80eaed-&#59e3e8-&#33dde2-&#0dd6dd-&#19bfc5-&#3f9fa4-&#647f83-&#8a5f63-&#b04042-&#d52021-&#fb0000+'
+      - '    %ezcolors_color_msg_%⛏ &l %player%'
+      - ''
+      - '&#0dfb00ʙ&#0ce300ᴀ&#0bcb00ʟ&#0ab300ᴀ&#089b00ɴ&#078300ᴄ&#066b00ᴇ &f: &a%vault_eco_balance_formatted%&r &a#&a%essentials_baltop_rank%'
+      - '&#fb0000ᴘ&#de0000ʟ&#c10000ᴀ&#a50000ʏ&#880000ᴇ&#6b0000ʀ &#880000ᴋ&#a50000ɪ&#c30000ʟ&#e00000ʟ&#fd0000ꜱ :  &c%statistic_player_kills%'
+      - '&#008afbᴠ&#00a7f3ᴏ&#00c5eaᴛ&#00e2e2ᴇ &#00ffd9ᴄ&#3fffe2ᴏ&#7ffeebᴜ&#befef4ɴ&#fdfdfdᴛ : %superbvote_votes%'
+      - '&#fbad00ᴄ&#fab500ʟ&#f9bd00ᴀ&#f8c600ɪ&#f7ce00ᴍ &#f7d600ʙ&#f6de00ʟ&#f5e600ᴏ&#f4ef00ᴄ&#f3f700ᴋ&#f2ff00ꜱ : &e&e%griefprevention_remainingclaims_formatted% &c/'
+      - '                  &e%math_0:_{griefprevention_bonusclaims}+{griefprevention_accruedclaims}%'
+      - '&#eefb00&lᴄ&#f0f100&lʟ&#f1e700&lᴀ&#f3dc00&lɪ&#f5d200&lᴍ &#f6c800&lᴏ&#f8be00&lᴡ&#fab300&lɴ&#fba900&lᴇ&#fd9f00&lʀ' 
+      - '&f&l➥ &e%griefprevention_currentclaim_ownername%'
+      - '&#fb00cb&lᴘ&#fb0cc5&lʟ&#fc17be&lᴀ&#fc23b8&lʏ&#fc2eb1&lᴛ&#fc3aab&lɪ&#fd45a4&lᴍ&#fd519e&lᴇ'
+      - '&f&l➥ &d%statistic_time_played%'
+      - ''
+      - '&7%localtime_timezone_IST% IST'
+      - '#c1fb00ᴘʟᴀʏ.ʜᴇʟʟ-ᴄʀᴀꜰᴛ.ꜰᴜɴ'
+layout:
+  enabled: true
+  direction: COLUMNS
+  default-skin: mineskin:1753261242
+  enable-remaining-players-text: true
+  remaining-players-text: '... and %s more'
+  empty-slot-ping-value: 1
+  layouts:
+    default:
+      fixed-slots:
+      - 21|&#dffb00&l         ᴘʟᴀʏᴇʀꜱ        |mineskin:1105851698
+      - 1|&#dffb00&l         ꜱᴇʀᴠᴇʀ        |mineskin:1105851698
+      - 3|&#dffb00&l> &7&f🛏 &#fb0000&lʙ&#e60000&lᴇ&#d10000&lᴅ&#bc0000&lᴡ&#a70000&lᴀ&#920000&lʀ&#7d0000&lѕ        |mineskin:1105851698
+      - 4|&#dffb00&l>  ᴠᴇʀꜱɪᴏɴ &f%pinger_version_185.207.164.129:21689%       |mineskin:1105851698
+      - 5|&#dffb00&l>  ᴏɴʟɪɴᴇ &f%pinger_online_185.207.164.129:21689%        |mineskin:1105851698
+      - 6|&#dffb00&l>  ᴘʟᴀʏᴇʀꜱ &f%bungee_bedwars%        |mineskin:1105851698
+      - 8|&#dffb00&l> &f⛏ &#00fba1&lѕ&#17fc8a&lᴜ&#2dfc73&lʀ&#44fd5c&lᴠ&#5afd45&lɪ&#71fe2e&lᴠ&#87fe17&lᴀ&#9eff00&lʟ        |mineskin:1105851698
+      - 9|&#dffb00&l>  ᴠᴇʀꜱɪᴏɴ &f%pinger_version_185.207.164.129:20002%       |mineskin:1105851698
+      - 10|&#dffb00&l>  ᴏɴʟɪɴᴇ &f%pinger_online_185.207.164.129:20002%        |mineskin:1105851698
+      - 11|&#dffb00&l>  ᴘʟᴀʏᴇʀꜱ &f%bungee_survival%        |mineskin:1105851698
+      - 13|&#dffb00&l> ʟᴏʙʙʏ        |mineskin:1105851698
+      - 14|&#dffb00&l>  ᴠᴇʀꜱɪᴏɴ &f%pinger_version_185.207.164.129:22654%       |mineskin:1105851698
+      - 15|&#dffb00&l>  ᴏɴʟɪɴᴇ &f%pinger_online_185.207.164.129:22654%        |mineskin:1105851698
+      - 16|&#dffb00&l>  ᴘʟᴀʏᴇʀꜱ &f%bungee_lobby%       |mineskin:1105851698
+      - 18|       &#688800ᴅ&#6c8d00ɪ&#6f9100ѕ&#739600ᴄ&#769a00ᴏ&#7a9f00ʀ&#7da400ᴅ &f➣ &#81a800 &#84ad00d&#88b100s&#8cb600c&#8fbb00.&#93bf00g&#96c400g&#9ac800/&#9dcd00i&#a1d200n&#a5d600d&#a8db00i&#acdf00c&#afe400r&#b3e900a&#b6ed00f&#baf200t&#bdf600m&#c1fb00c         |mineskin:1105851698
+      - 19|       &#ff0000ѕ&#ff0b01ᴛ&#ff1502ᴏ&#fe2003ʀ&#fe2b04ᴇ &#fe3505ᴄ&#fe4006ᴏ&#fd4b07ᴍ&#fd5608ɪ&#fd6008ɴ&#fd6b09ɢ &#fc760aѕ&#fc800bᴏ&#fc8b0cᴏ&#fc960dɴ&#fba00e!&#fbab0f!         |mineskin:1105851698
+      groups:
+        players:
+          slots:
+          - 22-80
+placeholders:
+  date-format: dd.MM.yyyy
+  time-format: '[HH:mm:ss / h:mm a]'
+  time-offset: 0
+  register-tab-expansion: false
+placeholder-output-replacements:
+  '%essentials_vanished%':
+    'yes': '&7| Vanished'
+    'no': ''
+  '%essentials_nickname%':
+    '%essentials_nickname%': '%player%'
+conditions:
+  nick:
+    conditions:
+    - '%player%=%essentials_nickname%'
+    true: '%player%'
+    false: ~%essentials_nickname%
+placeholderapi-refresh-intervals:
+  default-refresh-interval: 500
+  '%server_uptime%': 1000
+  '%server_tps_1_colored%': 1000
+  '%server_unique_joins%': 5000
+  '%player_health%': 200
+  '%player_ping%': 1000
+  '%vault_prefix%': 1000
+  '%rel_factionsuuid_relation_color%': 1000
+assign-groups-by-permissions: false
+primary-group-finding-list:
+- Owner
+- Admin
+- Mod
+- Helper
+- youtube
+- default
+debug: false
+mysql:
+  enabled: false
+  host: 127.0.0.1
+  port: 3306
+  database: tab
+  username: user
+  password: password
+per-world-playerlist:
+  enabled: false
+  allow-bypass-permission: false
+  ignore-effect-in-worlds:
+  - ignoredworld
+  - build
+  shared-playerlist-world-groups:
+    lobby:
+    - lobby1
+    - lobby2
+    minigames:
+    - paintball
+    - bedwars
+global-playerlist:
+  enabled: false
+  display-others-as-spectators: false
+  display-vanished-players-as-spectators: true
+  isolate-unlisted-servers: false
+  update-latency: false
+  spy-servers:
+  - spyserver1
+  - spyserver2
+  server-groups:
+    lobbies:
+    - lobby1
+    - lobby2
+    group2:
+    - server1
+    - server2
+use-bukkit-permissions-manager: false
+use-online-uuid-in-tablist: true

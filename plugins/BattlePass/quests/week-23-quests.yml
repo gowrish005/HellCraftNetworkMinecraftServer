@@ -1,0 +1,35 @@
+quests:
+  61: # Quest id
+    name: 'Killer' # The name given to the quest.
+    type: kill-player # The type of quest
+    variable: none # The block the player must break.
+    required-progress: 10 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_sword:0
+      amount: 1
+      name: '&eKiller'
+      lore:
+        - '&7Kill &e10 players'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+  63: # Quest id
+    name: 'Chestshop' # The name given to the quest.
+    type: execute-command # The type of quest
+    variable: /chestshop create 10 10 # The block the player must break.
+    required-progress: 1 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: paper:0
+      amount: 1
+      name: '&eChestshop'
+      lore:
+        - '&7Excute &e/chestshop create 10 10'
+        - '&dTo make a chestshop run this command' 
+        - '&dwhile looking at a chest and holding' 
+        - '&dan item that you want to sell'       
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+
+  

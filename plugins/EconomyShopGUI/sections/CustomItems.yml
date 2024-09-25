@@ -1,0 +1,5 @@
+enable: true
+item:
+  material: ELYTRA
+  displayname: '&b&lMore&dItems'
+slot: 32

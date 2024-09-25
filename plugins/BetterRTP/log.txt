@@ -1,0 +1,45 @@
+2024-02-10 08:02:52 [INFO]: Loading Overrides...
+2024-02-10 08:02:52 [INFO]: Loading World Types...
+2024-02-10 08:02:52 [INFO]: - World Type for 'world' set to 'NORMAL'
+2024-02-10 08:02:52 [INFO]: - World Type for 'world_nether' set to 'NETHER'
+2024-02-10 08:02:52 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
+2024-02-10 08:02:52 [INFO]: Loading Defaults...
+2024-02-10 08:02:52 [INFO]: Loading Custom Worlds...
+2024-02-10 08:02:52 [INFO]: Custom World 'world_the_end' registered:
+2024-02-10 08:02:52 [INFO]: - UseWorldBorder: false
+2024-02-10 08:02:52 [INFO]: - CenterX: 0
+2024-02-10 08:02:52 [INFO]: - CenterZ: 0
+2024-02-10 08:02:52 [INFO]: - MaxRadius: 20000
+2024-02-10 08:02:52 [INFO]: - MinRadius: 1000
+2024-02-10 08:02:52 [INFO]: - Shape: SQUARE
+2024-02-10 08:02:52 [INFO]: - MinY: 56
+2024-02-10 08:02:52 [INFO]: - MaxY: 320
+2024-02-10 08:02:52 [INFO]: - Cooldown: 600
+2024-02-10 08:02:52 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2024-02-10 08:02:52 [INFO]: Loading Permission Groups...
+2024-02-10 08:02:52 [INFO]: - Permission Group: vip
+2024-02-10 08:02:52 [INFO]: - -- World: World_the_end
+2024-02-10 08:02:52 [INFO]: - - Priority: 0
+2024-02-10 08:02:52 [INFO]: - - MaxRadius: 20000
+2024-02-10 08:02:52 [INFO]: - - MinRadius: 1000
+2024-02-10 08:02:52 [INFO]: - - Cooldown: 600
+2024-02-10 08:02:52 [INFO]: - -- World: World
+2024-02-10 08:02:52 [INFO]: - - Priority: 10
+2024-02-10 08:02:52 [INFO]: - - UseWorldBorder: false
+2024-02-10 08:02:52 [INFO]: - - MaxRadius: 2500
+2024-02-10 08:02:52 [INFO]: - - MinRadius: 100
+2024-02-10 08:02:52 [INFO]: - - CenterX: 10
+2024-02-10 08:02:52 [INFO]: - - CenterZ: 10
+2024-02-10 08:02:52 [INFO]: - - MaxY: 320
+2024-02-10 08:02:52 [INFO]: - - MinY: 0
+2024-02-10 08:02:52 [INFO]: - Permission Group: vip2
+2024-02-10 08:02:52 [INFO]: - -- World: Build_World
+2024-02-10 08:02:52 [INFO]: - - The Permission Group 'vip2's world 'Build_World' does not exist! Permission Group not loaded...
+2024-02-10 08:03:10 [INFO]: Database COOLDOWN:world configured and loaded!
+2024-02-10 08:03:10 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2024-02-10 08:03:10 [INFO]: Database COOLDOWN:world_nether configured and loaded!
+2024-02-10 08:03:10 [INFO]: Database PLAYERS:Players configured and loaded!
+2024-02-10 08:03:10 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2024-02-10 08:03:10 [INFO]: Database COOLDOWN:spawn configured and loaded!
+2024-02-10 08:03:10 [INFO]: Database COOLDOWN:pvp configured and loaded!
+2024-02-10 16:55:14 [INFO]: Disabling BetterRTP v3.6.10

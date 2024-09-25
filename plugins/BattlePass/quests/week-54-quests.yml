@@ -1,0 +1,95 @@
+quests:
+  153: # Quest id
+    name: 'Grinder' # The name given to the quest.
+    type: kill-mob # The type of quest
+    variable: enderman:0 # The block the player must break.
+    required-progress: 2500 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: golden_sword:0
+      amount: 1
+      name: '&eGrinder'
+      lore:
+        - '&7Kill &e2500 enderman'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+  154: # Quest id
+    name: 'Miner' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: end_stone:0 # The block the player must break.
+    required-progress: 512 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_pickaxe:0
+      amount: 1
+      name: '&eMiner'
+      lore:
+        - '&7Mine &e512 endstone'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  155: # Quest id
+    name: 'Miner' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: obsidian:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_pickaxe:0
+      amount: 1
+      name: '&eMiner'
+      lore:
+        - '&7Mine &e256 obsidian'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  156: # Quest id
+    name: 'Smelter' # The name given to the quest.
+    type: smelt # The type of quest
+    variable: popped_chorus_fruit:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: furnace:0
+      amount: 1
+      name: '&eSemtler'
+      lore:
+        - '&7Smelt &e256 popper chorus fruit'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  157: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: end_stone_bricks:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 endstone'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  158: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: end_rod:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 rod'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+
+
+
+ 

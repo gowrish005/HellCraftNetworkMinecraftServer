@@ -1,0 +1,60 @@
+quests:
+  16: # Quest id
+    name: 'Craft' # The name given to the quest.
+    type: craft # The type of quest
+    variable: iron_helmet:0 # The block the player must break.
+    required-progress: 1 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: iron_helmet:0
+      amount: 1
+      name: '&eCraft'
+      lore:
+        - '&7Craft &e1 iron helmet'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+  17: # Quest id
+    name: 'Craft' # The name given to the quest.
+    type: craft # The type of quest
+    variable: iron_chestplate:0 # The block the player must break.
+    required-progress: 1 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: iron_chestplate:0
+      amount: 1
+      name: '&eCraft'
+      lore:
+        - '&7Craft &e1 iron chestplate'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  18: # Quest id
+    name: 'Craft' # The name given to the quest.
+    type: craft # The type of quest
+    variable: iron_leggings:0 # The block the player must break.
+    required-progress: 1 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: iron_leggings:0
+      amount: 1
+      name: '&eCraft'
+      lore:
+        - '&7Craft &e1 iron leggings'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  19: # Quest id
+    name: 'Craft' # The name given to the quest.
+    type: craft # The type of quest
+    variable: iron_boots:0 # The block the player must break.
+    required-progress: 1 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: iron_boots:0
+      amount: 1
+      name: '&eCraft'
+      lore:
+        - '&7Craft &e1 iron boots'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'

@@ -1,0 +1,32 @@
+quests:
+  40: # Quest id
+    name: 'Mine' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: lapis_lazuli_ore:0 # The block the player must break.
+    required-progress: 16 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_pickaxe:0
+      amount: 1
+      name: '&eMine'
+      lore:
+        - '&7break &e16 lapis lazuli ores'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+  41: # Quest id
+    name: 'Enchant' # The name given to the quest.
+    type: enchant # The type of quest
+    variable: none # The block the player must break.
+    required-progress: 10 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: enchanting_table:0
+      amount: 1
+      name: '&eEnchant'
+      lore:
+        - '&7Enchant &e10 items'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+ 

@@ -1,0 +1,49 @@
+PvP:
+  x: -231
+  y: 66
+  z: 280
+  yaw: -89.8768
+  pitch: -1.3262573
+  world: pvp
+pvp:
+  x: -231
+  y: 66
+  z: 280
+  yaw: -89.45006
+  pitch: 90.0
+  world: pvp
+spawn:
+  x: -2
+  y: 2
+  z: -2
+  yaw: 178.20012
+  pitch: 90.0
+  world: spawn
+crates:
+  x: -3
+  y: 2
+  z: -20
+  yaw: -179.26447
+  pitch: -6.0000114
+  world: spawn
+leaderboards:
+  x: 16
+  y: 2
+  z: -2
+  yaw: -92.56311
+  pitch: 88.05005
+  world: spawn
+end:
+  x: -66
+  y: -16
+  z: -68
+  yaw: 0.15908813
+  pitch: 90.0
+  world: spawn
+Parkour:
+  x: 17
+  y: 2
+  z: -21
+  yaw: -141.17383
+  pitch: 89.20029
+  world: spawn

@@ -1,0 +1,31 @@
+portals:
+  endspawn:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: LEKING001
+    location: -2.0,58.0,-2.0:2.0,59.0,2.0
+    world: world_the_end
+    destination: e:spawn:0.0,3.0,0.0:0.0:0.0
+  endout:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: LEKING001
+    location: 93.0,60.0,-3.0:99.0,60.0,3.0
+    world: world_the_end
+    destination: e:world_the_end:1083.0,59.0,15.0:0.0:0.0
+  end:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: LEKING001
+    location: -61.0,-24.0,-52.0:-50.0,-24.0,-41.0
+    world: spawn
+    destination: e:world_the_end:78.5,58.5,0.5:-10.0:90.0

@@ -1,0 +1,51 @@
+quests:
+  74: # Quest id
+    name: 'Lumberjack' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: crimson_stem:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_axe:0
+      amount: 1
+      name: '&eLumberjack'
+      lore:
+        - '&7Break &e256 crimson stems'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+  75: # Quest id
+    name: 'Lumberjack' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: warped_stem:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_axe:0
+      amount: 1
+      name: '&eLumberjack'
+      lore:
+        - '&7Break &e256 warped stems'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  76: # Quest id
+    name: 'Lumberjack' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: glowstone:0 # The block the player must break.
+    required-progress: 64 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_axe:0
+      amount: 1
+      name: '&eLumberjack'
+      lore:
+        - '&7Break &e64 glowstone'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+
+
+
+
+

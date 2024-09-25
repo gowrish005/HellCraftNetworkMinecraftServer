@@ -1,0 +1,18 @@
+location: world_the_end:86.377:61.300:0.504
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&c&l&nʀᴛᴘ ᴘᴏʀᴛᴀʟ'
+    height: 0.3
+  - content: '&eYou will &cRTP&e if You get in this portal, You might also use &c/RTP'
+    height: 0.3
+  - content: '&eonly if you have permission to rtp in &d&lᴇɴᴅ ᴡᴏʀʟᴅ'
+    height: 0.3
+  - content: '&eor else You will be Teleported to outer end island'
+    height: 0.3
+  actions: {}

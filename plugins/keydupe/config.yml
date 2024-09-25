@@ -1,0 +1,127 @@
+punishment: false
+punishmentsame: true
+punish: ban
+message:
+  banmessage: found you duping
+dupe:
+  '101204234':
+    material: TRIPWIRE_HOOK
+    world: world
+    command: crazycrates forceopen CrateExample %player%
+    enchant: true
+    name: §7§lBasic Crate §b§lKey
+    lore:
+    - §7A special Key
+    - §7For a special Crate.
+    perms: key.basic
+    commandnormal: crazycrate open-others CrateExample %player%
+    preview: crazycrate preview CrateExample %player%
+  41a2a58:
+    material: TRIPWIRE_HOOK
+    world: spawn
+    Hold_Key_To_Open: true
+    Prevent_Opening_Skip: true
+    command: excellentcrates open gold_crate %player% -f
+    enchant: true
+    perms: key.gold
+    commandnormal: excellentcrates open gold_crate %player%
+    preview: excellentcrates preview gold_crate %player%
+    name: §x§C§D§A§D§0§0§lɢ§x§D§2§B§4§0§0§lᴏ§x§D§6§B§B§0§0§lʟ§x§D§B§C§3§0§0§lᴅ §x§D§F§C§A§0§0§lᴄ§x§E§4§D§1§0§0§lʀ§x§E§8§D§8§0§0§lᴀ§x§E§D§D§F§0§0§lᴛ§x§F§1§E§6§0§0§lᴇ
+      §x§F§6§E§E§0§0§lᴋ§x§F§A§F§5§0§0§lᴇ§x§F§F§F§C§0§0§lʏ
+    lore:
+    - §x§5§9§F§F§0§0u§x§5§A§F§5§0§0s§x§5§B§E§A§0§0e §x§5§C§E§0§0§0t§x§5§D§D§5§0§0h§x§5§E§C§B§0§0i§x§5§F§C§0§0§0s
+      §x§6§0§B§6§0§0k§x§6§2§A§B§0§0e§x§6§3§A§1§0§0y §x§6§4§9§6§0§0t§x§6§5§8§C§0§0o
+      §x§6§6§8§1§0§0o§x§6§7§7§7§0§0p§x§6§8§6§C§0§0e§x§6§9§6§2§0§0n §6§lɢᴏʟᴅ ᴄʀᴀᴛᴇ
+    - §x§F§F§0§0§0§0ᴏ§x§F§7§0§0§0§Dʙ§x§E§F§0§0§1§Bᴛ§x§E§7§0§0§2§8ᴀ§x§D§F§0§0§3§6ɪ§x§D§8§0§0§4§3ɴ§x§D§0§0§0§5§1ᴀ§x§C§8§0§0§5§Eʙ§x§C§0§0§0§6§Bʟ§x§B§8§0§0§7§9ᴇ
+      §x§B§0§0§0§8§6ꜰ§x§A§8§0§0§9§4ʀ§x§A§0§0§0§A§1ᴏ§x§9§8§0§0§A§Eᴍ §x§9§0§0§0§B§Cᴠ§x§8§9§0§0§C§9ᴏ§x§8§1§0§0§D§7ᴛ§x§7§9§0§0§E§4ɪ§x§7§1§0§0§F§2ɴ§x§6§9§0§0§F§Fɢ
+  36a2a63:
+    material: TRIPWIRE_HOOK
+    world: spawn
+    Hold_Key_To_Open: true
+    Prevent_Opening_Skip: true
+    command: excellentcrates open emerald %player% -f
+    enchant: true
+    perms: key.emerald
+    commandnormal: excellentcrates open emerald %player%
+    preview: excellentcrates preview emerald %player%
+    name: §x§5§0§C§8§7§8§lᴇ§x§4§E§C§B§6§F§lᴍ§x§4§D§C§E§6§7§lᴇ§x§4§B§D§1§5§E§lʀ§x§4§9§D§4§5§6§lᴀ§x§4§7§D§7§4§D§lʟ§x§4§6§D§A§4§5§lᴅ
+      §x§4§4§D§D§3§C§lᴄ§x§4§2§E§0§3§3§lʀ§x§4§1§E§3§2§B§lᴀ§x§3§F§E§6§2§2§lᴛ§x§3§D§E§9§1§A§lᴇ
+      §x§3§B§E§C§1§1§lᴋ§x§3§A§E§F§0§9§lᴇ§x§3§8§F§2§0§0§lʏ
+    lore:
+    - §x§5§9§F§F§0§0u§x§5§A§F§5§0§0s§x§5§B§E§A§0§0e §x§5§C§E§0§0§0t§x§5§D§D§5§0§0h§x§5§E§C§B§0§0i§x§5§F§C§0§0§0s
+      §x§6§0§B§6§0§0k§x§6§2§A§B§0§0e§x§6§3§A§1§0§0y §x§6§4§9§6§0§0t§x§6§5§8§C§0§0o
+      §x§6§6§8§1§0§0o§x§6§7§7§7§0§0p§x§6§8§6§C§0§0e§x§6§9§6§2§0§0n §a§lᴇᴍᴇʀᴀʟᴅ ᴄʀᴀᴛᴇ
+    - §x§F§F§0§0§0§0ᴏ§x§F§7§0§0§0§Eʙ§x§E§E§0§0§1§Cᴛ§x§E§6§0§0§2§Bᴀ§x§D§E§0§0§3§9ɪ§x§D§5§0§0§4§7ɴ§x§C§D§0§0§5§5ᴀ§x§C§5§0§0§6§3ʙ§x§B§C§0§0§7§1ʟ§x§B§4§0§0§8§0ᴇ
+      §x§A§C§0§0§8§Eꜰ§x§A§3§0§0§9§Cʀ§x§9§B§0§0§A§Aᴏ§x§9§3§0§0§B§8ᴍ §x§8§A§0§0§C§6ѕ§x§8§2§0§0§D§5ᴛ§x§7§A§0§0§E§3ᴏ§x§7§1§0§0§F§1ʀ§x§6§9§0§0§F§Fᴇ
+  45a2a72:
+    material: TRIPWIRE_HOOK
+    world: spawn
+    Hold_Key_To_Open: true
+    Prevent_Opening_Skip: true
+    command: excellentcrates open golden %player% -f
+    enchant: true
+    perms: key.diamond
+    commandnormal: excellentcrates open golden %player%
+    preview: excellentcrates preview golden %player%
+    name: §x§0§0§F§2§D§C§lᴅ§x§1§0§F§2§D§E§lɪ§x§1§F§F§2§D§F§lᴀ§x§2§F§F§2§E§1§lᴍ§x§3§E§F§1§E§2§lᴏ§x§4§E§F§1§E§4§lɴ§x§5§D§F§1§E§5§lᴅ
+      §x§6§D§F§1§E§7§lᴄ§x§7§D§F§1§E§9§lʀ§x§8§C§F§1§E§A§lᴀ§x§9§C§F§1§E§C§lᴛ§x§A§B§F§0§E§D§lᴇ
+      §x§B§B§F§0§E§F§lᴋ§x§C§A§F§0§F§0§lᴇ§x§D§A§F§0§F§2§lʏ
+    lore:
+    - §x§5§9§F§F§0§0u§x§5§A§F§5§0§0s§x§5§B§E§A§0§0e §x§5§C§E§0§0§0t§x§5§D§D§5§0§0h§x§5§E§C§B§0§0i§x§5§F§C§0§0§0s
+      §x§6§0§B§6§0§0k§x§6§2§A§B§0§0e§x§6§3§A§1§0§0y §x§6§4§9§6§0§0t§x§6§5§8§C§0§0o
+      §x§6§6§8§1§0§0o§x§6§7§7§7§0§0p§x§6§8§6§C§0§0e§x§6§9§6§2§0§0n §b§lᴅɪᴀᴍᴏɴᴅ ᴄʀᴀᴛᴇ
+    - §x§F§F§0§0§0§0ᴏ§x§F§7§0§0§0§Eʙ§x§E§E§0§0§1§Cᴛ§x§E§6§0§0§2§Bᴀ§x§D§E§0§0§3§9ɪ§x§D§5§0§0§4§7ɴ§x§C§D§0§0§5§5ᴀ§x§C§5§0§0§6§3ʙ§x§B§C§0§0§7§1ʟ§x§B§4§0§0§8§0ᴇ
+      §x§A§C§0§0§8§Eꜰ§x§A§3§0§0§9§Cʀ§x§9§B§0§0§A§Aᴏ§x§9§3§0§0§B§8ᴍ §x§8§A§0§0§C§6ѕ§x§8§2§0§0§D§5ᴛ§x§7§A§0§0§E§3ᴏ§x§7§1§0§0§F§1ʀ§x§6§9§0§0§F§Fᴇ
+  38a2a70:
+    material: TRIPWIRE_HOOK
+    world: spawn
+    Hold_Key_To_Open: true
+    Prevent_Opening_Skip: true
+    command: excellentcrates open netherite_crate %player% -f
+    enchant: true
+    perms: key.net
+    commandnormal: excellentcrates open netherite_crate %player%
+    preview: excellentcrates preview netherite_crate %player%
+    name: §x§7§6§0§0§8§5§lɴ§x§8§3§0§0§9§4§lᴇ§x§9§0§0§0§A§3§lᴛ§x§9§D§0§0§B§1§lʜ§x§A§B§0§0§C§0§lᴇ§x§B§8§0§0§C§F§lʀ§x§C§5§0§0§D§E§lɪ§x§D§2§0§0§E§C§lᴛ§x§D§F§0§0§F§B§lᴇ
+      §x§C§B§0§8§F§C§lᴄ§x§B§6§0§F§F§C§lʀ§x§A§2§1§7§F§D§lᴀ§x§8§D§1§F§F§D§lᴛ§x§7§9§2§6§F§E§lᴇ
+      §x§6§4§2§E§F§E§lᴋ§x§5§0§3§5§F§F§lᴇ§x§3§B§3§D§F§F§lʏ
+    lore:
+    - §x§5§9§F§F§0§0u§x§5§A§F§5§0§0s§x§5§B§E§A§0§0e §x§5§C§E§0§0§0t§x§5§D§D§5§0§0h§x§5§E§C§B§0§0i§x§5§F§C§0§0§0s
+      §x§6§0§B§6§0§0k§x§6§2§A§B§0§0e§x§6§3§A§1§0§0y §x§6§4§9§6§0§0t§x§6§5§8§C§0§0o
+      §x§6§6§8§1§0§0o§x§6§7§7§7§0§0p§x§6§8§6§C§0§0e§x§6§9§6§2§0§0n §d§lɴᴇᴛʜᴇʀɪᴛᴇ ᴄʀᴀᴛᴇ
+    - §x§F§F§0§0§0§0ᴏ§x§F§7§0§0§0§Eʙ§x§E§E§0§0§1§Cᴛ§x§E§6§0§0§2§Bᴀ§x§D§E§0§0§3§9ɪ§x§D§5§0§0§4§7ɴ§x§C§D§0§0§5§5ᴀ§x§C§5§0§0§6§3ʙ§x§B§C§0§0§7§1ʟ§x§B§4§0§0§8§0ᴇ
+      §x§A§C§0§0§8§Eꜰ§x§A§3§0§0§9§Cʀ§x§9§B§0§0§A§Aᴏ§x§9§3§0§0§B§8ᴍ §x§8§A§0§0§C§6ѕ§x§8§2§0§0§D§5ᴛ§x§7§A§0§0§E§3ᴏ§x§7§1§0§0§F§1ʀ§x§6§9§0§0§F§Fᴇ
+  72a34:
+    material: PAPER
+    world: spawn
+    command: crazycrates forceopen CrateExample %player%
+    enchant: true
+    perms: key.basic
+    commandnormal: crazycrate open-others CrateExample %player%
+    preview: crazycrate preview CrateExample %player%
+    name: §e§lѕᴇᴀѕᴏɴᴀʟ §6§lᴅᴇ§f§lᴠɪ§a§lɴᴇ §e§lʀᴀɴᴋ ᴠᴏᴜᴄʜᴇʀ
+    lore:
+    - §fᴛʜɪѕᴇ ᴠᴏᴜᴄʜᴇʀ ᴡɪʟʟ ɢɪᴠᴇ ᴜ §aꜰʀᴇᴇ §fᴀᴄᴄᴇѕѕ
+    - §fᴛᴏ ᴛʜᴇ §6§lᴅᴇ§f§lᴠɪ§a§lɴᴇ §fꜰᴏʀ §cᴏɴᴇ ᴡʜᴏʟᴇ ᴍᴏɴᴛʜ!
+    - ''
+    - §dʀᴇᴅᴇᴇᴍ §fᴛʜɪѕᴇ ᴠᴏᴜᴄʜᴇʀ ᴛᴏᴅᴀʏ ᴛᴏ ʀᴇᴄᴇɪᴠᴇ ᴀʟʟ
+    - §fᴘᴇʀᴋѕ ᴏꜰ ᴛʜɪѕ ʀᴀɴᴋ ꜰᴏʀ §aᴏɴᴇ ᴡʜᴏʟᴇ ᴍᴏɴᴛʜ.
+    - ''
+    - §4§lɴᴏᴛᴇ :§c ᴛʜɪѕ ɪѕ ᴠᴀʟɪᴅ ꜰᴏʀ ᴏɴᴇ ᴍᴏɴᴛʜ.
+  122a36:
+    material: PAPER
+    world: spawn
+    command: crazycrates forceopen CrateExample %player%
+    enchant: true
+    perms: key.basic
+    commandnormal: crazycrate open-others CrateExample %player%
+    preview: crazycrate preview CrateExample %player%
+    name: §e§lѕᴇᴀѕᴏɴᴀʟ §6§lѕᴜᴘʀᴇᴍᴇ §e§lʀᴀɴᴋ ᴠᴏᴜᴄʜᴇʀ
+    lore:
+    - §fᴛʜɪѕᴇ ᴠᴏᴜᴄʜᴇʀ ᴡɪʟʟ ɢɪᴠᴇ ᴜ §aꜰʀᴇᴇ §fᴀᴄᴄᴇѕѕ
+    - §fᴛᴏ ᴛʜᴇ §6§lѕᴜᴘʀᴇᴍᴇ §fꜰᴏʀ §cᴏɴᴇ ᴡʜᴏʟᴇ ᴍᴏɴᴛʜ!
+    - ''
+    - §dʀᴇᴅᴇᴇᴍ §fᴛʜɪѕᴇ ᴠᴏᴜᴄʜᴇʀ ᴛᴏᴅᴀʏ ᴛᴏ ʀᴇᴄᴇɪᴠᴇ ᴀʟʟ
+    - §fᴘᴇʀᴋѕ ᴏꜰ ᴛʜɪѕ ʀᴀɴᴋ ꜰᴏʀ §aᴏɴᴇ ᴡʜᴏʟᴇ ᴍᴏɴᴛʜ.
+    - ''
+    - §4§lɴᴏᴛᴇ :§c ᴛʜɪѕ ɪѕ ᴠᴀʟɪᴅ ꜰᴏʀ ᴏɴᴇ ᴍᴏɴᴛʜ.

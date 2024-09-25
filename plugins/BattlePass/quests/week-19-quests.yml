@@ -1,0 +1,30 @@
+quests:
+  55: # Quest id
+    name: 'Killer' # The name given to the quest.
+    type: kill-mob # The type of quest
+    variable: pig:0 # The block the player must break.
+    required-progress: 50 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: golden_sword:0
+      amount: 1
+      name: '&eKiller'
+      lore:
+        - '&7Kill &e50 Pigs'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+
+  56: # Quest id
+    name: 'farmer' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: melon:0 # The block the player must break.
+    required-progress: 250 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: melon:0
+      amount: 1
+      name: '&eFarmer'
+      lore:
+        - '&7Break &e250 melons'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'

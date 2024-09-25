@@ -1,0 +1,28 @@
+# Hello Server Owner! Welcome to the superFreeze Configuration!
+# Here you can configure stuff on how the plugin works! Like if you
+# wan't the Title and Subtitle to show or not or only show the title
+# So, lets get started!
+
+# Here you will tell the plugin if you would like 1.8 titles to be desplayed while the target player is frozen...
+frozen-title-enabled: true
+frozen-subtitle-enabled: true
+
+# Here you will define what mode you want the Frozen Subtitle to use if enabled
+# Here is a index of all the modes:
+#
+#   1 - Just Plain Ol Pre-Defined Text (If text uses no color codes it will animate!)
+#   2 - Random (Will Show Text Like "Get R3kt Scrub", or "Y U DO DIS?") 
+frozen-subtitle-mode: 2
+forzen-subtitle-text: "You Have Been Frozen!"  #Only For 1
+
+# Here you will set the chat message that the player will get, for example your
+# discord or your teamspeak link and maybe your website.
+chat-message: "&6&lTeamspeak Currently Unadvaible!"
+
+# Its basic, automaticly ban the player...
+auto-ban: true
+auto-ban-message: "&6&l&oYou left the game while frozen!"
+
+# Dont Edit the config, this is what helps update the plugins config.yml 
+# (You will still need to remove config for full details and comments)
+config: 3

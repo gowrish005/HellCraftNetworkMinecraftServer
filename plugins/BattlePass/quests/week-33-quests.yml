@@ -1,0 +1,158 @@
+quests:
+  91: # Quest id
+    name: 'Miner' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: copper_ore:0 # The block the player must break.
+    required-progress: 128 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_pickaxe:0
+      amount: 1
+      name: '&eMiner'
+      lore:
+        - '&7Break &e128 copper ore'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+  92: # Quest id
+    name: 'Miner' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: iron_ore:0 # The block the player must break.
+    required-progress: 128 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_pickaxe:0
+      amount: 1
+      name: '&eMiner'
+      lore:
+        - '&7Break &e128 iron ore'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  93: # Quest id
+    name: 'Miner' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: coal_ore:0 # The block the player must break.
+    required-progress: 128 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_pickaxe:0
+      amount: 1
+      name: '&eMiner'
+      lore:
+        - '&7Break &e128 coal ore'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  94: # Quest id
+    name: 'Miner' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: gold_ore:0 # The block the player must break.
+    required-progress: 64 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_pickaxe:0
+      amount: 1
+      name: '&eMiner'
+      lore:
+        - '&7Break &e64 gold ore'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  95: # Quest id
+    name: 'Miner' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: redstone_ore:0 # The block the player must break.
+    required-progress: 32 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_pickaxe:0
+      amount: 1
+      name: '&eMiner'
+      lore:
+        - '&7Break &e32 redstone ore'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  96: # Quest id
+    name: 'Miner' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: lapis_ore:0 # The block the player must break.
+    required-progress: 32 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_pickaxe:0
+      amount: 1
+      name: '&eMiner'
+      lore:
+        - '&7Break &e32 lapis ore'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  97: # Quest id
+    name: 'Miner' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: diamond_ore:0 # The block the player must break.
+    required-progress: 4 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_pickaxe:0
+      amount: 1
+      name: '&eMiner'
+      lore:
+        - '&7Break &e4 diamond ore'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  98: # Quest id
+    name: 'Miner' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: emerlad_ore:0 # The block the player must break.
+    required-progress: 2 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_pickaxe:0
+      amount: 1
+      name: '&eMiner'
+      lore:
+        - '&7Break &e2 emerald ore'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  99: # Quest id
+    name: 'Smelt' # The name given to the quest.
+    type: smelt # The type of quest
+    variable: copper_ingot:0 # The block the player must break.
+    required-progress: 128 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: furnace:0
+      amount: 1
+      name: '&eSmelter'
+      lore:
+        - '&7Smelt &e128 copper ingots'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  100: # Quest id
+    name: 'Smelt' # The name given to the quest.
+    type: smelt # The type of quest
+    variable: iron_ingot:0 # The block the player must break.
+    required-progress: 128 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: furnace:0
+      amount: 1
+      name: '&eSmelter'
+      lore:
+        - '&7Smelt &e128 iron ingots'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+
+
+
+
+
+
+

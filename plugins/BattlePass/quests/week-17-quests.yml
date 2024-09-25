@@ -1,0 +1,59 @@
+quests:
+  50: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: diamond_helmet:0 # The block the player must break.
+    required-progress: 1 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_helmet:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e1 diamond helmet'
+        - ''
+        - '&7Progress &e%total_progress%&7/&e%required_progress%'
+ 
+  51: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: diamond_chestplate:0 # The block the player must break.
+    required-progress: 1 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_chestplate:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Cradft &e1 diamond chestplate'
+        - ''
+        - '&7Progress &e%total_progress%&7/&e%required_progress%'
+
+  52: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: diamond_leggings:0 # The block the player must break.
+    required-progress: 1 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_leggings:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e1 diamond leggings'
+        - ''
+        - '&7Progress &e%total_progress%&7/&e%required_progress%'
+
+  53:
+    name: 'Crafter'
+    type: craft
+    variable: diamond_boots:0
+    required-progress: 1
+    points: 10
+    item:
+      material: diamond_boots:0
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e1 diamond boot'
+        - ''
+        - '&7Progress &e%total_progress%&7/&e%required_progress%'

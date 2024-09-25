@@ -1,0 +1,256 @@
+Name: Starter Crate
+Preview_Config: default
+Permission_Required: false
+Opening:
+  Cooldown: 0
+  Cost:
+    MONEY: 500.0
+    EXP: 0.0
+Key:
+  Ids: []
+Block:
+  Locations:
+  - 50.0,-3.0,-67.0,0.0,0.0,spawn
+  Pushback:
+    Enabled: true
+  Hologram:
+    Enabled: true
+    Template: starter_crate
+  Effect:
+    Model: HELIX
+    Particle:
+      Name: ELECTRIC_SPARK
+Milestones:
+  Repeatable: false
+  List:
+    '0':
+      Reward_Id: 'null'
+      Openings: 100
+Rewards:
+  List:
+    iron_helmet:
+      Name: Iron Helmet
+      Chance: 25.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: 5000080016ip002lmmirj5cdp62pjk79kn4rrebtk6ar3dclq0k003ehgme0o01996as31d5p46rrjeg0000011400ohbecdk62rjkdlimst3j1800000110004qb400a6qqbeclhn4ob6egt70sjfehim6t39dtn04003dhr6o001001g01i4c5mm2pr5000000000400agrfeln78080
+      Commands: []
+      Items:
+      - k00010004qb400amqqbeclhn4ob6egt6isjfdpfmgpbcdlin82g00dq62po300554pbgc5kn4grfedq00000044g0325dphmgobeehmmarjkec500000044000j9cg018rb9dpim6sj1cpq3ks3idtq6aorkd5nms0g00dm7cr00040060068hgmqob7ck0000001800ep39edo6oobp14008j3fe9igg000000g1gjr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bgr93uaj7gr96v1mi0cjam9mjgr91v1mi2i1qksm3581odkhvgr9390p6lcl071mi7sjd10s6q89ik0s6q81odkjfgr91p2fleio8jkcls788hq48h7q0000400agrfeln78080
+      Ignored_For_Permissions: []
+    iron_chestplate:
+      Name: Iron Chestplate
+      Chance: 25.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: k00010004qb400cmqqbeclhn4ob6egt6isjfdpfm6q35edq70r31ehigk003ehgme0o01996as31d5p46rrjeg0000011400ohbecdk62rjkdlimst3j1800000110004qb400a6qqbeclhn4ob6egt70sjfehim6t39dtn04003dhr6o001001g01i4c5mm2pr5000000000400agrfeln78080
+      Commands: []
+      Items:
+      - 2g0004000j9cg01irb9dpim6sj1cpq3kqbidtn5uor8clpn8s3cc5q6a2g00dq62po300554pbgc5kn4grfedq00000044g0325dphmgobeehmmarjkec500000044000j9cg018rb9dpim6sj1cpq3ks3idtq6aorkd5nms0g00dm7cr00040060068hgmqob7ck0000001800ep39edo6oobp14008j3fe9igg000000g1gjr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bgr93uaj7gr96v1mi0cjam9mjgr91v1mi2i1qksm3581odkhvgr9390p6lcl071mi7sjd10s6q89ik0s6q81odkjfgr91p2fleio8jkcls788hq48h7q0000400agrfeln78080
+      Ignored_For_Permissions: []
+    iron_leggings:
+      Name: Iron Leggings
+      Chance: 25.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: a0000g002d5i005rdd5n6aoric5j78ej9e9nmsnrccljmeqbectpgk003ehgme0o01996as31d5p46rrjeg0000011400ohbecdk62rjkdlimst3j1800000110004qb400a6qqbeclhn4ob6egt70sjfehim6t39dtn04003dhr6o001001g01i4c5mm2pr5000000000400agrfeln78080
+      Commands: []
+      Items:
+      - 1800020009km800ndlkmspb3e9gmct1qd5p6urivdhimepr9dpjn62g00dq62po300554pbgc5kn4grfedq00000044g0325dphmgobeehmmarjkec500000044000j9cg018rb9dpim6sj1cpq3ks3idtq6aorkd5nms0g00dm7cr00040060068hgmqob7ck0000001800ep39edo6oobp14008j3fe9igg000000g1gjr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bgr93uaj7gr96v1mi0cjam9mjgr91v1mi2i1qksm3581odkhvgr9390p6lcl071mi7sjd10s6q89ik0s6q81odkjfgr91p2fleio8jkcls788hq48h7q0000400agrfeln78080
+      Ignored_For_Permissions: []
+    iron_boots:
+      Name: Iron Boots
+      Chance: 25.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: k00010004qb400a6qqbeclhn4ob6egt6isjfdpfm4rrfehpgk003ehgme0o01996as31d5p46rrjeg0000011400ohbecdk62rjkdlimst3j1800000110004qb400a6qqbeclhn4ob6egt70sjfehim6t39dtn04003dhr6o001001g01i4c5mm2pr5000000000400agrfeln78080
+      Commands: []
+      Items:
+      - 2g0004000j9cg018rb9dpim6sj1cpq3kqbidtn5uojfdtq762g00dq62po300554pbgc5kn4grfedq00000044g0325dphmgobeehmmarjkec500000044000j9cg018rb9dpim6sj1cpq3ks3idtq6aorkd5nms0g00dm7cr00040060068hgmqob7ck0000001800ep39edo6oobp14008j3fe9igg000000g1gjr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bgr93uaj7gr96v1mi0cjam9mjgr91v1mi2i1qksm3581odkhvgr9390p6lcl071mi7sjd10s6q89ik0s6q81odkjfgr91p2fleio8jkcls788hq48h7q0000400agrfeln78080
+      Ignored_For_Permissions: []
+    iron_sword:
+      Name: Iron Sword
+      Chance: 25.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: 2g0004000j9cg018rb9dpim6sj1cpq3kqbidtn5usrndtp682g00dq62po300554pbgc5kn4grfedq00000044g0325dphmgobeehmmarjkec500000044000j9cg016rb9dpim6sj1cpq3ksr8c5p70rj5edpg4003dhr6o002001g01i4c5mm2pr5000000000400agrfeln78080
+      Commands: []
+      Items:
+      - a0000g002d5i0053dd5n6aoric5j78ej9e9nmsnrjetnn4p0a001n8ob70c00kkj5e1gmisi3dtpn8000000gi00c8ln66q31dpq6qpbeehpgk000000gg002d5i004rdd5n6aoric5j78ejjd1gn4s3eclpn60g00dm7cr00080060068hgmqob7ck0000001800ep39edo6oobp14008j3fe9igg000000g1gjr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bgr93uaj7gr96v1mi0cjam9mjgr91v1mi2i1qksm3581odkhvgr9390p6lcl071mi7sjd10s6q89ik0s6q81odkjfgr91p2fleio8jkcls788hq48h7q0000400agrfeln78080
+      Ignored_For_Permissions: []
+    iron_pickaxe:
+      Name: Iron Pickaxe
+      Chance: 25.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: 1800020009km800mdlkmspb3e9gmct1qd5p6urive1km6qr1f1igk003ehgme0o01996as31d5p46rrjeg0000011400ohbecdk62rjkdlimst3j1800000110004qb400a6qqbeclhn4ob6egt6apj6d5hmipbecdsg4003dhr6o001001g01i4c5mm2pr5000000000400agrfeln78080
+      Commands: []
+      Items:
+      - 5000080016ip002pmmirj5cdp62pjk79kn4rrebto6iorbc5s6a2g00dq62po300554pbgc5kn4grfedq00000044g0325dphmgobeehmmarjkec500000044000j9cg018rb9dpim6sj1cpq3kpb6cpkm6qb5dphni0g00dm7cr00040060068hgmqob7ck0000001800ep39edo6oobp14008j3fe9igg000000g1gjr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bgr93uaj7gr96v1mi0cjam9mjgr91v1mi2i1qksm3581odkhvgr9390p6lcl071mi7sjd10s6q89ik0s6q81odkjfgr91p2fleio8jkcls788hq48h7q0000400agrfeln78080
+      Ignored_For_Permissions: []
+    iron_axe:
+      Name: Iron Axe
+      Chance: 25.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: a0000g002d5i004jdd5n6aoric5j78ej9e9nmsnr1f1igk003ehgme0o01996as31d5p46rrjeg0000011400ohbecdk62rjkdlimst3j1800000110004qb400a6qqbeclhn4ob6egt6apj6d5hmipbecdsg4003dhr6o002001g01i4c5mm2pr5000000000400agrfeln78080
+      Commands: []
+      Items:
+      - 1800020009km800idlkmspb3e9gmct1qd5p6urivc5s6a2g00dq62po300554pbgc5kn4grfedq00000044g0325dphmgobeehmmarjkec500000044000j9cg018rb9dpim6sj1cpq3kpb6cpkm6qb5dphni0g00dm7cr00080060068hgmqob7ck0000001800ep39edo6oobp14008j3fe9igg000000g1gjr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bgr93uaj7gr96v1mi0cjam9mjgr91v1mi2i1qksm3581odkhvgr9390p6lcl071mi7sjd10s6q89ik0s6q81odkjfgr91p2fleio8jkcls788hq48h7q0000400agrfeln78080
+      Ignored_For_Permissions: []
+    iron_shovel:
+      Name: Iron Shovel
+      Chance: 25.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: 5000080016ip002lmmirj5cdp62pjk79kn4rrebtpmgrrmclm0k003ehgme0o01996as31d5p46rrjeg0000011400ohbecdk62rjkdlimst3j1800000110004qb400a6qqbeclhn4ob6egt7arj2e9im2qr9dpjg4003dhr6o001001g01i4c5mm2pr5000000000400agrfeln78080
+      Commands: []
+      Items:
+      - k00010004qb400amqqbeclhn4ob6egt6isjfdpfn6q3fepimo2g00dq62po300554pbgc5kn4grfedq00000044g0325dphmgobeehmmarjkec500000044000j9cg018rb9dpim6sj1cpq3ktbec9p6aobbd5n6e0g00dm7cr00040060068hgmqob7ck0000001800ep39edo6oobp14008j3fe9igg000000g1gjr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bgr93uaj7gr96v1mi0cjam9mjgr91v1mi2i1qksm3581odkhvgr9390p6lcl071mi7sjd10s6q89ik0s6q81odkjfgr91p2fleio8jkcls788hq48h7q0000400agrfeln78080
+      Ignored_For_Permissions: []
+    iron_hoe:
+      Name: Iron Hoe
+      Chance: 25.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: a0000g002d5i004jdd5n6aoric5j78ej9e9nmsnr8dtigk003ehgme0o01996as31d5p46rrjeg0000011400ohbecdk62rjkdlimst3j1800000110004qb400a6qqbeclhn4ob6egt6apj6d5hmipbecdsg4003dhr6o003001g01i4c5mm2pr5000000000400agrfeln78080
+      Commands: []
+      Items:
+      - 1800020009km800idlkmspb3e9gmct1qd5p6urivd1nma2g00dq62po300554pbgc5kn4grfedq00000044g0325dphmgobeehmmarjkec500000044000j9cg018rb9dpim6sj1cpq3kpb6cpkm6qb5dphni0g00dm7cr000c0060068hgmqob7ck0000001800ep39edo6oobp14008j3fe9igg000000g1gjr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bgr93uaj7gr96v1mi0cjam9mjgr91v1mi2i1qksm3581odkhvgr9390p6lcl071mi7sjd10s6q89ik0s6q81odkjfgr91p2fleio8jkcls788hq48h7q0000400agrfeln78080
+      Ignored_For_Permissions: []
+    enchanting_table:
+      Name: Enchanting Table
+      Chance: 25.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: a0000g002d5i006jdd5n6aoric5j78ej5dphmgobeehkmspqvehgm4r350400agrfeln78080
+      Commands: []
+      Items:
+      - 2g0004000j9cg01krb9dpim6sj1cpq3kpbecdk62rjkd5n6enrkc5h6op8a001n8ob71800ep39edo6oobp14008j3fe9igg000000g1gjr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bgr93uaj7gr96v1mi0cjam9mjgr91v1mi2i1qksm3581odkhvgr9390p6lcl071mi7sjd10s6q89ik0s6q81odkjfgr91p2fleio8jkcls788hq48h7q0000400agrfeln78080
+      Ignored_For_Permissions: []
+    bookshelf:
+      Name: Bookshelf
+      Chance: 25.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: 5000080016ip002dmmirj5cdp62pjk79h6urrbedk6ar360400agrfeln78400
+      Commands: []
+      Items:
+      - 1800020009km800jdlkmspb3e9gmct1qc9nmuqrjd1imopga001n8ob71800ep39edo6oobp14008j3fe9igg000000g1gjr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bgr93uaj7gr96v1mi0cjam9mjgr91v1mi2i1qksm3581odkhvgr9390p6lcl071mi7sjd10s6q89ik0s6q81odkjfgr91p2fleio8jkcls788hq48h7q0000400agrfeln78400
+      Ignored_For_Permissions: []
+    iron_ingot:
+      Name: Iron Ingot
+      Chance: 25.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: 1800020009km800kdlkmspb3e9gmct1qd5p6urivd5n6errk0400agrfeln78400
+      Commands: []
+      Items:
+      - a0000g002d5i0053dd5n6aoric5j78ej9e9nmsnr9dpjmut0a001n8ob71800ep39edo6oobp14008j3fe9igg000000g1gjr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bgr93uaj7gr96v1mi0cjam9mjgr91v1mi2i1qksm3581odkhvgr9390p6lcl071mi7sjd10s6q89ik0s6q81odkjfgr91p2fleio8jkcls788hq48h7q0000400agrfeln78400
+      Ignored_For_Permissions: []
+    oak_log:
+      Name: Oak Log
+      Chance: 25.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: 2g0004000j9cg012rb9dpim6sj1cpq3krr1ddfmorr70400agrfeln78800
+      Commands: []
+      Items:
+      - k00010004qb4008mqqbeclhn4ob6egt6uobbbtm6upoa001n8ob71800ep39edo6oobp14008j3fe9igg000000g1gjr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bgr93uaj7gr96v1mi0cjam9mjgr91v1mi2i1qksm3581odkhvgr9390p6lcl071mi7sjd10s6q89ik0s6q81odkjfgr91p2fleio8jkcls788hq48h7q0000400agrfeln78800
+      Ignored_For_Permissions: []
+    diamond:
+      Name: Diamond
+      Chance: 25.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: 2g0004000j9cg012rb9dpim6sj1cpq3kp39c5mmurj40400agrfeln78180
+      Commands: []
+      Items:
+      - k00010004qb4008mqqbeclhn4ob6egt68qb1dlnmsp0a001n8ob71800ep39edo6oobp14008j3fe9igg000000g1gjr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bgr93uaj7gr96v1mi0cjam9mjgr91v1mi2i1qksm3581odkhvgr9390p6lcl071mi7sjd10s6q89ik0s6q81odkjfgr91p2fleio8jkcls788hq48h7q0000400agrfeln78180
+      Ignored_For_Permissions: []
+    cooked_porkchop:
+      Name: Cooked Porkchop
+      Chance: 25.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: 1800020009km800pdlkmspb3e9gmct1qcdnmuqr5chfn0rriddhmgrrg0400agrfeln78800
+      Commands: []
+      Items:
+      - a0000g002d5i006bdd5n6aoric5j78ej3dtnmmpb4bto6usjbcdk6us0a001n8ob71800ep39edo6oobp14008j3fe9igg000000g1gjr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bgr93uaj7gr96v1mi0cjam9mjgr91v1mi2i1qksm3581odkhvgr9390p6lcl071mi7sjd10s6q89ik0s6q81odkjfgr91p2fleio8jkcls788hq48h7q0000400agrfeln78800
+      Ignored_For_Permissions: []
+    cooked_beef:
+      Name: Cooked Beef
+      Chance: 25.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: a0000g002d5i005bdd5n6aoric5j78ej3dtnmmpb4bth6apb60400agrfeln78400
+      Commands: []
+      Items:
+      - 2g0004000j9cg01arb9dpim6sj1cpq3korfdtlmap2vc9imapga001n8ob71800ep39edo6oobp14008j3fe9igg000000g1gjr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bgr93uaj7gr96v1mi0cjam9mjgr91v1mi2i1qksm3581odkhvgr9390p6lcl071mi7sjd10s6q89ik0s6q81odkjfgr91p2fleio8jkcls788hq48h7q0000400agrfeln78400
+      Ignored_For_Permissions: []
+    cooked_mutton:
+      Name: Cooked Mutton
+      Chance: 25.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: k00010004qb400bmqqbeclhn4ob6egt66rrfddim8nrdelq78rre0400agrfeln78400
+      Commands: []
+      Items:
+      - 5000080016ip002tmmirj5cdp62pjk79hmurrbcli5urblehq6urga001n8ob71800ep39edo6oobp14008j3fe9igg000000g1gjr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bgr93uaj7gr96v1mi0cjam9mjgr91v1mi2i1qksm3581odkhvgr9390p6lcl071mi7sjd10s6q89ik0s6q81odkjfgr91p2fleio8jkcls788hq48h7q0000400agrfeln78400
+      Ignored_For_Permissions: []
+Animation_Config: mystery_auto_1
+Item:
+  Material: IRON_BLOCK
+Last_Opener: ~&5&k&l&m&n&oV&d&k&m&n&oV&6&l&n&oCoCa&e&l&n&oCoLa&d&k&l&m&n&oV&5&k&l&m&n&oV&r
+Last_Reward: Iron Ingot

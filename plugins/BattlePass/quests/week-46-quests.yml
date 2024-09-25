@@ -1,0 +1,46 @@
+quests:
+  132: # Quest id
+    name: 'Mine' # The name given to the quest.
+    type: block_break # The type of quest
+    variable: sand:0 # The block the player must break.
+    required-progress: 512 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_shovel:0
+      amount: 1
+      name: '&eMine'
+      lore:
+        - '&7Break &e512 sand'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+  133: # Quest id
+    name: 'Mine' # The name given to the quest.
+    type: block_break # The type of quest
+    variable: red_sand:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_shovel:0
+      amount: 1
+      name: '&eMine'
+      lore:
+        - '&7Break &e512 red sand'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  134: # Quest id
+    name: 'Smelt' # The name given to the quest.
+    type: smelt # The type of quest
+    variable: glass:0 # The block the player must break.
+    required-progress: 512 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: furnace:0
+      amount: 1
+      name: '&eSmelt'
+      lore:
+        - '&7Smelt &e512 glass'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+

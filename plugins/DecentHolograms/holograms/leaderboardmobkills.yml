@@ -1,0 +1,135 @@
+location: spawn:68.500:0.000:-42.500
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: PIG_SPAWNER !ENCHANTED'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴍ&#ffaf1c&lᴏ&#ffb939&lѕ&#ffc355&lᴛ &#ffcd71&lᴍ&#ffd78e&lᴏ&#ffe1aa&lʙ
+      &#ffebc6&lᴋ&#fff5e3&lɪ&#ffffff&lʟ&#e8f9e8&lʟ &#d1f4d1&l- &#bbeebb&lᴀ&#a4e9a4&lʟ&#8de38d&lʟ
+      &#76de76&lᴛ&#60d860&lɪ&#49d349&lᴍ&#32cd32&lᴇ'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '#FFA500#1 &f%ajlb_lb_statistic_mob_kills_1_alltime_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_1_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#2 &f%ajlb_lb_statistic_mob_kills_2_alltime_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_2_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#3 &f%ajlb_lb_statistic_mob_kills_3_alltime_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_3_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#4 &f%ajlb_lb_statistic_mob_kills_4_alltime_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_4_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#5 &f%ajlb_lb_statistic_mob_kills_5_alltime_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_5_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#6 &f%ajlb_lb_statistic_mob_kills_6_alltime_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_6_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#7 &f%ajlb_lb_statistic_mob_kills_7_alltime_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_7_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#8 &f%ajlb_lb_statistic_mob_kills_8_alltime_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_8_alltime_value%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&fʏᴏᴜʀ ᴛᴏᴛᴀʟ ᴍᴏʙ ᴋɪʟʟѕ&8: &e%statistic_mob_kills%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴄ&#ffb42b&lʟ&#ffc355&lɪ&#ffd280&lᴄ&#ffe1aa&lᴋ &#fff0d5&lᴛ&#ffffff&lᴏ
+      &#ddf7dd&lᴛ&#bbeebb&lᴏ&#99e699&lɢ&#76de76&lɢ&#54d554&lʟ&#32cd32&lᴇ'
+    height: 0.3
+  - content: '#FFFFFF&lALLTIME&r &8- &7Monthly&r &8- &7Weekly'
+    height: 0.3
+  actions:
+    LEFT:
+    - NEXT_PAGE
+    RIGHT:
+    - NEXT_PAGE
+- lines:
+  - content: '#ICON: SKELETON_SKULL !ENCHANTED'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴍ&#ffaf1c&lᴏ&#ffb939&lѕ&#ffc355&lᴛ &#ffcd71&lᴍ&#ffd78e&lᴏ&#ffe1aa&lʙ
+      &#ffebc6&lᴋ&#fff5e3&lɪ&#ffffff&lʟ&#e8f9e8&lʟ &#d1f4d1&l- &#bbeebb&lᴍ&#a4e9a4&lᴏ&#8de38d&lɴ&#76de76&lᴛ&#60d860&lʜ&#49d349&lʟ&#32cd32&lʏ'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '#FFA500#1 &f%ajlb_lb_statistic_mob_kills_1_monthly_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_1_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#2 &f%ajlb_lb_statistic_mob_kills_2_monthly_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_2_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#3 &f%ajlb_lb_statistic_mob_kills_3_monthly_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_3_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#4 &f%ajlb_lb_statistic_mob_kills_4_monthly_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_4_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#5 &f%ajlb_lb_statistic_mob_kills_5_monthly_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_5_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#6 &f%ajlb_lb_statistic_mob_kills_6_monthly_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_6_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#7 &f%ajlb_lb_statistic_mob_kills_7_monthly_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_7_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#8 &f%ajlb_lb_statistic_mob_kills_8_monthly_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_8_monthly_value%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&fʏᴏᴜʀ ᴛᴏᴛᴀʟ ᴍᴏʙ ᴋɪʟʟѕ&8: &e%statistic_mob_kills%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴄ&#ffb42b&lʟ&#ffc355&lɪ&#ffd280&lᴄ&#ffe1aa&lᴋ &#fff0d5&lᴛ&#ffffff&lᴏ
+      &#ddf7dd&lᴛ&#bbeebb&lᴏ&#99e699&lɢ&#76de76&lɢ&#54d554&lʟ&#32cd32&lᴇ'
+    height: 0.3
+  - content: '&7Alltime&r &8- #FFFFFF&lMONTHLY&r &8- &7Weekly'
+    height: 0.3
+  actions:
+    LEFT:
+    - NEXT_PAGE
+    RIGHT:
+    - NEXT_PAGE
+- lines:
+  - content: '#ICON: SKELETON_SKULL !ENCHANTED'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴍ&#ffb01e&lᴏ&#ffba3c&lѕ&#ffc55a&lᴛ &#ffcf78&lᴍ&#ffda96&lᴏ&#ffe5b4&lʙ
+      &#ffefd2&lᴋ&#fffaf0&lɪ&#f3fcf3&lʟ&#dbf6db&lʟ &#c3f0c3&l- &#abeaab&lᴡ&#92e592&lᴇ&#7adf7a&lᴇ&#62d962&lᴋ&#4ad34a&lʟ&#32cd32&lʏ'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '#FFA500#1 &f%ajlb_lb_statistic_mob_kills_1_weekly_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_1_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#2 &f%ajlb_lb_statistic_mob_kills_2_weekly_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_2_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#3 &f%ajlb_lb_statistic_mob_kills_3_weekly_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_3_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#4 &f%ajlb_lb_statistic_mob_kills_4_weekly_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_4_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#5 &f%ajlb_lb_statistic_mob_kills_5_weekly_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_5_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#6 &f%ajlb_lb_statistic_mob_kills_6_weekly_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_6_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#7 &f%ajlb_lb_statistic_mob_kills_7_weekly_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_7_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#8 &f%ajlb_lb_statistic_mob_kills_8_weekly_name% &8| #32CD32%ajlb_lb_statistic_mob_kills_8_weekly_value%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&fʏᴏᴜʀ ᴛᴏᴛᴀʟ ᴍᴏʙ ᴋɪʟʟѕ&8: &e%statistic_mob_kills%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴄ&#ffb42b&lʟ&#ffc355&lɪ&#ffd280&lᴄ&#ffe1aa&lᴋ &#fff0d5&lᴛ&#ffffff&lᴏ
+      &#ddf7dd&lᴛ&#bbeebb&lᴏ&#99e699&lɢ&#76de76&lɢ&#54d554&lʟ&#32cd32&lᴇ'
+    height: 0.3
+  - content: '&7Alltime&r &8- &7Monthly&r &8- #FFFFFF&lWEEKLY&r'
+    height: 0.3
+  actions:
+    LEFT:
+    - PAGE:leaderboardmob_kills:1
+    RIGHT:
+    - PAGE:leaderboardmob_kills:1

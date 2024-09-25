@@ -1,0 +1,145 @@
+# Use this document to configure the messages of your AutomaticBroadcast Plugin.
+# If you require any assistance with the plugin, please contact me on discord (https://discord.io/AnimalPlugins).
+#   _____     _                 _   _     _____               _             _
+#  |  _  |_ _| |_ ___ _____ ___| |_|_|___| __  |___ ___ ___ _| |___ ___ ___| |_
+#  |     | | |  _| . |     | .'|  _| |  _| __ -|  _| . | .'| . |  _| .'|_ -|  _|
+#  |__|__|___|_| |___|_|_|_|__,|_| |_|___|_____|_| |___|__,|___|___|__,|___|_|
+#
+# Placeholders:
+# Use '&' to use the basic minecraft color code.
+# The plugin also supports hex colors : '&#123456'
+# To create color gradients, you can use : https://rgb.birdflop.com/
+# >> -> Changes automatically to the double arrow character.
+# AutomaticBroadcast also supports PlaceHolderAPI placeholders (make sure the extension(s) you need are downloaded!)
+# Please refer to PAPI's wiki : https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders
+
+# The broadcasts that will be displayed automatically.
+broadcasts:
+  # The name of the broadcast, basically a key word to know which broadcast is which (does not change anything in-game).
+  # Make sure every broadcast has a different name (no duplicates!)
+#  plugin:
+#    # A list of messages that will be displayed when the broadcast occurs.
+#    messages:
+#      - ""
+#      - "                  &b&l<< &3&l! &b&l>> AutomaticBroadcast"
+#      - "  &fThank you for downloading my &3&lAuto&b&lmatic &8&lBroad&7&lcast"
+#      - "       plugin! I hope it will be helpful on your server!"
+#      - "   &bVisit the support discord for any help with the plugin!"
+#      - ""
+#    # What will occur when a player clicks on the broadcast :
+#    # "*" -> Suggests a message in the player's chat. (Ex.: *exemple -> Suggests "exemple")
+#    # "/" -> Suggests a command in the player's chat. (Ex.: /exemple -> Suggests "/exemple")
+#    # Anything else opens a link if IT IS VALID! (Make sure to add "https://...")
+#    click: "/automaticbroadcast"
+#    # The tooltip that will be displayed when the players hover over the message.
+#    hover:
+#      - "    &b&l<< &3&l! &b&l>> ToolTip"
+#      - "&3&l* &fMultiple lines!"
+#      - "&3&l* &fUseful informations!"
+#      - "&3&l* &fClickable!"
+#    # The sound played for every player receiving the broadcast.
+#    # Please refer to the bukkit list of sounds : https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
+#    sound: ENTITY_EXPERIENCE_ORB_PICKUP
+#    exempted_players:
+#      - exempted-player1
+#      - exempted-player2
+#
+  discord:
+    messages:
+      - ""
+      - "                          &d&l>> Discord &d&l<<"
+      - "    &fJoin our official Minecraft Server To Get support on discord"
+      - "              and connect with our Community !!"
+      - "        &dJoin the discord on &d&ndiscord.gg/7Y6WEuyJ&r
+"
+      - ""
+    click: "https://discord.gg/7Y6WEuyJ"
+    hover:
+      - "&d&l<< &5&l! &d&l>> Click to Join!"
+
+  staff:
+    messages:
+      - ""
+      - "             &c&l<< &4&l! &c&l>> Staff Assistance"
+      - "  &fIf you need any form of help or assistance"
+      - "    from our staff, do not hesitate to ask us!"
+      - "      &cMessage all online staff using: /helpop"
+      - ""
+    click: "/helpop I need help"
+
+  shop:
+    messages:
+      - ""
+      - "             &f&lTry out &6&lIndi&f&lCraft&a&lMc's&f&l Shop"
+      - "Looking to earn some money or shop for items?"
+      - "Try our shop commands:"
+      - "&e/shop &7(Open the main shop)"
+      - "&e/shop <section> &7(Open a shop section directly from the command)"
+      - "&e/sellall inventory &7(Sell all items from your inventory)"
+      - "&e/sellall <item> &7(Sell all items of a specific material)"
+      - "&e/sellall hand &7(Sell all items in your hand)"
+      - "&e/sellgui &7(Sell items in a special chest, available for Rank Players only)"
+      - ""
+    hover:
+      - "&d&l<< &5&l! &d&l>> Click to Open Shop!"
+    click: "/shop"
+
+  dailyrewards:
+    messages:
+      - ""
+      - "             &c&l>> Daily Rewards &c&l<<"
+      - "    &fLog in daily for exclusive rewards "
+      - "and bonuses to level up your Minecraft adventure!"
+      - "    &c&lCheck it Now !! By doing /rewards !"
+      - ""
+    click: "/rewards"
+
+  crates:
+    messages:
+      - ""
+      - "                        &6&l>> Crates &6&l<<"
+      - "&fUnlock rare loot and surprises in our mystery crates "
+      - "   the key to enhancing your Minecraft journey!"
+      - "    &6&lCheck all crates by doing /warp crates!"
+      - ""
+    click: "/warp crates"
+
+  end:
+    messages:
+      - ""
+      - "                        &d&l>> The End &d&l<<"
+      - "              &fConquer the End, uncover treasures,  "
+      - "and face thrilling challenges in our Minecraft server's epic End dimension!"
+      - "      &d&lReady for the ultimate adventure? Just do /warp "
+      - "                         and Click END "
+      - ""
+    click: "/warp end"
+
+  clans:
+    messages:
+      - ""
+      - "             &f&lTry out &6&lIndi&f&lCraft&a&lMc's&f&l Clans"
+      - "Looking to make clan for ur team?"
+      - "Try our clan commands:"
+      - "&e/clan create - creates a clan"
+      - "&e/clan invite - invites someone to your clan "
+      - "&e/clan leaderboard - shows the best players"
+      - "&e/clan war - starts/ends wars"
+      - "&e/clan land - shares lands with your clan members"
+      - "&e/clan ally - adds/removes alliances"
+      - "&e/clan home - sets/teleports to your clan base"
+      - "&e/clan list - lists all clans"
+      - "&e/clan profile - shows information about a clan"
+      - "&e/clan lookup - shows information about a player"
+      - "&e/clan promote - promotes a member to leader"
+      - "&e/clan trust - trusts a member"
+      - "&e/ally <message> and /. <message> - to talk with clan members or allies"
+      - "&e/clan bank - manages the bank account"
+      - ""
+    hover:
+      - "&d&l<< &5&l! &d&l>> Click to see all clan!"
+    click: "/clan"
+
+
+
+ 

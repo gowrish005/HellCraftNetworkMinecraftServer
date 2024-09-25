@@ -1,0 +1,45 @@
+quests:
+  56: # Quest id
+    name: 'Voter' # The name given to the quest.
+    type: votifier_vote # The type of quest
+    variable: none # The block the player must break.
+    required-progress: 5 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: tripwire_hook:0
+      amount: 1
+      name: '&eVoter'
+      lore:
+        - '&7Vote &e20 times'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+  57: # Quest id
+    name: 'Crate' # The name given to the quest.
+    type: excellentcrates_open 
+    variable: none # The block the player must break.
+    required-progress: 10 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: chest:0
+      amount: 1
+      name: '&eCrate'
+      lore:
+        - '&7Open crate &e10 times'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  58: # Quest id
+    name: 'Playtime' # The name given to the quest.
+    type: playtime 
+    variable: none # The block the player must break.
+    required-progress: 3600 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: clock:0
+      amount: 1
+      name: '&ePlaytime'
+      lore:
+        - '&7Play for &e1 hours'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'

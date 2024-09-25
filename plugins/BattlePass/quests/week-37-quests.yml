@@ -1,0 +1,19 @@
+quests:
+  114: # Quest id
+    name: 'Enchanter' # The name given to the quest.
+    type: enchant # The type of quest
+    variable: none # The block the player must break.
+    required-progress: 50 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: enchanting_table:0
+      amount: 1
+      name: '&eEnchanter'
+      lore:
+        - '&7Enchant &e50 items'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+ 
+
+

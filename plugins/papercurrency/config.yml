@@ -1,0 +1,129 @@
+#common settings
+
+item: 'PAPER'
+name: '&a&lBank Note &7(Right Click)'
+glow: true
+#per-person banknote create limit
+limitvault: 1000
+limitxp: 1000
+custom_data_vault: 2222
+custom_data_xp: 2222
+#helps to convert notes from 1.5 to latest
+legacy: false
+#if note creator and redeemer is same then no tax, if both are different then tax goes to server
+taxother: false
+#----------------------------------
+#if punishment is true plugin will ban when dupe found
+#if punishmentsame is true plugin will only ban if the note maker and redeemer is same
+#this prevents false ban when dupe notes distributed(no one will get money and dupe message will still comes)
+punishment: false
+punishmentsame: true
+#you can put ban, kick, ipban etc
+punish: 'ban'
+banmessage: 'found you duping'
+#----------------------------------
+#add ranks which will have sounds
+ranks:
+  - vip
+  - default    
+#get sound from here https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+#global sound is for those which are not in ranks list
+sound:
+  global: 'BLOCK_ANCIENT_DEBRIS_STEP'
+  default: 'BLOCK_ANVIL_PLACE'
+  vip: 'ENTITY_EXPERIENCE_ORB_PICKUP'
+volume: 1
+pitch: 0
+#----------------------------------
+actionbar: true
+title: true
+round: true
+#----------------------------------
+#discord webhook
+webhook: true
+#To get this link goto settings channel in which you want message to be sent then Integrations
+#create new webhook there and copy paste here
+url: 'https://discord.com/api/webhooks/1162048338577854606/J-UlfMKHWJE8SRBdaPh7NiiAgDeelPwaXjRDNsIxo95AcZ7KAfJt1mhBQIZ9i4fl9yNV'
+#---------------------------------
+#add worlds which you want to allow
+worlds:
+  - 'world'
+  - 'world_nether'
+  - 'world_the_end'
+  - 'spawn'
+  - 'pvp'
+#---------------------------------
+message:
+  dupe: '&cDuper found %player% is redeemer and %player1% is note creater'
+  discord: 'Duper found %player% is redeemer and %player1% is note creater'
+  world: '&cThis command is not allowed in this world'
+  limit: '&cReached creation limit'
+  balance: '&fYou have &6%totalxp%&2xp &fand &2$&6%totalvault%'
+
+#---------------------------------
+log:
+  url: 'https://discord.com/api/webhooks/1171864039316525077/puWn9i5cOHfkZfRAJy1Ko9dTUjqgmzn8TxBAi_rnIG6FbTOGxzy-k8pEV9ZPr1ZTvEqJ'
+  create: true
+  withdraw: true
+
+
+#economy settings
+pc:
+  min: 1
+  max: 100000000
+# 1=no tax, 0.1=10% 0.2=20%
+#10/100=0.1
+  tax: 0
+  message:
+#you can use placeholderapi as shown
+#dont forget to /papi ecloud download Formatter
+#or what ever you use
+    lore:
+     - '#fb0000+#ef030d-#e20619-#d60926-#ca0c33-#bd0f3f-#b1114c-#a51459-#981765-#8c1a72-#801d7f-#73208b-#672398-#5a26a4-#4e29b1-#422cbe-#352eca-#2931d7-#1d34e4-#1037f0-#043afd+'
+     - '&bAmount - &6$&2%formatter_number_format_%amount%%'
+     - '&eThis is for &a&nMoney'
+     - '&7by %player_name% &7on &8%date%'
+     - '#fb0000+#ef030d-#e20619-#d60926-#ca0c33-#bd0f3f-#b1114c-#a51459-#981765-#8c1a72-#801d7f-#73208b-#672398-#5a26a4-#4e29b1-#422cbe-#352eca-#2931d7-#1d34e4-#1037f0-#043afd+'
+    redeem: '&a%amount%- amount of banknote is added to balance'
+    amount: '&eYou dont have %amount%'
+    actionbar: '&6>> &6$&a%amount%- amount of banknote is added to balance &6<<'
+    title: '&6>> &6$&a%amount%- amount of banknote is added to balance &6<<'
+#------------------------------
+#xp settings
+xp:
+  min: 1
+  max: 1000
+# 1=no tax, 0.1=10% 0.2=20%
+#10/100=0.1
+  tax: 0
+  message:
+    lore:
+     - '&6+-------------------+'
+     - '&bAmount - &2%amount% &6xp'
+     - '&eThis is for &b&nExp'
+     - '&7by %player_name% &7on &8%date%'
+     - '&6+-------------------+'
+    redeem: '&a%amount%- amount of xp is added to balance'
+    amount: '&eYou dont have %amount% xp'
+    actionbar: '&6>> &a%amount%- amount of xp is added to balance &6<<'
+    title: '&6>> &a%amount%- amount of xp is added to balance &6<<'
+#--------------------------------------------------
+loan:
+  min: 1
+  max: 10000
+#in %
+  intrest: 2
+  increment: 1
+#in sec
+  every: 60
+  maxintrest: 100
+#delay in seconds and -1 to stop reminders
+  reminder: 3600
+  message:
+    negative: '&cNegetive or zero loan not allowed'
+    loan: '&2loan recived of $%amount%'
+    already: '&cyou already have a loan of $%amount%'
+    fullpay: '&2Full amount paid of $%amount%'
+    notpaid: '&eFull amount not paid, You still have $%amount% to pay'
+    repay: '&2You dont have any loan'
+    reminder: 'You have %amount% loan dont forget to pay'

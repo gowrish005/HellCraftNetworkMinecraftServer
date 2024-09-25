@@ -1,0 +1,44 @@
+quests:
+  2: # Quest id
+    name: 'Mine' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: iron_ore:0 # The block the player must break.
+    required-progress: 16 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_pickaxe:0
+      amount: 1
+      name: '&eMine'
+      lore:
+        - '&7Mine &e16 iron'
+        - ''
+        - '&7Progress &e%progress_bar%'
+
+  3: # Quest id
+    name: 'Mine' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: coal_ore:0 # The block the player must break.
+    required-progress: 32 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_pickaxe:0
+      amount: 1
+      name: '&eMine'
+      lore:
+       - '&7Mine &e32 coal'
+       - ''
+       - '&7Progress &e%progress_bar%'
+
+  4:
+    name: 'Smelt'
+    type: smelt
+    variable: iron_ingot:0
+    required-progress: 16
+    points: 10
+    item:
+      material: furnace:0
+      name: '&eSmelt'
+      lore:
+        - '&7Smelt &e16 iron ore'
+        - ''
+        - '&7Progress &e%total_progress%&7/&e%required_progress%'

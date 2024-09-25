@@ -1,0 +1,45 @@
+quests:
+  125: # Quest id
+    name: 'Farmer' # The name given to the quest.
+    type: block_break # The type of quest
+    variable: melon:0 # The block the player must break.
+    required-progress: 500 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: hay_block:0
+      amount: 1
+      name: '&eFarmer'
+      lore:
+        - '&7Farm &e500 melons'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+  126: # Quest id
+    name: 'Farmer' # The name given to the quest.
+    type: block_break # The type of quest
+    variable: pumpkin:0 # The block the player must break.
+    required-progress: 500 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: hay_block:0
+      amount: 1
+      name: '&eFarmer'
+      lore:
+        - '&7Farm &e500 pumpkins'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  127: # Quest id
+    name: 'Smelt' # The name given to the quest.
+    type: smelt # The type of quest
+    variable: baked_potato:0 # The block the player must break.
+    required-progress: 500 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: furnace:0
+      amount: 1
+      name: '&eSmelt'
+      lore:
+        - '&7Smelt &e500 baked potatoes'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'

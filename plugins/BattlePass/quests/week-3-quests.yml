@@ -1,0 +1,46 @@
+quests:
+  5: # Quest id
+    name: 'Lumberjack' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: oak_log:0 # The block the player must break.
+    required-progress: 32 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_axe:0
+      amount: 1
+      name: '&eLumberjack'
+      lore:
+        - '&7Break &e32 oak log'
+        - ''
+        - '&7Progress &e%progress_bar%'
+
+  6: # Quest id
+      name: 'Lumberjack' # The name given to the quest.
+      type: block-break # The type of quest
+      variable: birch_log:0 # The block the player must break.
+      required-progress: 32 # The amount of times the player should break the coal ore block.
+      points: 10 # The amount of points that will be rewarded
+      item: # The item that will be displayed in menus.
+        material: diamond_axe:0
+        amount: 1
+        name: '&eLumberjack'
+        lore:
+          - '&7Break &e32 birch log'
+          - ''
+          - '&7Progress &e%progress_bar%'
+
+  7: # Quest id
+      name: 'Lumberjack' # The name given to the quest.
+      type: block-break # The type of quest
+      variable: spruce_log:0 # The block the player must break.
+      required-progress: 32 # The amount of times the player should break the coal ore block.
+      points: 10 # The amount of points that will be rewarded
+      item: # The item that will be displayed in menus.
+        material: diamond_axe:0
+        amount: 1
+        name: '&eLumberjack'
+        lore:
+          - '&7Break &e32 spruce log'
+          - ''
+          - '&7Progress &e%progress_bar%'
+

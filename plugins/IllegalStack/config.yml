@@ -1,0 +1,157 @@
+ConfigVersion: '2.0'
+UserRequested:
+  Obscure:
+    HackedShulker:
+      CheckGroundForBadShulkerAtLogin: false
+      DestroyInvalidShulkers: false
+    HopperCheck:
+      IgnoreAllHopperChecks: false
+    IgnoreAllShulkerPlaceChecks: false
+    BlockBadItemsFromCreativeTab: false
+  Obsure:
+    Misc:
+      RemoveAllRenamedItems: false
+  ItemRemoval:
+    ItemLoresToRemove: []
+    BlockRepairsInstead: false
+    NameLoreStrictMatchMode: false
+    ItemNamesToRemove: []
+    BlockEnchantingInstead: false
+    RemoveItemsMatchingName: false
+  Cobble:
+    PreventCobbleGenerators: false
+  NetherDamage:
+    DamageAmount: 2
+    DamageDelay: 2
+    DamagePlayersAboveNether: false
+  Mobs:
+    PreventZombieItemPickup: false
+    PreventVexTrapping: false
+  Spawners:
+    ResetSpawnersOfType: []
+    ResetSpawnersOfTypeOnSpawn: []
+    SpawnerReset: false
+  Misc:
+    NotifyInsteadOfBlock: []
+Exploits:
+  Other:
+    PreventMinecartsInBoats: false
+    PreventCommandsInBed: true
+    PreventBedExplosions: true
+    PreventEndPortalDestruction: true
+    PreventHoppersToUnloadedChunks: true
+    PreventBedrockDestruction: true
+    PreventNestedShulkers: true
+    PreventRailDupe: true
+    PreventInvalidPotions: true
+    PreventItemSwapLagExploit: true
+  Nether:
+    ExcludeNetherWorldFromHeightCheck: []
+    BlockBuildingAboveNether: true
+    NetherYLevel: 256
+    KillPlayersBelowNether: false
+    BlockPlayersAboveNether: false
+    EnsureSafeTeleportLocationIfAboveCeiling: false
+  NegativeDurability: true
+  MineCart:
+    PreventHeadInsideBlocks: false
+    PreventMinecartGlitch: false
+    MinecartBlockWhiteList: []
+    RemoveExistingGlitchedMinecarts: false
+  DropperDupe:
+    BlockLoopedDroppers: false
+  1_14_Exploits:
+    Traders:
+      ZombieVillagerTransformChance: 100
+      BlockVillagerTradeCheesing: false
+      VillagerRestockTime: 0
+  Fishing:
+    KickForAutoClickerFishing: true
+  RecordDupe: true
+  NetherPortal:
+    PreventPortalTrap: false
+  Enchants:
+    AllowBypass: false
+    RemoveUnbreakableFlag: false
+    FixIllegalEnchants: false
+    CustomEnchantOverride: []
+    DestroyIllegallyEnchantedItemsInstead: false
+    OnlyFunctionInWorlds: []
+    RemoveCustomAttributes: false
+    EnchantedItemWhitelist: []
+  EndGateway:
+    PreventEndGatewayCrashExploit: true
+  LavaDupe:
+    PreventLavaDupe: true
+  Teleport:
+    PearlPhasing: true
+  OverStack:
+    RemoveOverstackedItems: true
+    AllowStack:
+    - TOTEM_OF_UNDYING
+    - POTION
+    PreventOverStackedItemInHoppers: true
+    FixOverstackedItemInstead: false
+    StackWhiteListMode: true
+    RemoveItemsOfType: []
+    GroupStack: []
+  PortalDupe:
+    EndWhiteList: []
+    BlockNonPlayersInEndPortal: true
+    NetherWhiteListMode: true
+    EndWhiteListMode: false
+    NotifyBlockedPortalAttempts: false
+    BlockNonPlayersInNetherPortal: false
+    NetherWhiteList:
+    - DROPPED_ITEM
+    - piglin
+    - HOGLIN
+    - ZOMBIFIED_PIGLIN
+    - EXPERIENCE_ORB
+    - ALLAY
+  Minecart:
+    AlsoPreventHeadInside:
+    - COMPOSTER
+  TNTDupe:
+    PreventIndirectTNTPowerDupe: true
+  3rdParty:
+    BlockCMIShulkerStacking: true
+  BookExploit:
+    DisableBookWriting: true
+  FishMod:
+    MaxFishToNotifyStaffThenBlock: 5
+    MaxFishAllowedBeforeKick: 5
+    WatchForAutoFishMod: true
+    WarnPlayerThenKickInsteadOfNotify: false
+  SignExploit:
+    DestroyBadSignsOnChunkLoad: false
+  Looting:
+    PreventLootingExploit: true
+  1_15_Exploits:
+    Dupes:
+      PreventStringDupe: true
+      PreventTripwireDupe: true
+  '1_13':
+    _Exploits:
+      MeltSnowballsInWater: false
+  RNGEnchant:
+    PreventRNGEnchant: true
+  1_13_Exploits:
+    Entities:
+      ProjectileDespawnDelay: 0
+      PreventProjectileExploit2: false
+Misc:
+  DisableInWorlds: []
+  ItemScanTimer: 10
+  InGameOffenseNotifications: true
+  LogOffensesInSeparateFile: true
+  Spawners:
+    PreventSpawnEggsOnSpawners: true
+  BreakMachinesInsteadOfDroppingItems: true
+  NotifyNearbyPlayers: false
+Exploit:
+  LagMachines:
+    End Crystal: true
+    ArmorStand: true
+  Teleport:
+    CorrectionNotify: false

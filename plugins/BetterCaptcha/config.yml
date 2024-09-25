@@ -1,0 +1,186 @@
+#           ___      _   _            ___           _      _                      Our plugins: https://alonsoaliaga.com/plugins
+#          | _ ) ___| |_| |_ ___ _ _ / __|__ _ _ __| |_ __| |_  __ _              Support server: https://alonsoaliaga.com/discord
+#          | _ \/ -_)  _|  _/ -_) '_| (__/ _` | '_ \  _/ _| ' \/ _` |             Youtube: https://alonsoaliaga.com/play
+#          |___/\___|\__|\__\___|_|  \___\__,_| .__/\__\__|_||_\__,_|             Test server: plugins.alonsoaliaga.com
+#                            by AlonsoAliaga  |_|                                 Twitch: https://alonsoaliaga.com/twitch
+#             Considering donating? https://alonsoaliaga.com/donate               Thanks for using my plugin! <3
+Messages:
+  No-permission: "&cYou don't have permission to do this."
+  Reloaded: "&aSome messages and options have been reloaded. Other may require a restart!"
+  Invalid-player: "&cPlayer is not online!"
+  Start:
+    Cancelled: "&cYour attempt to start captcha verification for {PLAYER} was cancelled by a plugin!"
+    Pending: "&cPlayer {PLAYER} is already in a captcha verification process!"
+    Started: "&aYou started captcha verification for {PLAYER}!"
+    Started-other: "&6You started captcha verification process!"
+    Bulk: "&aStarted captcha process for {SUCCESS} players, {SKIPPED} skipped with permission, {LOGGING} players are not logged (AuthMe) and {PENDING} players are already in a captcha process!"
+    Bulk-empty: "&cCouldn't find players to start verification process! (All of them are logging in, bypassing or in captcha process already)"
+    Not-logged: "&cPlayer {PLAYER} is not authenticated in AuthMe. Skipping.."
+  Stop:
+    Cancelled: "&cYour attempt to stop captcha verification for {PLAYER} was cancelled by a plugin!"
+    Not-pending: "&cPlayer {PLAYER} is not in a captcha verification process!"
+    Stopped: "&aYou stopped captcha verification for {PLAYER}!"
+    Stopped-other: "&6You skipped captcha verification process!"
+    Bulk: "&aStopped captcha process for {STOPPED} players!"
+    Bulk-empty: "&cCouldn't find players with an active captcha process!"
+  Started:
+    #Sound to be sent when a captcha process starts. Set Sound: "none" to disable sound.
+    Sound: "CHEST_OPEN"
+  Stopped:
+    #Sound to be sent when a captcha process stops by command or API. Set Sound: "none" to disable sound.
+    Sound: "ITEM_BREAK"
+  #Option when captcha is completed (all steps)
+  Completed:
+    #Enable?
+    Enabled: false
+    #Sound sent once the player completed all captchas. Set Sound: "none" to disable sound.
+    Sound: EXP_ORB
+    #Message sent once the player completed all captchas. Set Message: [] to disable message.
+    #PlaceholderAPI are supported if plugin is installed.
+    #- "                 &eVisit&b https://alonsoaliaga.com/plugins &r"
+    #- "            &eDon't forget to rate 5 stars if you loved the plugin!"
+    #- " &r"
+    Message:
+    - "&aYou complete captcha successfully!&r"
+    - " &r"
+    - "             &6&l&nWelcome to a IndiCraftMC!&r"
+    - " &r"
+    - "                &c&l{PLAYER}&r&c, thanks for playing here!"
+    - " &r"
+
+  Failed:
+    #Enable?
+    Enabled: true
+    #Sound sent once the player failed one captcha. Set Sound: "none" to disable sound.
+    Sound: ANVIL_LAND
+    #Message sent once the player failed one captcha. Set Message: [] to disable message.
+    #PlaceholderAPI are supported if plugin is installed.
+    Message:
+    - " &r"
+    - "&cYou failed captcha! You'll be kicked."
+    - " &r"
+  Cache:
+    #Enable?
+    Enabled: true
+    #Sound sent if the player skip captcha verification.
+    Sound: EXP_ORB
+    #Message sent when player joins the server and skips captcha process because the time between disconnection and reconnection is less than the
+    #amount defined in the configuration for cache players.
+    Message:
+    - "&aYou complete captcha successfully!&r"
+    - " &r"
+    - "             &6&l&nWelcome to a IndiCraftMC!&r"
+    - " &r"
+    - "                &c&l{PLAYER}&r&c, thanks for playing here!"
+    - " &r"
+  Help:
+    Admin:
+    - "&9 /bettercaptcha start <player|*> &f- &bStart captcha process for player"
+    - "&9 /bettercaptcha stop <player|*> &f- &bStop captcha process for player"
+    - "&9 /bettercaptcha reload &f- &bReload configuration"
+    User: []
+  Status:
+    Enabled: "&aCaptcha is enabled! New players will require to complete captcha."
+    Disabled: "&cCaptcha is disabled! New players won't be required to complete captcha."
+  Toggle:
+    Enabled: "&aCaptcha has been enabled! New players will require to complete captcha."
+    Disabled: "&cCaptcha has been disabled! New players won't be required to complete captcha."
+
+Permissions:
+  #Required. Cannot be "none"
+  Admin: "bettercaptcha.admin"
+  #Permission to bypass captcha on join. Operators don't have this permission by default. Required, cannot be "none"
+  Bypass: "bettercaptcha.bypass"
+  #Permission to allow players to use /bettercaptcha command. Supports "none" to disable permission.
+  Main: "none" #Example: "bettercaptcha.main"
+  #Permission to be able to use Cache option. (If player doesn't have this permission but option is enabled, they will have to complete captcha again)
+  #Supports "none" to disable permission.
+  Cache: "none" #Example: "bettercaptcha.cache"
+
+Options:
+  #Enable only if developer asks you to.
+  Debug-mode: false
+  #How many times player must complete captcha after joining.
+  Total-steps: 1
+  #Time in seconds the captcha will be displayed before it's considered as failed.
+  #Minimum 1 second. If lower than 1, it will be set to 1 automatically. Recommended time: 10
+  Time-per-captcha: 60
+  #If enabled, captcha will be considered as failed if player clicks any other slot except the correct one.
+  #If disabled, captcha won't be considered as failed if player clicks any other slot unless this slot is not the correct one AND has an item.
+  Strict-click: true
+  #This option keeps player in the cache for X seconds after leaving the server so the player don't need to complete captcha again
+  #if they reconnect within the defined amount of seconds. Otherwise captcha verification process starts again.
+  Cache:
+    Enabled: true
+    #Time in seconds after disconnection before captcha is required again. Recommended values between 10 - 30 seconds. Default 15 seconds.
+    #This is NOT stored in a database so don't use values that are too high.
+    Time: 20
+  Block:
+    #This prevent players using commands.
+    Commands: true
+    #This prevent players from being damaged and damage others.
+    Damage: true
+    #This prevent players to break/place blocks.
+    Block: true
+    #This prevent players to send messages in chat. (It cancels the event)
+    Chat: true
+    #This prevent players to teleport with all reasons, except "PLUGIN".
+    #Internally, for developers, we use a method to teleport players to a location, this is only for plugins like Spawn TP, etc.
+    #Cancelling all reasons except "PLUGIN" will prevent players to teleport using ender pearls, portals, etc..
+    Teleport: true
+    #This prevent players eating food, potions, etc.
+    Consume: true
+    #This prevent flight being enabled, but not being disabled.
+    Toggle-flight: true
+  #Options for complete captchas (All of them, not one)
+  Complete:
+    Commands:
+      Enabled: false
+      #Commands the console will run when player completes all captcha. This will be ran after player receives the message specified (If option is enableD)
+      #Available placeholders:
+      # {PLAYER} Replaced by player name
+      # {UUID} Replaced by player uuid
+      #DO NOT INCLUDE SLASH for commands.
+      List:
+      - "say The player {PLAYER} completed captcha verification. It's not a bot!"
+      - "eco {PLAYER} add 10"
+  #Options for fail captcha.
+  Fail:
+    Kick:
+      #Should we kick the player?
+      Enabled: true
+      #Supports PlaceholdersAPI if installed.
+      Reason:
+      - "&4&l{PLAYER}, you failed captcha!&r"
+      - "&fYou have been disconnected from the server!&r"
+      - " &r"
+      - "&c&lProblems with Captcha?&r"
+      - "&aUse our Staff help Channel or join our discord server!"
+      - " &r"
+      - "&ahttps://discord.gg/xgkyHkjPEK"
+    Commands:
+      Enabled: false
+      #Commands the console will run when player fails captcha. This will be ran BEFORE the player is kicked (If option is enabled)
+      #Available placeholders:
+      # {PLAYER} Replaced by player name
+      # {UUID} Replaced by player uuid
+      #DO NOT INCLUDE SLASH for commands.
+      List:
+      - "say The player {PLAYER} with uuid {UUID} failed captcha verification!"
+      - "eco {PLAYER} take 150"
+  Hooks:
+    AuthMe-reloaded:
+      #If enabled, captcha will be sent after player successfully log in. Recommended to leave it enabled.
+      Enabled: true
+
+Updates:
+  #Auto update configuration? Enabling will delete comments.
+  Auto-update-configuration: true
+  #Check for updates? Recommended to keep it enabled.
+  Check-updates: true
+  #Notify updates when player with permission joins the server?
+  Notify-updates: true
+  #Permission required to receive update message.
+  Permission: "bettercaptcha.update"
+  #Message to send when update is found.
+  Message: "&9[BetterCaptcha] &eA new update has been found! You are using version {CURRENT}. Download version {NEW} here &c{LINK}"

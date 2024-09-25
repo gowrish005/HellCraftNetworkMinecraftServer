@@ -1,0 +1,160 @@
+quests:
+  183: # Quest id
+    name: 'Smelter' # The name given to the quest.
+    type: semlt # The type of quest
+    variable: brick:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: furnace:0
+      amount: 1
+      name: '&eSmelter'
+      lore:
+        - '&7Smelt &e256 brick'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+  184: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: black_terracotta:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 black terracotta'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  185: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: blue_terracotta:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 blue terracotta'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  186: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: brown_terracotta:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 brown terracotta'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  187: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: cyan_terracotta:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 cyan terracotta'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  188: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: gray_terracotta:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 gray terracotta'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  189: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: green_terracotta:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 green terracotta'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  190: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: light_blue_terracotta:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 light blue terracotta'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  191: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: lime_terracotta:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 lime terracotta'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  192: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: purple_terracotta:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: crafting_table:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e256 purple terracotta'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+
+
+
+
+
+
+
+
+  

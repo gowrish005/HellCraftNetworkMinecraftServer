@@ -1,0 +1,429 @@
+punishment: true
+punishmentsame: true
+punish: 'ban'
+webhook: true
+url: 'https://discord.com/api/webhooks/1162048340331073610/XPRo6OQiwQOKGrKonj3xZq2x3UKF_DBY5vgQtiy-WqxGyVM_yXCCpl4bSJN1_i3yVKTF'
+message:
+  dupe: '&cDuper found %player% is redeemer'
+  banmessage: 'Found you dupe'
+
+
+vouchers:
+#The name of the voucher
+
+  devine: 
+    item: 'PAPER'
+    name: '§e§lѕᴇᴀѕᴏɴᴀʟ §6§lᴅᴇ§f§lᴠɪ§a§lɴᴇ §e§lʀᴀɴᴋ ᴠᴏᴜᴄʜᴇʀ'
+    lore:
+      - '§fᴛʜɪѕᴇ ᴠᴏᴜᴄʜᴇʀ ᴡɪʟʟ ɢɪᴠᴇ ʏᴏᴜ §fᴀᴄᴄᴇѕѕ'
+      - '§fᴛᴏ ᴛʜᴇ §6§lᴅᴇ§f§lᴠɪ§a§lɴᴇ §fʀᴀɴᴋ ꜰᴏʀ ᴛʜɪѕ ѕᴇᴀѕᴏɴ!'
+      - '§r'
+      - '§dʀᴇᴅᴇᴇᴍ §fᴛʜɪѕᴇ ᴠᴏᴜᴄʜᴇʀ ᴛᴏᴅᴀʏ ᴛᴏ ʀᴇᴄᴇɪᴠᴇ ᴀʟʟ'
+      - '§fᴘᴇʀᴋѕ  ᴏꜰ ᴛʜɪѕ ʀᴀɴᴋ  ꜰᴏʀ §aᴏɴᴇ ᴡʜᴏʟᴇ ѕᴇᴀѕᴏɴ.'
+      - '§r'
+      - '§4§lɴᴏᴛᴇ :§c ᴛʜɪѕ ɪѕ ᴠᴀʟɪᴅ ꜰᴏʀ ᴏɴᴇ ѕᴇᴀѕᴏɴ.'
+      - '§r'
+      - '&e&lʀᴇᴄᴇɪᴠᴇʀ &f|&e %player%'
+
+    glowing: true
+#The commands that are run when redeemed if you dont want to use like player then just add [] in the list the whole list will be ignored like this.
+#    player:
+#      - 'balance'
+#      - '[]'
+    console: 
+#      - 'eco give %player% %arg%'
+      - 'lp user %player% parent set devine'
+    player:
+      - 'balance'
+#all messages regarding this voucher
+    message: 
+      redeem: '&7You have just earned $%arg%'
+      subtitle: '&6You have just earned $%arg%'
+      action: '&6You have just earned $%arg%'
+#permission to control who can use it
+    permission: 'Voucher.devine.1'
+#custom datafor texture packs
+    custom_data: 11551
+#whitelisted worlds
+    world:
+      - 'world'
+      - 'world_nether'
+      - 'world_the_end'
+      - 'spawn'
+      - 'pvp'
+#The sound that is played
+    soundtoggle: true
+    sound: 'ENTITY_EXPERIENCE_ORB_PICKUP'
+    titletoggle: true
+    actiontoggle: true
+    messagetoggle: true
+
+
+  godlike: 
+    item: 'PAPER'
+    name: '§b§lɢᴏᴅʟɪᴋᴇ ʀᴀɴᴋ ᴠᴏᴜᴄʜᴇʀ'
+    lore:
+      - '§fᴛʜɪѕᴇ ᴠᴏᴜᴄʜᴇʀ ᴡɪʟʟ ɢɪᴠᴇ ʏᴏᴜ §fᴀᴄᴄᴇѕѕ'
+      - '§fᴛᴏ ᴛʜᴇ §b§lɢᴏᴅʟɪᴋᴇ §fʀᴀɴᴋ ꜰᴏʀ ᴛʜɪѕ ѕᴇᴀѕᴏɴ!'
+      - '§r'
+      - '§dʀᴇᴅᴇᴇᴍ §fᴛʜɪѕᴇ ᴠᴏᴜᴄʜᴇʀ ᴛᴏᴅᴀʏ ᴛᴏ ʀᴇᴄᴇɪᴠᴇ ᴀʟʟ'
+      - '§fᴘᴇʀᴋѕ  ᴏꜰ ᴛʜɪѕ ʀᴀɴᴋ  ꜰᴏʀ §aᴏɴᴇ ᴡʜᴏʟᴇ ѕᴇᴀѕᴏɴ.'
+      - '§r'
+      - '§4§lɴᴏᴛᴇ :§c ᴛʜɪѕ ɪѕ ᴠᴀʟɪᴅ ꜰᴏʀ ᴏɴᴇ ѕᴇᴀѕᴏɴ.'
+      - '§r'
+      - '&e&lʀᴇᴄᴇɪᴠᴇʀ &f|&e %player%'
+
+    glowing: true
+#The commands that are run when redeemed if you dont want to use like player then just add [] in the list the whole list will be ignored like this.
+#    player:
+#      - 'balance'
+#      - '[]'
+    console: 
+#      - 'eco give %player% %arg%'
+      - 'lp user %player% parent set godlike'
+    player:
+      - 'balance'
+#all messages regarding this voucher
+    message: 
+      redeem: '&7You have just earned $%arg%'
+      subtitle: '&6You have just earned $%arg%'
+      action: '&6You have just earned $%arg%'
+#permission to control who can use it
+    permission: 'Voucher.godlike.1'
+#custom datafor texture packs
+    custom_data: 11551
+#whitelisted worlds
+    world:
+      - 'world'
+      - 'world_nether'
+      - 'world_the_end'
+      - 'spawn'
+      - 'pvp'
+#The sound that is played
+    soundtoggle: true
+    sound: 'ENTITY_EXPERIENCE_ORB_PICKUP'
+    titletoggle: true
+    actiontoggle: true
+    messagetoggle: true
+
+  supreme: 
+    item: 'PAPER'
+    name: '&e&lSupreme Rank Voucher'
+    lore:
+      - '#fb0000+#ef030d-#e20619-#d60926-#ca0c33-#bd0f3f-#b1114c-#a51459-#981765-#8c1a72-#801d7f-#73208b-#672398-#5a26a4-#4e29b1-#422cbe-#352eca-#2931d7-#1d34e4-#1037f0-#043afd+'
+      - '&7Use this voucher to get &e&lSupreme Ranke&7.'
+      - '&7Bought by %player%'
+      - '&2Right click to redeem.'
+      - '#fb0000+#ef030d-#e20619-#d60926-#ca0c33-#bd0f3f-#b1114c-#a51459-#981765-#8c1a72-#801d7f-#73208b-#672398-#5a26a4-#4e29b1-#422cbe-#352eca-#2931d7-#1d34e4-#1037f0-#043afd+'
+    glowing: true
+#The commands that are run when redeemed if you dont want to use like player then just add [] in the list the whole list will be ignored like this.
+#    player:
+#      - 'balance'
+#      - '[]'
+    console: 
+#      - 'eco give %player% %arg%'
+      - 'lp user %player% parent set supreme'
+    player:
+      - 'balance'
+#all messages regarding this voucher
+    message: 
+      redeem: '&7You &e??????? &a&lNow! '
+      subtitle: '&6You have just earned $%arg%'
+      action: '&6You have just earned $%arg%'
+#permission to control who can use it
+    permission: 'Voucher.supreme.1'
+#custom datafor texture packs
+    custom_data: 11551
+#whitelisted worlds
+    world:
+      - 'world'
+      - 'world_nether'
+      - 'world_the_end'
+      - 'spawn'
+      - 'pvp'
+#The sound that is played
+    soundtoggle: true
+    sound: 'ENTITY_EXPERIENCE_ORB_PICKUP'
+    titletoggle: true
+    actiontoggle: true
+    messagetoggle: true
+
+
+  Fly1w: 
+    item: 'FEATHER'
+    name: '&6&lFly 1 week Command Voucher'
+    lore:
+      - '#fb0000+#ef030d-#e20619-#d60926-#ca0c33-#bd0f3f-#b1114c-#a51459-#981765-#8c1a72-#801d7f-#73208b-#672398-#5a26a4-#4e29b1-#422cbe-#352eca-#2931d7-#1d34e4-#1037f0-#043afd+'
+      - '&7Use this voucher to get &6Fly For 1 week&7.'
+      - '&7Bought by %player%'
+      - '&2Right click to redeem.'
+      - '#fb0000+#ef030d-#e20619-#d60926-#ca0c33-#bd0f3f-#b1114c-#a51459-#981765-#8c1a72-#801d7f-#73208b-#672398-#5a26a4-#4e29b1-#422cbe-#352eca-#2931d7-#1d34e4-#1037f0-#043afd+'
+    glowing: true
+#The commands that are run when redeemed if you dont want to use like player then just add [] in the list the whole list will be ignored like this.
+#    player:
+#      - 'balance'
+#      - '[]'
+    console: 
+#      - 'eco give %player% %arg%'
+      - 'lp user %player% permission settemp essentials.fly true 1w'
+    player:
+      - 'balance'
+#all messages regarding this voucher
+    message: 
+      redeem: '&bYou Can Fly :)'
+      subtitle: '&bYou Can Fly :)'
+      action: '&bYou Can Fly :)'
+
+
+#permission to control who can use it
+    permission: 'Voucher.fly1w.1'
+#custom datafor texture packs
+    custom_data: 11551
+#whitelisted worlds
+    world:
+      - 'world'
+      - 'world_nether'
+      - 'world_the_end'
+      - 'spawn'
+      - 'pvp'
+#The sound that is played
+    soundtoggle: true
+    sound: 'ENTITY_EXPERIENCE_ORB_PICKUP'
+    titletoggle: true
+    actiontoggle: true
+    messagetoggle: true
+
+
+  Fly1m: 
+    item: 'FEATHER'
+    name: '&6&lFly 1 month Command Voucher'
+    lore:
+      - '#fb0000+#ef030d-#e20619-#d60926-#ca0c33-#bd0f3f-#b1114c-#a51459-#981765-#8c1a72-#801d7f-#73208b-#672398-#5a26a4-#4e29b1-#422cbe-#352eca-#2931d7-#1d34e4-#1037f0-#043afd+'
+      - '&7Use this voucher to get &6Fly For 1 month&7.'
+      - '&7Bought by %player%'
+      - '&2Right click to redeem.'
+      - '#fb0000+#ef030d-#e20619-#d60926-#ca0c33-#bd0f3f-#b1114c-#a51459-#981765-#8c1a72-#801d7f-#73208b-#672398-#5a26a4-#4e29b1-#422cbe-#352eca-#2931d7-#1d34e4-#1037f0-#043afd+'
+    glowing: true
+#The commands that are run when redeemed if you dont want to use like player then just add [] in the list the whole list will be ignored like this.
+#    player:
+#      - 'balance'
+#      - '[]'
+    console: 
+#      - 'eco give %player% %arg%'
+      - 'lp user %player% permission settemp essentials.fly true 1mo'
+    player:
+      - 'balance'
+#all messages regarding this voucher
+    message: 
+      redeem: '&bYou Can Fly :)'
+      subtitle: '&bYou Can Fly :)'
+      action: '&bYou Can Fly :)'
+
+
+#permission to control who can use it
+    permission: 'Voucher.fly1m.1'
+#custom datafor texture packs
+    custom_data: 11551
+#whitelisted worlds
+    world:
+      - 'world'
+      - 'world_nether'
+      - 'world_the_end'
+      - 'spawn'
+      - 'pvp'
+#The sound that is played
+    soundtoggle: true
+    sound: 'ENTITY_EXPERIENCE_ORB_PICKUP'
+    titletoggle: true
+    actiontoggle: true
+    messagetoggle: true
+
+
+  Fly1d: 
+    item: 'FEATHER'
+    name: '&6&lFly 1 Day Command Voucher'
+    lore:
+      - '#fb0000+#ef030d-#e20619-#d60926-#ca0c33-#bd0f3f-#b1114c-#a51459-#981765-#8c1a72-#801d7f-#73208b-#672398-#5a26a4-#4e29b1-#422cbe-#352eca-#2931d7-#1d34e4-#1037f0-#043afd+'
+      - '&7Use this voucher to get &6Fly For 1 day&7.'
+      - '&7Bought by %player%'
+      - '&2Right click to redeem.'
+      - '#fb0000+#ef030d-#e20619-#d60926-#ca0c33-#bd0f3f-#b1114c-#a51459-#981765-#8c1a72-#801d7f-#73208b-#672398-#5a26a4-#4e29b1-#422cbe-#352eca-#2931d7-#1d34e4-#1037f0-#043afd+'
+    glowing: true
+#The commands that are run when redeemed if you dont want to use like player then just add [] in the list the whole list will be ignored like this.
+#    player:
+#      - 'balance'
+#      - '[]'
+    console: 
+#      - 'eco give %player% %arg%'
+      - 'lp user %player% permission settemp essentials.fly true 24h'
+    player:
+      - 'balance'
+#all messages regarding this voucher
+    message: 
+      redeem: '&bYou Can Fly :)'
+      subtitle: '&bYou Can Fly :)'
+      action: '&bYou Can Fly :)'
+
+
+#permission to control who can use it
+    permission: 'Voucher.fly1d.1'
+#custom datafor texture packs
+    custom_data: 11551
+#whitelisted worlds
+    world:
+      - 'world'
+      - 'world_nether'
+      - 'world_the_end'
+      - 'spawn'
+      - 'pvp'
+#The sound that is played
+    soundtoggle: true
+    sound: 'ENTITY_EXPERIENCE_ORB_PICKUP'
+    titletoggle: true
+    actiontoggle: true
+    messagetoggle: true
+
+
+  cb: 
+    item: 'GOLD_INGOT'
+    name: '&e&l+Claim Blocks'
+    lore:
+      - '#fb0000+#ef030d-#e20619-#d60926-#ca0c33-#bd0f3f-#b1114c-#a51459-#981765-#8c1a72-#801d7f-#73208b-#672398-#5a26a4-#4e29b1-#422cbe-#352eca-#2931d7-#1d34e4-#1037f0-#043afd+'
+      - '&7Use this voucher to get&6 %arg% Claim Blocks&7.'
+      - '&7Bought by %player%'
+      - '&2Right click to redeem.'
+      - '#fb0000+#ef030d-#e20619-#d60926-#ca0c33-#bd0f3f-#b1114c-#a51459-#981765-#8c1a72-#801d7f-#73208b-#672398-#5a26a4-#4e29b1-#422cbe-#352eca-#2931d7-#1d34e4-#1037f0-#043afd+'
+    glowing: true
+#The commands that are run when redeemed if you dont want to use like player then just add [] in the list the whole list will be ignored like this.
+    player:
+      - '[]'
+    console: 
+#      - 'eco give %player% %arg%'
+      - 'adjustbonusclaimblocks %player% %arg%'
+#    player:
+#      - 'balance'
+#all messages regarding this voucher
+    message: 
+      redeem: '&badded&e&n %arg% &6Claim Blocks'
+      subtitle: '&badded&e&n %arg% &6Claim Blocks'
+      action: '&badded&e&n %arg% &6Claim Blocks'
+
+
+#permission to control who can use it
+    permission: 'Voucher.cb.1'
+#custom datafor texture packs
+    custom_data: 11551
+#whitelisted worlds
+    world:
+      - 'world'
+      - 'world_nether'
+      - 'world_the_end'
+      - 'spawn'
+      - 'pvp'
+#The sound that is played
+    soundtoggle: true
+    sound: 'ENTITY_EXPERIENCE_ORB_PICKUP'
+    titletoggle: true
+    actiontoggle: true
+    messagetoggle: true
+
+
+  pw: 
+    item: 'DIAMOND'
+    name: '&b&lPlayer Warp Token'
+    lore:
+      - '#fb0000+#ef030d-#e20619-#d60926-#ca0c33-#bd0f3f-#b1114c-#a51459-#981765-#8c1a72-#801d7f-#73208b-#672398-#5a26a4-#4e29b1-#422cbe-#352eca-#2931d7-#1d34e4-#1037f0-#043afd+'
+      - '&7Use this voucher to get 1 more &b&lPlayer warp&7 added&7.'
+      - '&7Bought by %player%'
+      - '&2Right click to redeem.'
+      - '#fb0000+#ef030d-#e20619-#d60926-#ca0c33-#bd0f3f-#b1114c-#a51459-#981765-#8c1a72-#801d7f-#73208b-#672398-#5a26a4-#4e29b1-#422cbe-#352eca-#2931d7-#1d34e4-#1037f0-#043afd+'
+    glowing: true
+#The commands that are run when redeemed if you dont want to use like player then just add [] in the list the whole list will be ignored like this.
+#    player:
+#      - 'pw amount'
+#      - '[]'
+    console: 
+#      - 'eco give %player% %arg%'
+      - 'pw addwarps %player% 1'
+    player:
+      - 'balance'
+#all messages regarding this voucher
+    message: 
+      redeem: '&bYou Can Set warp using /pw set <name>'
+      subtitle: '&bYour account has 1 more Player Warp Now'
+      action: '+1 Warp'
+
+
+#permission to control who can use it
+    permission: 'Voucher.pw.1'
+#custom datafor texture packs
+    custom_data: 11551
+#whitelisted worlds
+    world:
+      - 'world'
+      - 'world_nether'
+      - 'world_the_end'
+      - 'spawn'
+      - 'pvp'
+#The sound that is played
+    soundtoggle: true
+    sound: 'ENTITY_EXPERIENCE_ORB_PICKUP'
+    titletoggle: true
+    actiontoggle: false
+    messagetoggle: true
+
+  color: 
+    item: 'spectral_arrow'
+    name: '&b&lTheme Color Token'
+    lore:
+      - '#fb0000+#ef030d-#e20619-#d60926-#ca0c33-#bd0f3f-#b1114c-#a51459-#981765-#8c1a72-#801d7f-#73208b-#672398-#5a26a4-#4e29b1-#422cbe-#352eca-#2931d7-#1d34e4-#1037f0-#043afd+'
+      - '&7Use this voucher to get you %arg%&7 color added&7.'
+      - '&7Bought by %player%'
+      - '&2Right click to redeem.'
+      - '#fb0000+#ef030d-#e20619-#d60926-#ca0c33-#bd0f3f-#b1114c-#a51459-#981765-#8c1a72-#801d7f-#73208b-#672398-#5a26a4-#4e29b1-#422cbe-#352eca-#2931d7-#1d34e4-#1037f0-#043afd+'
+    glowing: true
+#The commands that are run when redeemed if you dont want to use like player then just add [] in the list the whole list will be ignored like this.
+#    player:
+#      - 'pw amount'
+#      - '[]'
+    console: 
+#      - 'eco give %player% %arg%'
+      - 'lp user %player% permission settemp ezcolors.color.%arg% true 1m'
+    player:
+      - 'balance'
+#all messages regarding this voucher
+    message: 
+      redeem: '&bYou Can Set warp using /pw set <name>'
+      subtitle: '&bYour account has 1 more Player Warp Now'
+      action: '+1 Warp'
+
+
+#permission to control who can use it
+    permission: 'Voucher.co.1'
+#custom datafor texture packs
+    custom_data: 11551
+#whitelisted worlds
+    world:
+      - 'world'
+      - 'world_nether'
+      - 'world_the_end'
+      - 'spawn'
+      - 'pvp'
+#The sound that is played
+    soundtoggle: true
+    sound: 'ENTITY_EXPERIENCE_ORB_PICKUP'
+    titletoggle: true
+    actiontoggle: false
+    messagetoggle: true
+
+
+
+
+
+
+
+
+ 
+
+
+

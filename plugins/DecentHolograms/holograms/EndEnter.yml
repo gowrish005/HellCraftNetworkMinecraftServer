@@ -1,0 +1,18 @@
+location: spawn:-55.007:-17.581:-45.999
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&d&n&lᴇɴᴅ ᴡᴏʀʟᴅ'
+    height: 0.3
+  - content: '&fYou need to Claim &e&lDay 7 Reward&f to enter'
+    height: 0.3
+  - content: '&fDo &e&l/rewards&f and get permission to go to &d&n&lᴇɴᴅ ᴡᴏʀʟᴅ'
+    height: 0.3
+  - content: '&fIf You want to RTP in END you need to claim &e&lDay 14 reward'
+    height: 0.3
+  actions: {}

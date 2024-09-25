@@ -1,0 +1,63 @@
+quests:
+  172: # Quest id
+    name: 'Grinder' # The name given to the quest.
+    type: kill-mob # The type of quest
+    variable: snow_golem:0 # The block the player must break.
+    required-progress: 50 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: golden_sword:0
+      amount: 1
+      name: '&eGrinder'
+      lore:
+        - '&7Kill &e50 snow golems'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+  173: # Quest id
+    name: 'Miner' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: ice:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_pickaxe:0
+      amount: 1
+      name: '&eMiner'
+      lore:
+        - '&7Mine &e256 ice'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  174: # Quest id
+    name: 'Miner' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: packed_ice:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_pickaxe:0
+      amount: 1
+      name: '&eMiner'
+      lore:
+        - '&7Mine &e256 packed ice'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  175: # Quest id
+    name: 'Miner' # The name given to the quest.
+    type: block-break # The type of quest
+    variable: blue_ice:0 # The block the player must break.
+    required-progress: 256 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_pickaxe:0
+      amount: 1
+      name: '&eMiner'
+      lore:
+        - '&7Mine &e256 blue ice'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+
+  

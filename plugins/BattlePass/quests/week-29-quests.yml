@@ -1,0 +1,46 @@
+quests:
+  81: # Quest id
+    name: 'Grinder' # The name given to the quest.
+    type: kill-mob # The type of quest
+    variable: blaze:0 # The block the player must break.
+    required-progress: 50 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: golden_sword:0
+      amount: 1
+      name: '&eGrinder'
+      lore:
+        - '&7Kill &e50 blazes'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 
+ 
+  82: # Quest id
+    name: 'Grinder' # The name given to the quest.
+    type: kill-mob # The type of quest
+    variable: ghast:0 # The block the player must break.
+    required-progress: 5 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: golden_sword:0
+      amount: 1
+      name: '&eGrinder'
+      lore:
+        - '&7Kill &e5 ghasts'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
+
+  83: # Quest id
+    name: 'Crafter' # The name given to the quest.
+    type: craft # The type of quest
+    variable: eye_of_ender:0 # The block the player must break.
+    required-progress: 12 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: end_portal_frame:0
+      amount: 1
+      name: '&eCrafter'
+      lore:
+        - '&7Craft &e12 eye of ender'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'

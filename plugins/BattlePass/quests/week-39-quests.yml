@@ -1,0 +1,16 @@
+quests:
+  118: # Quest id
+    name: 'Killer' # The name given to the quest.
+    type: kill-player # The type of quest
+    variable: none # The block the player must break.
+    required-progress: 15 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: diamond_sword:0
+      amount: 1
+      name: '&eKiller'
+      lore:
+        - '&7Kill &e15 players'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+ 

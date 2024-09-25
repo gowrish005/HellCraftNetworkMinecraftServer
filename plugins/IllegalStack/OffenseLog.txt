@@ -1,0 +1,693 @@
+April 15 2023 (2:11:18) - Illegal stack of items removed: DIAMOND_SWORD (64) from player: Saeily at item scan.
+April 15 2023 (2:11:18) - Illegal stack of items removed: DIAMOND_SWORD (64) from player: Saeily at item scan.
+April 15 2023 (2:11:18) - Illegal stack of items removed: DIAMOND_SWORD (64) from player: Saeily at item scan.
+April 15 2023 (2:11:18) - Illegal stack of items removed: DIAMOND_SWORD (64) from player: Saeily at item scan.
+April 15 2023 (2:11:18) - Illegal stack of items removed: DIAMOND_SWORD (64) from player: Saeily at item scan.
+April 15 2023 (2:11:18) - Illegal stack of items removed: DIAMOND_SWORD (64) from player: Saeily at item scan.
+April 15 2023 (2:11:18) - Illegal stack of items removed: DIAMOND_PICKAXE (64) from player: Saeily at item scan.
+April 15 2023 (2:11:18) - Illegal stack of items removed: DIAMOND_PICKAXE (36) from player: Saeily at item scan.
+April 15 2023 (2:11:18) - Illegal stack of items removed: SPLASH_POTION (64) from player: itiskk at item scan.
+April 16 2023 (5:36:38) - Illegal stack of items removed: ENDER_PEARL (64) from player: LEKING001 at item scan.
+April 17 2023 (6:9:3) - Illegal stack of items removed: SNOWBALL (17) from player: staff at item scan.
+April 17 2023 (10:38:4) - Illegal stack of items removed: NETHERITE_HELMET (64) from player: LEKING001 at item scan.
+April 17 2023 (10:38:4) - Illegal stack of items removed: NETHERITE_HELMET (2) from player: LEKING001 at item scan.
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=25.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=25.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=150.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=150.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=150.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=150.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=151.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=151.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=151.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=151.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=151.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1791.0,y=24.0,z=150.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=25.0,z=152.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=154.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=154.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=154.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=154.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=154.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=154.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=154.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=154.0,pitch=0.0,yaw=0.0}
+April 17 2023 (10:38:4) - Illegal stack of items removed: ENDER_PEARL (17) from player: Saeily at item scan.
+April 18 2023 (6:33:14) - Illegal stack of items removed: ENDER_PEARL (17) from player: Saeily at item scan.
+April 18 2023 (6:33:14) - Illegal stack of items removed: ENDER_PEARL (17) from player: DISHANT_MALVIYA at item scan.
+April 18 2023 (6:33:14) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-1208.699999988079,y=93.0,z=-396.46548412005365,pitch=83.10013,yaw=35.84619}
+April 18 2023 (6:33:14) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-1208.300000011921,y=93.0,z=-397.6308363539139,pitch=73.50015,yaw=-136.95386}
+April 18 2023 (6:33:14) - Illegal stack of items removed: IRON_HELMET (64) from player: LEKING001 at item scan.
+April 18 2023 (6:33:14) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 18 2023 (9:23:54) - broke a trapped nether portal @ Location{world=CraftWorld{name=world_nether},x=-120.30000001192093,y=72.0,z=-67.67508467318319,pitch=71.33159,yaw=52.012386}
+April 18 2023 (9:42:59) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-1208.5,y=93.0,z=-397.08081743851443,pitch=16.399563,yaw=-106.86487}
+April 18 2023 (9:42:59) - Illegal stack of items removed: ENDER_PEARL (33) from player: DISHANT_MALVIYA at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (63) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (32) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (30) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (24) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (58) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (48) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (63) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (48) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (48) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (48) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (0:36:43) - Illegal stack of items removed: ENDER_PEARL (48) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (61) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (50) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 18 2023 (4:58:16) - Illegal stack of items removed: ENDER_PEARL (50) from player: MostyLikelyLee at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (5:29:43) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=150.0,pitch=0.0,yaw=0.0}
+April 19 2023 (5:29:43) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1790.0,y=24.0,z=150.0,pitch=0.0,yaw=0.0}
+April 19 2023 (1:26:2) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1791.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 19 2023 (1:26:2) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1791.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 19 2023 (1:26:2) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1791.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 19 2023 (1:26:2) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1791.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 19 2023 (1:26:2) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1791.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 19 2023 (1:26:2) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=1791.0,y=24.0,z=152.0,pitch=0.0,yaw=0.0}
+April 19 2023 (1:37:41) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+April 19 2023 (1:37:41) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+April 19 2023 (1:37:41) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+April 19 2023 (1:37:41) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+April 19 2023 (1:37:41) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+April 19 2023 (1:37:41) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=2.0,y=62.0,z=1.0,pitch=0.0,yaw=0.0}
+April 19 2023 (1:37:41) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=4.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+April 19 2023 (1:37:41) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=4.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (50) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (50) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 19 2023 (1:37:41) - Illegal stack of items removed: ENDER_PEARL (50) from player: MostyLikelyLee at item scan.
+April 19 2023 (8:41:8) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (8:41:8) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (8:41:8) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (8:41:8) - Illegal stack of items removed: ENDER_PEARL (17) from player: DISHANT_MALVIYA at item scan.
+April 19 2023 (8:41:8) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 21 2023 (4:33:49) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: SPLASH_POTION (64) from player: LEKING001 at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: SPLASH_POTION (64) from player: LEKING001 at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 21 2023 (5:0:58) - Player MostyLikelyLee attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (48) from player: MostyLikelyLee at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (48) from player: MostyLikelyLee at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 21 2023 (5:0:58) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 21 2023 (4:19:13) - LunarAurora has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=77.94231914729964,y=128.0,z=16.38171862447734,pitch=8.723234,yaw=126.189545}
+April 21 2023 (4:19:13) - LunarAurora has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=77.7321429739027,y=128.7531999805212,z=16.64450957617287,pitch=8.573235,yaw=126.189545}
+April 21 2023 (4:19:13) - LunarAurora was prevented from accessing the top of the nether @ Location{world=CraftWorld{name=world_nether},x=77.35460000634191,y=122.0,z=16.35460000634194,pitch=90.0,yaw=-23.24978}
+April 21 2023 (4:19:13) - LunarAurora was prevented from accessing the top of the nether @ Location{world=CraftWorld{name=world_nether},x=77.35460000634191,y=122.0,z=16.35460000634194,pitch=89.7,yaw=-24.299778}
+April 21 2023 (9:15:51) - DISHANT_MALVIYA was prevented from accessing the top of the nether @ Location{world=CraftWorld{name=world_nether},x=-415.69999998807907,y=100.44051213436667,z=-823.6999999880791,pitch=39.613277,yaw=2.5377197}
+April 22 2023 (5:9:43) - Illegal stack of items removed: WATER_BUCKET (4) from player: SARKARGAMER at item scan.
+April 22 2023 (5:9:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: Saeily at item scan.
+April 22 2023 (5:9:43) - Illegal stack of items removed: ENDER_PEARL (33) from player: SARKARGAMER at item scan.
+April 22 2023 (5:9:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: SARKARGAMER at item scan.
+April 24 2023 (4:7:12) - Stopped a minecart from being glitched into a block @ Location{world=CraftWorld{name=world},x=-1521.5099999904633,y=64.0,z=459.50999999046326,pitch=0.0,yaw=0.0}
+April 24 2023 (4:7:12) - Stopped a minecart from being glitched into a block @ Location{world=CraftWorld{name=world},x=-1520.264219387855,y=64.0,z=459.50999999046326,pitch=0.0,yaw=0.0}
+April 24 2023 (4:7:12) - Stopped a minecart from being glitched into a block @ Location{world=CraftWorld{name=world},x=-1519.0020872385392,y=64.0,z=459.50999999046326,pitch=0.0,yaw=0.0}
+April 24 2023 (4:7:12) - Stopped a minecart from being glitched into a block @ Location{world=CraftWorld{name=world},x=-1517.4900000095367,y=64.0,z=459.50999999046326,pitch=0.0,yaw=0.0}
+April 24 2023 (4:7:12) - Stopped a minecart from being glitched into a block @ Location{world=CraftWorld{name=world},x=-1521.5099999904633,y=64.0,z=460.4753814045225,pitch=0.0,yaw=0.0}
+April 24 2023 (4:7:12) - Stopped a minecart from being glitched into a block @ Location{world=CraftWorld{name=world},x=-1521.2549999952316,y=64.0625,z=459.2450000047684,pitch=0.0,yaw=135.0}
+April 25 2023 (6:35:0) - Fixed durability on: INK_SAC triggered by player: LEKING001.
+April 25 2023 (3:44:34) - Fixed durability on: INK_SAC triggered by player: LunarAurora.
+April 25 2023 (3:44:34) - Fixed durability on: INK_SAC triggered by player: LEKING001.
+April 25 2023 (3:44:34) - Fixed durability on: INK_SAC triggered by player: LunarAurora.
+April 25 2023 (3:44:34) - Fixed durability on: INK_SAC triggered by player: LEKING001.
+April 25 2023 (3:44:34) - Fixed durability on: INK_SAC triggered by player: LEKING001.
+April 25 2023 (3:44:34) - Fixed durability on: INK_SAC triggered by player: LEKING001.
+April 25 2023 (3:44:34) - Fixed durability on: INK_SAC triggered by player: LEKING001.
+April 25 2023 (3:44:34) - Fixed durability on: INK_SAC triggered by player: LEKING001.
+April 26 2023 (4:6:34) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-1566.890705882085,y=71.0,z=393.5,pitch=38.550354,yaw=-119.31421}
+April 27 2023 (7:21:48) - Fixed durability on: INK_SAC triggered by player: LunarAurora.
+April 27 2023 (7:21:48) - Fixed durability on: INK_SAC triggered by player: LunarAurora.
+April 27 2023 (7:21:48) - Fixed durability on: INK_SAC triggered by player: LEKING001.
+April 27 2023 (8:57:1) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 27 2023 (8:57:1) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 27 2023 (8:57:1) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 27 2023 (8:57:1) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 27 2023 (8:57:1) - Illegal stack of items removed: ENDER_PEARL (59) from player: DISHANT_MALVIYA at item scan.
+April 28 2023 (5:44:8) - Illegal stack of items removed: WATER_BUCKET (4) from player: SARKARGAMER at item scan.
+April 28 2023 (5:44:8) - Illegal stack of items removed: WATER_BUCKET (4) from player: LEKING001 at item scan.
+April 28 2023 (5:44:8) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 28 2023 (5:44:8) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 28 2023 (5:44:8) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 28 2023 (5:44:8) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 28 2023 (5:44:8) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 28 2023 (5:44:8) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 28 2023 (5:44:8) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 28 2023 (5:44:8) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 28 2023 (8:6:1) - Fixed durability on: INK_SAC triggered by player: LEKING001.
+April 29 2023 (9:5:15) - Illegal stack of items removed: ENDER_PEARL (64) from player: Saeily at item scan.
+April 31 2023 (7:36:46) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 31 2023 (7:36:46) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 31 2023 (7:36:46) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 31 2023 (7:36:46) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 31 2023 (7:36:46) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 31 2023 (7:36:46) - Illegal stack of items removed: ENDER_PEARL (64) from player: MostyLikelyLee at item scan.
+April 31 2023 (5:13:43) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+April 31 2023 (5:22:50) - Illegal stack of items removed: ENDER_PEARL (64) from player: DISHANT_MALVIYA at item scan.
+August 2 2023 (0:9:36) - Found a book with characters that do NOT match the specified character set and removed it.. Author was: UNKNOWN
+August 2 2023 (0:9:36) - Found a book with characters that do NOT match the specified character set and removed it.. Author was: UNKNOWN
+August 2 2023 (0:31:57) - Found a book with characters that do NOT match the specified character set and removed it.. Author was: UNKNOWN
+August 2 2023 (0:31:57) - Found a book with characters that do NOT match the specified character set and removed it.. Author was: UNKNOWN
+August 2 2023 (0:31:57) - Found a book with characters that do NOT match the specified character set and removed it.. Author was: UNKNOWN
+August 2 2023 (1:24:54) - Found a book with characters that do NOT match the specified character set and removed it.. Author was: UNKNOWN
+August 2 2023 (1:24:54) - Illegal stack of items removed: TOTEM_OF_UNDYING (64) from player: ADMIN at item scan.
+August 2 2023 (1:24:54) - Illegal stack of items removed: TOTEM_OF_UNDYING (64) from player: ADMIN at item scan.
+August 2 2023 (1:24:54) - Found a book with characters that do NOT match the specified character set and removed it.. Author was: UNKNOWN
+August 2 2023 (1:24:54) - Found a book with characters that do NOT match the specified character set and removed it.. Author was: UNKNOWN
+August 2 2023 (1:24:54) - Found a book with characters that do NOT match the specified character set and removed it.. Author was: UNKNOWN
+August 2 2023 (1:24:54) - Illegal stack of items removed: LIGHT_BLUE_BANNER (64) from player: omgaming994 at item scan.
+August 2 2023 (1:24:54) - Illegal stack of items removed: DIAMOND_AXE (64) from player: MostlikelyLee at item scan.
+August 3 2023 (8:37:22) - Illegal stack of items removed: TOTEM_OF_UNDYING (11) from player: LEKING001 at item scan.
+August 3 2023 (8:37:22) - Illegal stack of items removed: DIAMOND_AXE (64) from player: MostlikelyLee at item scan.
+August 3 2023 (8:37:22) - Illegal stack of items removed: IRON_AXE (64) from player: MostlikelyLee at item scan.
+August 3 2023 (8:37:22) - Illegal stack of items removed: WATER_BUCKET (64) from player: MostlikelyLee at item scan.
+August 10 2023 (3:53:24) - Illegal stack of items removed: MUSIC_DISC_WARD (64) from player: LEKING001 at item scan.
+09/15/23 10:04:23 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=42.0,y=91.0,z=0.0,pitch=0.0,yaw=0.0}
+09/15/23 10:04:25 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=33.0,y=103.0,z=24.0,pitch=0.0,yaw=0.0}
+09/15/23 10:04:30 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=12.0,y=88.0,z=39.0,pitch=0.0,yaw=0.0}
+09/15/23 10:04:30 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-13.0,y=82.0,z=39.0,pitch=0.0,yaw=0.0}
+09/15/23 10:04:31 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-34.0,y=100.0,z=24.0,pitch=0.0,yaw=0.0}
+09/15/23 10:04:33 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-42.0,y=76.0,z=-1.0,pitch=0.0,yaw=0.0}
+09/15/23 10:04:35 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-34.0,y=94.0,z=-25.0,pitch=0.0,yaw=0.0}
+09/15/23 13:21:38 - Illegal stack of items removed: IRON_SWORD (64) from player: DISHANT_MALVIYA on click in inventory.
+09/15/23 13:23:46 - Illegal stack of items removed: IRON_SWORD (64) from player: LEKING001 on click in inventory.
+09/16/23 08:15:03 - Protection: VillagerTradeCheesing has been turned OFF by OmDaddyUwU
+09/16/23 08:17:24 - Protection: VillagerTradeCheesing has been turned OFF by OmDaddyUwU
+09/16/23 08:17:43 - Protection: VillagerTradeCheesing has been turned OFF by OmDaddyUwU
+09/16/23 08:21:13 - Protection: VillagerTradeCheesing has been turned OFF by OmDaddyUwU
+09/16/23 13:56:50 - Illegal stack of items removed: ENDER_PEARL (17) from player: OmDaddyUwU at item scan.
+09/17/23 04:13:40 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-319.69999998807907,y=256.9262088103499,z=798.4996836911616,pitch=25.349981,yaw=-45.671265}
+09/17/23 04:13:41 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-319.4654577198102,y=256.9262088103499,z=798.8791237931786,pitch=37.94998,yaw=-27.82126}
+09/17/23 04:13:47 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-322.8332932241314,y=256.0104000401497,z=793.0106609122087,pitch=47.55001,yaw=-33.89991}
+09/17/23 04:13:47 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-322.8332932241314,y=256.0104000401497,z=793.0106609122087,pitch=47.55001,yaw=-33.89991}
+09/17/23 04:13:47 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-322.8332932241314,y=256.0104000401497,z=793.0106609122087,pitch=47.55001,yaw=-33.89991}
+09/17/23 04:13:49 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-324.98458293361864,y=256.0104000401497,z=790.2945785483586,pitch=35.550034,yaw=-31.799994}
+09/17/23 04:13:50 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-324.98458293361864,y=256.0104000401497,z=790.2945785483586,pitch=35.550034,yaw=-31.799994}
+09/17/23 04:13:50 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-324.98458293361864,y=256.0104000401497,z=790.2945785483586,pitch=35.550034,yaw=-31.799994}
+09/17/23 04:13:52 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-326.1259526555527,y=256.7137440680981,z=788.8923597453309,pitch=65.700005,yaw=-38.55002}
+09/17/23 04:13:52 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-326.6791816003702,y=256.7137440680981,z=788.1980420054186,pitch=65.700005,yaw=-38.55002}
+09/17/23 07:46:19 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-322.9008775259574,y=256.34529745406536,z=801.0205048546044,pitch=67.2,yaw=-122.11105}
+09/17/23 07:46:28 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-335.6013791186501,y=256.1921235984196,z=800.9315797254247,pitch=31.8,yaw=86.25015}
+09/17/23 07:46:29 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-335.88594794901445,y=256.5821236139168,z=800.950240485841,pitch=31.8,yaw=86.25015}
+09/17/23 07:46:30 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-336.09619726438217,y=256.3562400538922,z=800.189797383689,pitch=6.3,yaw=-3.1500003}
+09/17/23 07:46:31 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-337.42233080049834,y=256.75435345211173,z=799.9588280217063,pitch=-30.300003,yaw=-169.20001}
+09/17/23 07:46:37 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-333.9757856552192,y=256.3385854514401,z=800.5441210871505,pitch=43.650124,yaw=85.35015}
+09/17/23 07:46:53 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-323.00466493250593,y=256.4252588376764,z=795.9017228474517,pitch=66.15004,yaw=-62.549866}
+09/17/23 07:46:53 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-322.961007316715,y=256.4252588376764,z=795.9239675454293,pitch=66.00004,yaw=-62.999866}
+09/17/23 07:47:06 - omgaming994 has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-320.4409122488122,y=256.7257727772268,z=795.6906505410997,pitch=89.6407,yaw=170.58163}
+09/17/23 07:47:06 - omgaming994 has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-320.4409122488122,y=256.87577278318724,z=795.6906505410997,pitch=90.0,yaw=175.79152}
+09/17/23 07:47:06 - omgaming994 has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-320.4409122488122,y=256.87577278318724,z=795.6906505410997,pitch=90.0,yaw=175.79152}
+09/17/23 08:25:44 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-317.87562899149304,y=256.17947949880823,z=800.8337054139254,pitch=76.95005,yaw=29.53534}
+09/17/23 08:25:44 - DISHANT_MALVIYA has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-317.900732482503,y=256.0,z=800.8490081911706,pitch=54.300053,yaw=58.635223}
+09/17/23 08:27:27 - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-2552.165679656651,y=244.0,z=6400.5,pitch=46.199963,yaw=-112.94861}
+09/17/23 09:05:15 - Illegal stack of items removed: ELYTRA (3) from player: mabu_222 at item scan.
+09/17/23 10:52:58 - Illegal stack of items removed: FLINT_AND_STEEL (64) from player: omgaming994 at item scan.
+09/17/23 13:08:01 - Illegal stack of items removed: ELYTRA (3) from player: omgaming994 at item scan.
+09/17/23 13:38:49 - §adanjesem appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=8003.23617537478,y=63.0,z=-2001.7669363331347,pitch=47.699203,yaw=-3.3090103}
+09/17/23 16:52:51 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=42.0,y=91.0,z=0.0,pitch=0.0,yaw=0.0}
+09/17/23 16:52:53 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=33.0,y=103.0,z=24.0,pitch=0.0,yaw=0.0}
+09/17/23 16:52:55 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=12.0,y=88.0,z=39.0,pitch=0.0,yaw=0.0}
+09/17/23 16:52:57 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-13.0,y=82.0,z=39.0,pitch=0.0,yaw=0.0}
+09/17/23 16:52:59 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-34.0,y=100.0,z=24.0,pitch=0.0,yaw=0.0}
+09/17/23 16:53:01 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-42.0,y=76.0,z=-1.0,pitch=0.0,yaw=0.0}
+09/17/23 16:53:03 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-34.0,y=94.0,z=-25.0,pitch=0.0,yaw=0.0}
+09/17/23 16:53:05 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-13.0,y=79.0,z=-40.0,pitch=0.0,yaw=0.0}
+09/17/23 16:53:07 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=12.0,y=85.0,z=-40.0,pitch=0.0,yaw=0.0}
+09/17/23 16:53:09 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=33.0,y=97.0,z=-25.0,pitch=0.0,yaw=0.0}
+09/18/23 06:56:55 - Illegal stack of items removed: ELYTRA (2) from player: sooja at item scan.
+09/18/23 14:01:56 - Illegal stack of items removed: MILK_BUCKET (64) from player: Rkomy69 on click in inventory.
+09/18/23 15:04:14 - Protection: BlockNonPlayersInNetherPortal has been turned ON by LEKING001
+09/18/23 15:04:24 - Protection: BlockNonPlayersInNetherPortal has been turned OFF by LEKING001
+09/18/23 15:06:00 - Protection: NetherWhiteListMode has been turned ON by LEKING001
+09/18/23 15:06:22 - Protection: NetherWhiteListMode has been turned OFF by LEKING001
+09/18/23 15:17:03 - Protection: BlockNonPlayersInNetherPortal has been turned ON by LEKING001
+09/18/23 15:17:05 - Protection: BlockNonPlayersInNetherPortal has been turned OFF by LEKING001
+09/18/23 15:18:07 - Player LEKING001 used ZOMBIE_SPAWN_EGG to change a spawner type @ Location{world=CraftWorld{name=world},x=-8058.2329068354165,y=72.0,z=346.1924376122592,pitch=38.651268,yaw=77.2066}
+09/18/23 15:18:11 - Player LEKING001 used ZOMBIE_SPAWN_EGG to change a spawner type @ Location{world=CraftWorld{name=world},x=-8057.998318100587,y=72.0,z=346.18882303156636,pitch=37.290318,yaw=80.200836}
+09/18/23 15:18:12 - Player LEKING001 used ZOMBIE_SPAWN_EGG to change a spawner type @ Location{world=CraftWorld{name=world},x=-8057.998318100587,y=72.0,z=346.18882303156636,pitch=37.290318,yaw=80.200836}
+09/18/23 15:18:13 - Player LEKING001 used ZOMBIE_SPAWN_EGG to change a spawner type @ Location{world=CraftWorld{name=world},x=-8057.998318100587,y=72.0,z=346.18882303156636,pitch=37.290318,yaw=80.200836}
+09/18/23 15:18:14 - Player LEKING001 used ZOMBIE_SPAWN_EGG to change a spawner type @ Location{world=CraftWorld{name=world},x=-8057.998318100587,y=72.0,z=346.18882303156636,pitch=37.290318,yaw=80.200836}
+09/20/23 14:34:37 - Illegal stack of items removed: ENDER_PEARL (33) from player: keanoney at item scan.
+09/21/23 03:44:31 - Prevented an entity (armor stand/end crystal) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=8194.5,y=72.0,z=-1725.5,pitch=0.0,yaw=0.0}
+09/21/23 05:19:59 - Prevented an entity (armor stand/end crystal) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=8194.5,y=72.0,z=-1723.5,pitch=0.0,yaw=-180.0}
+09/21/23 13:24:54 - Illegal stack of items removed: ENDER_PEARL (17) from player: keanoney at item scan.
+09/21/23 13:29:51 - Illegal stack of items removed: ENDER_PEARL (17) from player: keanoney at item scan.
+09/22/23 09:41:58 - Protection: BlockNonPlayersInNetherPortal has been turned ON by LEKING001
+09/22/23 09:42:12 - Protection: BlockNonPlayersInNetherPortal has been turned OFF by LEKING001
+09/22/23 15:17:07 - Illegal stack of items removed: TOTEM_OF_UNDYING (17) from player: mabu_222 at item scan.
+09/22/23 15:17:51 - Illegal stack of items removed: TOTEM_OF_UNDYING (19) from player: mabu_222 at item scan.
+09/22/23 16:58:56 - Illegal stack of items removed: TOTEM_OF_UNDYING (14) from player: xXxdaliborxXx at item scan.
+09/23/23 02:13:36 - Illegal stack of items removed: TOTEM_OF_UNDYING (18) from player: mabu_222 at item scan.
+09/23/23 02:14:08 - Illegal stack of items removed: TOTEM_OF_UNDYING (17) from player: mabu_222 at item scan.
+09/23/23 04:04:57 - Illegal stack of items removed: TOTEM_OF_UNDYING (31) from player: mabu_222 at item scan.
+09/23/23 04:05:20 - Illegal stack of items removed: TOTEM_OF_UNDYING (18) from player: mabu_222 at item scan.
+09/23/23 05:08:54 - Illegal stack of items removed: TOTEM_OF_UNDYING (12) from player: mabu_222 at item scan.
+09/23/23 05:23:46 - Illegal stack of items removed: TOTEM_OF_UNDYING (23) from player: mabu_222 at item scan.
+09/23/23 06:20:56 - Illegal stack of items removed: TOTEM_OF_UNDYING (11) from player: mabu_222 at item scan.
+09/23/23 06:27:28 - Illegal stack of items removed: TOTEM_OF_UNDYING (15) from player: mabu_222 at item scan.
+09/23/23 07:10:12 - Illegal stack of items removed: TOTEM_OF_UNDYING (32) from player: mabu_222 at item scan.
+09/23/23 07:10:22 - Illegal stack of items removed: TOTEM_OF_UNDYING (11) from player: mabu_222 at item scan.
+09/23/23 07:10:36 - Illegal stack of items removed: TOTEM_OF_UNDYING (22) from player: mabu_222 at item scan.
+09/23/23 07:27:03 - Illegal stack of items removed: TOTEM_OF_UNDYING (2) from player: mabu_222 at item scan.
+09/23/23 08:23:46 - Illegal stack of items removed: TOTEM_OF_UNDYING (23) from player: mabu_222 at item scan.
+09/23/23 09:40:12 - Illegal stack of items removed: TOTEM_OF_UNDYING (23) from player: mabu_222 at item scan.
+09/23/23 09:40:28 - Illegal stack of items removed: TOTEM_OF_UNDYING (8) from player: mabu_222 at item scan.
+09/24/23 03:51:18 - Illegal stack of items removed: TOTEM_OF_UNDYING (15) from player: mabu_222 at item scan.
+09/25/23 05:17:18 - Illegal stack of items removed: TOTEM_OF_UNDYING (21) from player: mabu_222 at item scan.
+09/25/23 05:17:28 - Illegal stack of items removed: TOTEM_OF_UNDYING (6) from player: mabu_222 at item scan.
+09/25/23 08:54:12 - Illegal stack of items removed: GOLDEN_SHOVEL (64) from player: DISHANT_MALVIYA at item scan.
+09/25/23 12:06:57 - Removed a writable book from player: omgaming994 because player book creation is disabled!
+09/25/23 12:06:57 - Removed a writable book from player: omgaming994 because player book creation is disabled!
+09/26/23 10:20:56 - Removed a shulker box from inside another shulker box clicked by: DISHANT_MALVIYA
+09/28/23 14:29:18 - Illegal stack of items removed: ENDER_PEARL (17) from player: keanoney at item scan.
+09/30/23 08:05:59 - Illegal stack of items removed: MILK_BUCKET (64) from player: LEKING001 at item scan.
+09/30/23 08:06:02 - Illegal stack of items removed: MILK_BUCKET (64) from player: LEKING001 at item scan.
+09/30/23 08:18:53 - Stopped Rail/Carpet Dupe & Removed Piston @ Location{world=CraftWorld{name=world},x=-6708.0,y=-49.0,z=-18787.0,pitch=0.0,yaw=0.0}  GRAY_CARPET
+10/01/23 03:09:12 - Illegal stack of items removed: TOTEM_OF_UNDYING (12) from player: mabu_222 at item scan.
+10/01/23 03:27:10 - Illegal stack of items removed: TOTEM_OF_UNDYING (5) from player: mabu_222 at item scan.
+10/01/23 04:07:11 - Illegal stack of items removed: TOTEM_OF_UNDYING (28) from player: mabu_222 at item scan.
+10/01/23 04:07:19 - Illegal stack of items removed: TOTEM_OF_UNDYING (4) from player: mabu_222 at item scan.
+10/01/23 04:27:01 - Illegal stack of items removed: TOTEM_OF_UNDYING (13) from player: MostlikelyLee at item scan.
+10/01/23 04:53:08 - Removed a string that would have been broken by water..  Possible string dupe @ Location{world=CraftWorld{name=world},x=332.0,y=174.0,z=-374.0,pitch=0.0,yaw=0.0}
+10/01/23 05:02:03 - Illegal stack of items removed: TOTEM_OF_UNDYING (22) from player: mabu_222 at item scan.
+10/01/23 07:09:40 - Illegal stack of items removed: TOTEM_OF_UNDYING (12) from player: mabu_222 at item scan.
+10/01/23 08:28:13 - Illegal stack of items removed: TOTEM_OF_UNDYING (23) from player: mabu_222 at item scan.
+10/01/23 08:28:22 - Illegal stack of items removed: TOTEM_OF_UNDYING (20) from player: mabu_222 at item scan.
+10/01/23 09:38:33 - Illegal stack of items removed: TOTEM_OF_UNDYING (30) from player: mabu_222 at item scan.
+10/01/23 09:38:45 - Illegal stack of items removed: TOTEM_OF_UNDYING (28) from player: mabu_222 at item scan.
+10/01/23 22:09:16 - Illegal stack of items removed: TOTEM_OF_UNDYING (30) from player: mabu_222 at item scan.
+10/01/23 22:09:28 - Illegal stack of items removed: TOTEM_OF_UNDYING (30) from player: mabu_222 at item scan.
+10/01/23 22:09:36 - Illegal stack of items removed: TOTEM_OF_UNDYING (10) from player: mabu_222 at item scan.
+10/01/23 22:42:35 - Illegal stack of items removed: TOTEM_OF_UNDYING (30) from player: mabu_222 at item scan.
+10/01/23 22:42:43 - Illegal stack of items removed: TOTEM_OF_UNDYING (6) from player: mabu_222 at item scan.
+10/01/23 23:43:02 - Illegal stack of items removed: EGG (33) from player: SAIMONKARKI at item scan.
+10/02/23 00:38:15 - Illegal stack of items removed: TOTEM_OF_UNDYING (26) from player: mabu_222 at item scan.
+10/02/23 01:12:42 - Illegal stack of items removed: EGG (33) from player: SAIMONKARKI at item scan.
+10/02/23 01:30:02 - Illegal stack of items removed: TOTEM_OF_UNDYING (30) from player: mabu_222 at item scan.
+10/02/23 01:30:10 - Illegal stack of items removed: TOTEM_OF_UNDYING (19) from player: mabu_222 at item scan.
+10/02/23 05:16:47 - Illegal stack of items removed: TOTEM_OF_UNDYING (32) from player: mabu_222 at item scan.
+10/02/23 05:16:59 - Illegal stack of items removed: TOTEM_OF_UNDYING (32) from player: mabu_222 at item scan.
+10/02/23 05:17:09 - Illegal stack of items removed: TOTEM_OF_UNDYING (32) from player: mabu_222 at item scan.
+10/02/23 05:17:22 - Illegal stack of items removed: TOTEM_OF_UNDYING (32) from player: mabu_222 at item scan.
+10/02/23 05:17:29 - Illegal stack of items removed: TOTEM_OF_UNDYING (32) from player: mabu_222 at item scan.
+10/02/23 05:17:36 - Illegal stack of items removed: TOTEM_OF_UNDYING (3) from player: mabu_222 at item scan.
+10/02/23 05:18:09 - Illegal stack of items removed: TOTEM_OF_UNDYING (64) from player: LEKING001 at item scan.
+10/02/23 06:26:52 - Illegal stack of items removed: TOTEM_OF_UNDYING (64) from player: LEKING001 at login.
+10/02/23 08:02:15 - Illegal stack of items removed: TOTEM_OF_UNDYING (32) from player: mabu_222 at item scan.
+10/02/23 08:02:23 - Illegal stack of items removed: TOTEM_OF_UNDYING (32) from player: mabu_222 at item scan.
+10/02/23 08:02:33 - Illegal stack of items removed: TOTEM_OF_UNDYING (32) from player: mabu_222 at item scan.
+10/02/23 08:02:42 - Illegal stack of items removed: TOTEM_OF_UNDYING (32) from player: mabu_222 at item scan.
+10/02/23 08:03:00 - Illegal stack of items removed: TOTEM_OF_UNDYING (36) from player: mabu_222 at item scan.
+10/02/23 08:03:09 - Illegal stack of items removed: TOTEM_OF_UNDYING (36) from player: mabu_222 at item scan.
+10/02/23 08:03:16 - Illegal stack of items removed: TOTEM_OF_UNDYING (20) from player: mabu_222 at item scan.
+10/02/23 08:05:00 - Illegal stack of items removed: TOTEM_OF_UNDYING (5) from player: mabu_222 at item scan.
+10/02/23 09:46:37 - Illegal stack of items removed: TOTEM_OF_UNDYING (2) from player: MostlikelyLee at item scan.
+10/02/23 10:12:37 - Illegal stack of items removed: TOTEM_OF_UNDYING (32) from player: mabu_222 at item scan.
+10/02/23 10:12:45 - Illegal stack of items removed: TOTEM_OF_UNDYING (8) from player: mabu_222 at item scan.
+10/02/23 12:19:54 - Illegal stack of items removed: TOTEM_OF_UNDYING (35) from player: mabu_222 at item scan.
+10/02/23 12:20:10 - Illegal stack of items removed: TOTEM_OF_UNDYING (26) from player: mabu_222 at item scan.
+10/02/23 13:08:09 - Illegal stack of items removed: TOTEM_OF_UNDYING (7) from player: MostlikelyLee at item scan.
+10/02/23 14:00:45 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=end},x=4.0,y=58.0,z=-2.0,pitch=0.0,yaw=0.0}
+10/02/23 14:00:50 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=end},x=4.0,y=58.0,z=-2.0,pitch=0.0,yaw=0.0}
+10/02/23 14:01:01 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=end},x=4.0,y=58.0,z=-1.0,pitch=0.0,yaw=0.0}
+10/02/23 14:37:45 - Illegal stack of items removed: MILK_BUCKET (64) from player: LEKING001 at login.
+10/03/23 07:03:37 - Illegal stack of items removed: TOTEM_OF_UNDYING (30) from player: mabu_222 at item scan.
+10/03/23 07:03:44 - Illegal stack of items removed: TOTEM_OF_UNDYING (30) from player: mabu_222 at item scan.
+10/03/23 07:03:50 - Illegal stack of items removed: TOTEM_OF_UNDYING (30) from player: mabu_222 at item scan.
+10/03/23 07:04:02 - Illegal stack of items removed: TOTEM_OF_UNDYING (30) from player: mabu_222 at item scan.
+10/03/23 07:04:09 - Illegal stack of items removed: TOTEM_OF_UNDYING (30) from player: mabu_222 at item scan.
+10/03/23 07:04:17 - Illegal stack of items removed: TOTEM_OF_UNDYING (29) from player: mabu_222 at item scan.
+10/03/23 07:04:25 - Illegal stack of items removed: TOTEM_OF_UNDYING (23) from player: mabu_222 at item scan.
+10/03/23 08:55:35 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=spawn},x=-51.0,y=-24.0,z=-43.0,pitch=0.0,yaw=0.0}
+10/03/23 08:55:35 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=spawn},x=-51.0,y=-24.0,z=-43.0,pitch=0.0,yaw=0.0}
+10/03/23 08:55:35 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=spawn},x=-51.0,y=-24.0,z=-43.0,pitch=0.0,yaw=0.0}
+10/03/23 08:55:35 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=spawn},x=-51.0,y=-24.0,z=-43.0,pitch=0.0,yaw=0.0}
+10/03/23 08:55:39 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=spawn},x=-51.0,y=-24.0,z=-43.0,pitch=0.0,yaw=0.0}
+10/03/23 08:55:39 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=spawn},x=-51.0,y=-24.0,z=-43.0,pitch=0.0,yaw=0.0}
+10/03/23 08:55:39 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=spawn},x=-51.0,y=-24.0,z=-43.0,pitch=0.0,yaw=0.0}
+10/03/23 08:55:39 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=spawn},x=-51.0,y=-24.0,z=-43.0,pitch=0.0,yaw=0.0}
+10/04/23 03:09:04 - Stopped Rail/Carpet Dupe & Removed Piston @ Location{world=CraftWorld{name=world},x=-8814.0,y=182.0,z=-16195.0,pitch=0.0,yaw=0.0}  RAIL
+10/04/23 16:03:26 - Illegal stack of items removed: FLINT_AND_STEEL (64) from player: LEKING001 on click in inventory.
+10/04/23 16:03:29 - Illegal stack of items removed: FLINT_AND_STEEL (32) from player: LEKING001 on click in inventory.
+10/05/23 10:52:40 - Illegal stack of items removed: IRON_PICKAXE (64) from player: MostlikelyLee on click in inventory.
+10/05/23 11:10:32 - Illegal stack of items removed: IRON_PICKAXE (64) from player: MostlikelyLee on click in inventory.
+10/07/23 01:18:34 - Illegal stack of items removed: ENDER_PEARL (17) from player: SAIMONKARKI at item scan.
+10/07/23 06:20:35 - Illegal stack of items removed: ENDER_PEARL (18) from player: SAIMONKARKI at item scan.
+10/08/23 18:36:30 - Illegal stack of items removed: DEBUG_STICK (64) from player: Nobel001 on click in inventory.
+10/09/23 10:34:51 - Illegal stack of items removed: GOLDEN_SHOVEL (63) from player: MostlikelyLee on click in inventory.
+10/11/23 02:23:12 - Removed a string that would have been broken by water..  Possible string dupe @ Location{world=CraftWorld{name=world},x=334.0,y=167.0,z=-363.0,pitch=0.0,yaw=0.0}
+10/11/23 02:32:34 - Removed a string that would have been broken by water..  Possible string dupe @ Location{world=CraftWorld{name=world},x=334.0,y=166.0,z=-363.0,pitch=0.0,yaw=0.0}
+10/11/23 07:42:07 - Illegal stack of items removed: DIAMOND_SWORD (3) from player: LEKING001 at item scan.
+10/11/23 07:42:10 - Illegal stack of items removed: DIAMOND_SWORD (3) from player: LEKING001 on click in inventory.
+10/11/23 10:30:18 - Protection: NetherWhiteListMode has been turned ON by LEKING001
+10/13/23 04:19:37 - Protection: NetherWhiteListMode has been turned ON by Nobel001
+10/13/23 04:19:43 - Protection: FixIllegalEnchantmentLevels has been turned ON by Nobel001
+10/13/23 04:21:15 - Protection: FixIllegalEnchantmentLevels has been turned OFF by Nobel001
+10/13/23 21:12:31 - Illegal stack of items removed: FISHING_ROD (64) from player: MostlikelyLee at item scan.
+10/14/23 02:54:24 - Removed a writable book from player: 2PaHkA because player book creation is disabled!
+10/14/23 16:04:55 - Illegal stack of items removed: SPLASH_POTION (28) from player: omgaming994 on click in inventory.
+10/14/23 16:04:55 - Illegal stack of items removed: SPLASH_POTION (56) from player: omgaming994 on click in inventory.
+10/15/23 01:12:44 - Illegal stack of items removed: ENDER_PEARL (64) from player: rbmr at item scan.
+10/15/23 20:58:26 - Illegal stack of items removed: DEBUG_STICK (64) from player: LEKING001 at item scan.
+10/15/23 23:20:42 - Illegal stack of items removed: DEBUG_STICK (64) from player: omgaming994 at item scan.
+10/16/23 18:07:03 - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=1815.0,y=54.0,z=862.0,pitch=0.0,yaw=0.0}
+10/17/23 00:08:09 - Prevented an entity (armor stand/end crystal) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-9406.5,y=114.0,z=-19581.5,pitch=0.0,yaw=-180.0}
+10/17/23 00:16:21 - Illegal stack of items removed: ENDER_PEARL (64) from player: FOXYLATIF at item scan.
+10/17/23 02:09:29 - Illegal stack of items removed: DEBUG_STICK (64) from player: Nobel001 on click in inventory.
+10/17/23 16:21:51 - Illegal stack of items removed: ENDER_PEARL (33) from player: xInK5 at item scan.
+10/17/23 16:37:45 - Illegal stack of items removed: DEBUG_STICK (64) from player: Nobel001 at item scan.
+10/17/23 18:33:52 - Illegal stack of items removed: ENDER_PEARL (64) from player: B0SS_0F_WORLD at item scan.
+10/18/23 21:21:13 - Illegal stack of items removed: ENDER_PEARL (17) from player: legendxarham2 at item scan.
+10/19/23 14:39:22 - Illegal stack of items removed: ENDER_PEARL (33) from player: arifop444 at item scan.
+10/21/23 16:41:47 - Illegal stack of items removed: ENDER_PEARL (61) from player: IRUSH_MG1k at item scan.
+10/22/23 00:43:13 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:43:13 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:43:30 - Player Liang09thesharq1 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:43:30 - Player Liang09thesharq1 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:44:14 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:44:14 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:46:46 - Removed a string that would have been broken by water..  Possible string dupe @ Location{world=CraftWorld{name=world},x=790.0,y=69.0,z=-2010.0,pitch=0.0,yaw=0.0}
+10/22/23 00:46:51 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:46:51 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:47:18 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:47:18 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:47:19 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:47:19 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:47:20 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:47:20 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:47:24 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:47:24 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:47:25 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:47:25 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:47:30 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:47:30 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:47:38 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 00:47:38 - Player Nobel001 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 02:49:18 - Illegal stack of items removed: DEBUG_STICK (2) from player: Nobel001 at item scan.
+10/22/23 11:19:17 - Player Liang09thesharq1 attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+10/22/23 13:47:42 - Removed a writable book from player: akshay_piroz because player book creation is disabled!
+10/22/23 13:47:42 - Removed a writable book from player: akshay_piroz because player book creation is disabled!
+10/22/23 18:48:17 - Stopped Rail/Carpet Dupe & Removed Piston @ Location{world=CraftWorld{name=world},x=-9153.0,y=96.0,z=-19504.0,pitch=0.0,yaw=0.0}  DETECTOR_RAIL
+10/23/23 17:00:05 - Illegal stack of items removed: EGG (33) from player: DISHANT_MALVIYA at item scan.
+10/23/23 17:00:43 - Illegal stack of items removed: EGG (64) from player: DISHANT_MALVIYA at item scan.
+10/23/23 18:30:04 - §aitiskk appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-9408.699999988079,y=191.0,z=-19771.69999998808,pitch=3.1498451,yaw=-28.566498}
+10/23/23 18:30:53 - §aFireGaMMerYT appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-9410.407190097441,y=207.7473865589124,z=-19771.201127306955,pitch=63.59994,yaw=-36.718933}
+10/23/23 18:32:31 - §aFireGaMMerYT appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-9406.261529362673,y=195.0,z=-19768.62469942611,pitch=74.099495,yaw=169.24036}
+10/23/23 18:39:48 - §aitiskk appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-9408.699999988079,y=191.0,z=-19771.676461908297,pitch=27.299995,yaw=-16.166214}
+10/26/23 22:02:38 - Fixed durability on: PLAYER_HEAD triggered by player: Nobel001.
+10/26/23 22:03:14 - Fixed durability on: PLAYER_HEAD triggered by player: omgaming994.
+10/26/23 22:03:39 - Fixed durability on: PLAYER_HEAD triggered by player: Nobel001.
+10/26/23 22:03:45 - Fixed durability on: PLAYER_HEAD triggered by player: Nobel001.
+10/26/23 22:37:20 - Illegal stack of items removed: DEBUG_STICK (64) from player: omgaming994 at item scan.
+10/28/23 19:37:21 - Illegal stack of items removed: DEBUG_STICK (64) from player: Nobel001 at login.
+10/30/23 20:44:59 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:44:59 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:44:59 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:44:59 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:44:59 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:44:59 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:44:59 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:44:59 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:06 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:06 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:06 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:06 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:06 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:06 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:06 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:06 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:06 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:06 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:06 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:06 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:06 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:06 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:06 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:06 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9098.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:07 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:07 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:07 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:07 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:07 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:07 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:07 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:07 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:07 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:08 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:09 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:09 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:09 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:09 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:09 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:09 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:09 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:09 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+10/30/23 20:45:09 - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world},x=-9097.0,y=30.0,z=-18359.0,pitch=0.0,yaw=0.0}
+11/02/23 19:30:27 - A piston head was exploded.. removing an orphan piston base @ Location{world=CraftWorld{name=world_nether},x=956.0,y=128.0,z=-374.0,pitch=0.0,yaw=0.0}
+11/02/23 19:31:00 - A piston head was exploded.. removing an orphan piston base @ Location{world=CraftWorld{name=world_nether},x=956.0,y=128.0,z=-374.0,pitch=0.0,yaw=0.0}
+11/02/23 19:32:30 - A piston head was exploded.. removing an orphan piston base @ Location{world=CraftWorld{name=world_nether},x=956.0,y=128.0,z=-374.0,pitch=0.0,yaw=0.0}
+11/02/23 19:34:39 - A piston head was exploded.. removing an orphan piston base @ Location{world=CraftWorld{name=world_nether},x=956.0,y=128.0,z=-374.0,pitch=0.0,yaw=0.0}
+11/02/23 19:36:18 - A piston head was exploded.. removing an orphan piston base @ Location{world=CraftWorld{name=world_nether},x=956.0,y=128.0,z=-374.0,pitch=0.0,yaw=0.0}
+11/02/23 19:36:35 - A piston head was exploded.. removing an orphan piston base @ Location{world=CraftWorld{name=world_nether},x=956.0,y=128.0,z=-374.0,pitch=0.0,yaw=0.0}
+11/02/23 19:39:16 - A piston head was exploded.. removing an orphan piston base @ Location{world=CraftWorld{name=world_nether},x=956.0,y=128.0,z=-374.0,pitch=0.0,yaw=0.0}
+11/02/23 19:39:33 - A piston head was exploded.. removing an orphan piston base @ Location{world=CraftWorld{name=world_nether},x=956.0,y=128.0,z=-374.0,pitch=0.0,yaw=0.0}
+11/02/23 19:42:28 - A piston head was exploded.. removing an orphan piston base @ Location{world=CraftWorld{name=world_nether},x=957.0,y=128.0,z=-374.0,pitch=0.0,yaw=0.0}
+11/02/23 19:43:45 - A piston head was exploded.. removing an orphan piston base @ Location{world=CraftWorld{name=world_nether},x=956.0,y=128.0,z=-373.0,pitch=0.0,yaw=0.0}
+11/02/23 19:46:16 - A piston head was exploded.. removing an orphan piston base @ Location{world=CraftWorld{name=world_nether},x=957.0,y=128.0,z=-374.0,pitch=0.0,yaw=0.0}
+11/05/23 16:25:30 - Illegal stack of items removed: EGG (33) from player: sdrone at item scan.
+11/05/23 16:27:12 - Illegal stack of items removed: EGG (64) from player: sdrone at item scan.
+11/05/23 16:34:26 - Illegal stack of items removed: EGG (64) from player: sdrone at item scan.
+11/05/23 16:37:05 - Illegal stack of items removed: EGG (64) from player: sdrone at item scan.
+11/05/23 16:40:04 - Illegal stack of items removed: EGG (64) from player: sdrone at item scan.
+11/05/23 16:40:05 - Illegal stack of items removed: EGG (64) from player: sdrone at item scan.
+11/05/23 16:42:27 - Illegal stack of items removed: EGG (64) from player: sdrone at item scan.
+11/05/23 16:42:28 - Illegal stack of items removed: EGG (64) from player: sdrone at item scan.
+11/05/23 16:46:08 - Illegal stack of items removed: EGG (64) from player: sdrone at item scan.
+11/05/23 16:46:09 - Illegal stack of items removed: EGG (64) from player: sdrone at item scan.
+11/05/23 16:46:09 - Illegal stack of items removed: EGG (64) from player: sdrone at item scan.
+11/17/23 18:32:05 - Illegal stack of items removed: ENDER_PEARL (17) from player: Shamp at item scan.
+11/17/23 18:39:06 - Illegal stack of items removed: ENDER_PEARL (33) from player: Shamp at item scan.
+11/18/23 14:12:21 - Illegal stack of items removed: ENDER_PEARL (17) from player: Divel_Singh at item scan.
+11/18/23 22:47:41 - Illegal stack of items removed: ENDER_PEARL (40) from player: lantot2007 at item scan.
+11/20/23 16:24:32 - Removed a writable book from player: PhizixMC because player book creation is disabled!
+11/20/23 16:24:32 - Removed a writable book from player: PhizixMC because player book creation is disabled!
+11/20/23 16:28:39 - Removed a writable book from player: PhizixMC because player book creation is disabled!
+11/20/23 16:28:50 - Removed a writable book from player: PhizixMC because player book creation is disabled!
+11/25/23 12:02:02 - Removed a string that would have been broken by water..  Possible string dupe @ Location{world=CraftWorld{name=world},x=1555.0,y=63.0,z=-1098.0,pitch=0.0,yaw=0.0}
+11/25/23 12:02:03 - Removed a string that would have been broken by water..  Possible string dupe @ Location{world=CraftWorld{name=world},x=1555.0,y=63.0,z=-1096.0,pitch=0.0,yaw=0.0}
+11/30/23 21:34:29 - Player omgaming994 used MAGMA_CUBE_SPAWN_EGG to change a spawner type @ Location{world=CraftWorld{name=world_nether},x=-1262.4099046447618,y=40.8601925299655,z=-2534.7287772066984,pitch=85.5001,yaw=-38.92987}
+11/30/23 21:34:29 - Player omgaming994 used MAGMA_CUBE_SPAWN_EGG to change a spawner type @ Location{world=CraftWorld{name=world_nether},x=-1262.4099046447618,y=40.8601925299655,z=-2534.7287772066984,pitch=70.20011,yaw=-60.380005}
+11/30/23 21:34:30 - Player omgaming994 used MAGMA_CUBE_SPAWN_EGG to change a spawner type @ Location{world=CraftWorld{name=world_nether},x=-1261.7096787239045,y=40.8601925299655,z=-2534.3714002445486,pitch=67.20008,yaw=-88.13037}
+11/30/23 21:34:31 - Player omgaming994 used MAGMA_CUBE_SPAWN_EGG to change a spawner type @ Location{world=CraftWorld{name=world_nether},x=-1261.3213901490149,y=40.8601925299655,z=-2533.6254998240274,pitch=75.00016,yaw=-77.93024}
+11/30/23 21:34:32 - Player omgaming994 used MAGMA_CUBE_SPAWN_EGG to change a spawner type @ Location{world=CraftWorld{name=world_nether},x=-1261.3145827717908,y=40.8601925299655,z=-2532.6398916124085,pitch=69.75011,yaw=-82.880615}
+11/30/23 21:34:32 - Player omgaming994 used MAGMA_CUBE_SPAWN_EGG to change a spawner type @ Location{world=CraftWorld{name=world_nether},x=-1262.502640310661,y=40.8601925299655,z=-2532.5830013788213,pitch=67.50014,yaw=-85.73096}
+11/30/23 21:34:33 - Player omgaming994 used MAGMA_CUBE_SPAWN_EGG to change a spawner type @ Location{world=CraftWorld{name=world_nether},x=-1263.1330687731806,y=40.8601925299655,z=-2532.5830013788213,pitch=79.95012,yaw=-77.18091}
+11/30/23 21:34:37 - Player omgaming994 used MAGMA_CUBE_SPAWN_EGG to change a spawner type @ Location{world=CraftWorld{name=world_nether},x=-1262.584690925351,y=40.0,z=-2533.8458966065023,pitch=78.90014,yaw=-26.930298}
+12/02/23 22:47:18 - Illegal stack of items removed: ENDER_PEARL (17) from player: Divel_Singh at item scan.
+12/03/23 23:53:31 - Illegal stack of items removed: ENDER_PEARL (17) from player: Divel_Singh at item scan.
+12/09/23 18:48:55 - Illegal stack of items removed: ENDER_PEARL (17) from player: Divel_Singh at item scan.
+12/10/23 17:28:43 - Illegal stack of items removed: ENDER_PEARL (33) from player: Divel_Singh at item scan.
+12/14/23 18:49:16 - Illegal stack of items removed: EGG (17) from player: kkyyllee0515 at item scan.
+12/21/23 18:56:22 - Player khinhan attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+12/21/23 18:56:22 - Player khinhan attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+12/21/23 18:56:44 - Player khinhan attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+12/21/23 18:56:44 - Player khinhan attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+12/21/23 18:57:12 - Player khinhan attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+12/21/23 18:57:12 - Player khinhan attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+12/21/23 18:57:34 - Player khinhan attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+12/21/23 18:57:34 - Player khinhan attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+01/04/24 01:41:31 - §aTheWreker appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-968.3102710610763,y=72.0,z=-1483.9194124650883,pitch=-12.750028,yaw=-170.86163}
+01/13/24 15:33:31 - Removed a string that would have been broken by water..  Possible string dupe @ Location{world=CraftWorld{name=world},x=345.0,y=62.0,z=-367.0,pitch=0.0,yaw=0.0}
+01/13/24 15:33:32 - Removed a string that would have been broken by water..  Possible string dupe @ Location{world=CraftWorld{name=world},x=345.0,y=62.0,z=-367.0,pitch=0.0,yaw=0.0}
+01/19/24 20:53:29 - Illegal stack of items removed: ENDER_PEARL (64) from player: loggysui at item scan.

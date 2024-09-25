@@ -1,0 +1,134 @@
+location: spawn:63.500:0.000:-37.500
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: SKELETON_SKULL !ENCHANTED'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴍ&#ffb01e&lᴏ&#ffba3c&lѕ&#ffc55a&lᴛ &#ffcf78&lᴅ&#ffda96&lᴇ&#ffe5b4&lᴀ&#ffefd2&lᴛ&#fffaf0&lʜ&#f3fcf3&lѕ
+      &#dbf6db&l- &#c3f0c3&lᴀ&#abeaab&lʟ&#92e592&lʟ &#7adf7a&lᴛ&#62d962&lɪ&#4ad34a&lᴍ&#32cd32&lᴇ'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '#FFA500#1 &f%ajlb_lb_statistic_deaths_1_alltime_name% &8| #32CD32%ajlb_lb_statistic_deaths_1_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#2 &f%ajlb_lb_statistic_deaths_2_alltime_name% &8| #32CD32%ajlb_lb_statistic_deaths_2_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#3 &f%ajlb_lb_statistic_deaths_3_alltime_name% &8| #32CD32%ajlb_lb_statistic_deaths_3_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#4 &f%ajlb_lb_statistic_deaths_4_alltime_name% &8| #32CD32%ajlb_lb_statistic_deaths_4_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#5 &f%ajlb_lb_statistic_deaths_5_alltime_name% &8| #32CD32%ajlb_lb_statistic_deaths_5_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#6 &f%ajlb_lb_statistic_deaths_6_alltime_name% &8| #32CD32%ajlb_lb_statistic_deaths_6_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#7 &f%ajlb_lb_statistic_deaths_7_alltime_name% &8| #32CD32%ajlb_lb_statistic_deaths_7_alltime_value%'
+    height: 0.3
+  - content: '#FFA500#8 &f%ajlb_lb_statistic_deaths_8_alltime_name% &8| #32CD32%ajlb_lb_statistic_deaths_8_alltime_value%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&fʏᴏᴜʀ ᴅᴇᴀᴛʜѕ&8: &e%statistic_deaths%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴄ&#ffb42b&lʟ&#ffc355&lɪ&#ffd280&lᴄ&#ffe1aa&lᴋ &#fff0d5&lᴛ&#ffffff&lᴏ
+      &#ddf7dd&lᴛ&#bbeebb&lᴏ&#99e699&lɢ&#76de76&lɢ&#54d554&lʟ&#32cd32&lᴇ'
+    height: 0.3
+  - content: '#FFFFFF&lALLTIME&r &8- &7Monthly&r &8- &7Weekly'
+    height: 0.3
+  actions:
+    LEFT:
+    - NEXT_PAGE
+    RIGHT:
+    - NEXT_PAGE
+- lines:
+  - content: '#ICON: SKELETON_SKULL !ENCHANTED'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴍ&#ffb01e&lᴏ&#ffba3c&lѕ&#ffc55a&lᴛ &#ffcf78&lᴅ&#ffda96&lᴇ&#ffe5b4&lᴀ&#ffefd2&lᴛ&#fffaf0&lʜ&#f3fcf3&lѕ
+      &#dbf6db&l- &#c3f0c3&lᴍ&#abeaab&lᴏ&#92e592&lɴ&#7adf7a&lᴛ&#62d962&lʜ&#4ad34a&lʟ&#32cd32&lʏ'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '#FFA500#1 &f%ajlb_lb_statistic_deaths_1_monthly_name% &8| #32CD32%ajlb_lb_statistic_deaths_1_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#2 &f%ajlb_lb_statistic_deaths_2_monthly_name% &8| #32CD32%ajlb_lb_statistic_deaths_2_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#3 &f%ajlb_lb_statistic_deaths_3_monthly_name% &8| #32CD32%ajlb_lb_statistic_deaths_3_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#4 &f%ajlb_lb_statistic_deaths_4_monthly_name% &8| #32CD32%ajlb_lb_statistic_deaths_4_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#5 &f%ajlb_lb_statistic_deaths_5_monthly_name% &8| #32CD32%ajlb_lb_statistic_deaths_5_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#6 &f%ajlb_lb_statistic_deaths_6_monthly_name% &8| #32CD32%ajlb_lb_statistic_deaths_6_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#7 &f%ajlb_lb_statistic_deaths_7_monthly_name% &8| #32CD32%ajlb_lb_statistic_deaths_7_monthly_value%'
+    height: 0.3
+  - content: '#FFA500#8 &f%ajlb_lb_statistic_deaths_8_monthly_name% &8| #32CD32%ajlb_lb_statistic_deaths_8_monthly_value%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&fʏᴏᴜʀ ᴅᴇᴀᴛʜѕ&8: &e%statistic_deaths%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴄ&#ffb42b&lʟ&#ffc355&lɪ&#ffd280&lᴄ&#ffe1aa&lᴋ &#fff0d5&lᴛ&#ffffff&lᴏ
+      &#ddf7dd&lᴛ&#bbeebb&lᴏ&#99e699&lɢ&#76de76&lɢ&#54d554&lʟ&#32cd32&lᴇ'
+    height: 0.3
+  - content: '&7Alltime&r &8- #FFFFFF&lMONTHLY&r &8- &7Weekly'
+    height: 0.3
+  actions:
+    LEFT:
+    - NEXT_PAGE
+    RIGHT:
+    - NEXT_PAGE
+- lines:
+  - content: '#ICON: SKELETON_SKULL !ENCHANTED'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴍ&#ffb020&lᴏ&#ffbc40&lѕ&#ffc760&lᴛ &#ffd280&lᴅ&#ffdd9f&lᴇ&#ffe9bf&lᴀ&#fff4df&lᴛ&#ffffff&lʜ&#e5f9e5&lѕ
+      &#ccf3cc&l- &#b2ecb2&lᴡ&#99e699&lᴇ&#7fe07f&lᴇ&#65da65&lᴋ&#4cd34c&lʟ&#32cd32&lʏ'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '#FFA500#1 &f%ajlb_lb_statistic_deaths_1_weekly_name% &8| #32CD32%ajlb_lb_statistic_deaths_1_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#2 &f%ajlb_lb_statistic_deaths_2_weekly_name% &8| #32CD32%ajlb_lb_statistic_deaths_2_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#3 &f%ajlb_lb_statistic_deaths_3_weekly_name% &8| #32CD32%ajlb_lb_statistic_deaths_3_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#4 &f%ajlb_lb_statistic_deaths_4_weekly_name% &8| #32CD32%ajlb_lb_statistic_deaths_4_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#5 &f%ajlb_lb_statistic_deaths_5_weekly_name% &8| #32CD32%ajlb_lb_statistic_deaths_5_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#6 &f%ajlb_lb_statistic_deaths_6_weekly_name% &8| #32CD32%ajlb_lb_statistic_deaths_6_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#7 &f%ajlb_lb_statistic_deaths_7_weekly_name% &8| #32CD32%ajlb_lb_statistic_deaths_7_weekly_value%'
+    height: 0.3
+  - content: '#FFA500#8 &f%ajlb_lb_statistic_deaths_8_weekly_name% &8| #32CD32%ajlb_lb_statistic_deaths_8_weekly_value%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&fʏᴏᴜʀ ᴅᴇᴀᴛʜѕ&8: &e%statistic_deaths%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴄ&#ffb42b&lʟ&#ffc355&lɪ&#ffd280&lᴄ&#ffe1aa&lᴋ &#fff0d5&lᴛ&#ffffff&lᴏ
+      &#ddf7dd&lᴛ&#bbeebb&lᴏ&#99e699&lɢ&#76de76&lɢ&#54d554&lʟ&#32cd32&lᴇ'
+    height: 0.3
+  - content: '&7Alltime&r &8- &7Monthly&r &8- #FFFFFF&lWEEKLY&r'
+    height: 0.3
+  actions:
+    LEFT:
+    - PAGE:leaderboarddeaths:1
+    RIGHT:
+    - PAGE:leaderboarddeaths:1

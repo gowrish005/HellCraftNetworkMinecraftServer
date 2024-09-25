@@ -1,0 +1,42 @@
+location: spawn:68.500:0.000:-52.500
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: TRIPWIRE_HOOK !ENCHANTED'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&#ffa500&lᴠ&#ffc355&lᴏ&#ffe1aa&lᴛ&#ffffff&lᴇ &#bbeebb&lᴛ&#76de76&lᴏ&#32cd32&lᴘ'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '#FFA500#&l1 &f%superbvote_top_voter_name_0% &8| #32CD32%superbvote_top_voter_votes_0%'
+    height: 0.3
+  - content: '#FFA500#&l2 &f%superbvote_top_voter_name_1% &8| #32CD32%superbvote_top_voter_votes_1%'
+    height: 0.3
+  - content: '#FFA500#&l3 &f%superbvote_top_voter_name_2% &8| #32CD32%superbvote_top_voter_votes_2%'
+    height: 0.3
+  - content: '#FFA500#&l4 &f%superbvote_top_voter_name_3% &8| #32CD32%superbvote_top_voter_votes_3%'
+    height: 0.3
+  - content: '#FFA500#&l5 &f%superbvote_top_voter_name_4% &8| #32CD32%superbvote_top_voter_votes_4%'
+    height: 0.3
+  - content: '#FFA500#&l6 &f%superbvote_top_voter_name_5% &8| #32CD32%superbvote_top_voter_votes_5%'
+    height: 0.3
+  - content: '#FFA500#&l7 &f%superbvote_top_voter_name_6% &8| #32CD32%superbvote_top_voter_votes_6%'
+    height: 0.3
+  - content: '#FFA500#&l8 &f%superbvote_top_voter_name_7% &8| #32CD32%superbvote_top_voter_votes_7%'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&fʏᴏᴜʀ ᴛᴏᴛᴀʟ ᴠᴏᴛᴇѕ &e%superbvote_votes%'
+    height: 0.3
+#  - content: '&fʏᴏᴜʀ ᴠᴏᴛᴇ ᴛᴏᴘ ʀᴀɴᴋ %ajlb_position_superbvote_votes_alltime%'
+#    height: 0.3
+#  - content: '&fʏᴏᴜʀ ᴠᴏᴛᴇ ᴛᴏᴘ ʀᴀɴᴋ %ajlb_position_superbvote_votes_alltime%'
+#    height: 0.3
+  actions: {}

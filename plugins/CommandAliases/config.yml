@@ -1,0 +1,27 @@
+# ========================#
+# 	 Command Aliases     #
+# ========================#
+
+# Example Aliases:
+spec: gamemode spectator # When you run /spec, it will run /gamemode spectator. (With the same permissions as the person executing it.)
+gm: gamemode # When you run /gm creative, it will run /gamemode creative. (With the same permissions as the person executing it.)
+pvp: warp pvp
+exp: warp exp
+pv: vault
+world: mvtp world
+worlds: mvtp world
+kit: playerkits:kit
+k1: playerkits2:kits give Starter_pickaxe MostlikelyLee
+ext: essentials:ext
+kits: playerkits:kits
+shop: economyshopgui:shop
+echest: pv
+t: tell
+link: discord link
+f: fly
+lb: warp LeaderBoards
+god: godmode
+sp: spawn
+server: dmenu open servers
+servers: dmenu open servers
+lobby: server lobby

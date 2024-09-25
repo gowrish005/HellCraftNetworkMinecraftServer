@@ -1,0 +1,38 @@
+panels:
+  Warp:
+    perm: default
+    rows: '3'
+    title: §eWarps
+    empty: BLACK_STAINED_GLASS_PANE
+    item:
+      '10':
+        material: diamond_sword
+        name: §cPvP
+        lore:
+          - You will be teleported to §cPvp
+        commands:
+          - ewarp pvp
+      '12':
+        material: ender_eye
+        name: §2End
+        lore:
+          - You will be teleported to §2End
+        commands:
+          - ewarp end
+      '14':
+        material: chest
+        name: §eCrates
+        lore:
+          - You will be teleported to §eCrates
+        commands:
+          - ewarp crates
+      '16':
+        material: beacon
+        name: §dLeaderBoards
+        lore:
+          - You will be teleported to §dLeaderBoards
+        commands:
+          - ewarp leaderboards
+    commands:
+      - warp
+      - warps

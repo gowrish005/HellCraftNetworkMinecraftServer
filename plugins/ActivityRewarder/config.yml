@@ -1,0 +1,460 @@
+messages:
+  reload: "&aConfig reloaded"
+  reminder: "&6&lIndi Rewards &8» &7It looks like you haven't collected today's reward from &e/rewards"
+  reward-given: "&6&lIndi Rewards &8» &aYou have collected today's reward"
+  hourly-bonus-given: "&e&lRewards &8» &7You have received a bonus for playing &e%hours% &7hours"
+
+gui:
+  title: "&6&n&lDIndi Rewards"
+  # Available templates: DEFAULT, COMPACT, BORDERED_DAILY, DAILY_REWARDS_PLUS, NDAILY_REWARDS, CUSTOM
+  # Read https://dave-12.gitbook.io/activity-rewarder/configuring/gui-and-templates#custom-templates for more info on
+  # creating and using templates
+  template: "DAILY_REWARDS_PLUS"
+  upcoming-reward:
+    # Whether the next "large" reward will be shown in the gui
+    enabled: true
+    # The lore of the upcoming reward (set first line to blank for item's original lore)
+    lore:
+      - "&7&o- Next large reward"
+  # redeemable-name and collected-name can contain %day% which will display the day number related to the tiem
+  redeemable-name: "&6Day %day%"
+  collected-name: "&aDay %day% - Collected"
+  # Display item for the border
+  border-item: GRAY_STAINED_GLASS_PANE
+  # Display item for when a reward is collected
+  collected-item: Diamond_block
+
+# The number of days before the reward cycle loops
+loop-length: 30 
+# The length in seconds between reminders being sent
+reminder-period: 1800
+# Whether a player's days will reset if they miss a day
+days-reset: false
+
+# Display items for different reward sizes
+sizes:
+  small: GOLD_BLOCK
+  medium: GOLD_BLOCK
+  large: GOLD_BLOCK
+
+
+# Placeholders:
+#   %user% - The user being given the reward
+#   %hourly-amount% - Number of hours multiplied by count
+
+# Items given daily based on the amount of play time since rewards were last collected
+hourly-bonus:
+  # Each section within the hourly-bonus is its own group, to give a player access to
+  # a group you must give them "activityrewarder.bonus.groupName"
+  #
+  # For example: activityrewarder.bonus.rank1
+  default:
+    rewards:
+      multiplier: 1
+      items:
+        iron_ingot:
+          amount: 2
+  rank1:
+    rewards:
+      multiplier: 2
+      items:
+        diamond:
+          amount: 1
+
+# List of rewards
+reward-days:
+  default:
+    size: SMALL
+    lore:
+      - "&7Rewards:"
+      - "&7&o-12 Cactus"
+      - "&7&o-1 Cookie"
+    rewards:
+      items:
+        cactus:
+          amount: 12
+        cookie:
+          amount: 1
+
+  '1':
+    size: SMALL
+    lore:
+      - "&6&lRewards:"
+      - "&f&l-16 cooked_beef"
+    rewards:
+      items:
+      commands:
+        - "give %user% cooked_beef"
+
+          
+  '2':
+    size: SMALL
+    lore:
+      - "&6&lRewards:"
+      - "&f&l-16 Iron Ingot"
+      - "&f&l-32 Bread"
+    rewards:
+      items:
+        iron_ingot:
+          amount: 16
+        Bread:
+          amount: 32
+  '3':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&f&l-16 Iron Ingot"
+      - "&f&l-16 Diamonds"
+      - "&f&l-64 Bread"
+    rewards:
+      items:
+        iron_ingot:
+          amount: 16
+        diamond:
+          amount: 16
+        Bread:
+          amount: 64
+  '4':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&f&l-32 Iron Ingot"
+      - "&f&l-20 Diamonds"
+      - "&f&l-4  Netherite Scrape"
+      - "&f&l-64 Bread"
+    rewards:
+      items:
+        iron_ingot:
+          amount: 16
+        diamond:
+          amount: 16
+        netherite_scrap:
+          amount: 4
+        Bread:
+          amount: 64
+
+
+  '5':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-2 Emerald Crate Key"
+      - "&b&l-2 Diamond Crate key"
+      - "&f&l-10 Diamonds"
+    rewards:
+      items:
+        diamond:
+          amount: 10
+      commands:
+        - "crates key give %user% emerald 2"
+        - "crates key give %user% diamond 2"  
+  '6':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&f&l-64 Iron Ingot"
+      - "&f&l-32 Diamonds"
+      - "&f&l-8  Netherite Scrape"
+      - "&f&l-10 Golden Apple"
+    rewards:
+      items:
+        iron_ingot:
+          amount: 64
+        diamond:
+          amount: 32
+        netherite_scrap:
+          amount: 8
+        golden_apple:
+          amount: 10
+  '7':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&c&lPermission to &a&lEnter &d&lᴇɴᴅ ᴡᴏʀʟᴅ"
+    rewards:
+      items:
+      commands:
+        - "lp user %user% permission set multiverse.portal.access.end"
+        - "lp user %user%  permission set essentials.worlds.world_the_end"
+        - "lp group default permission set essentials.worlds.the_end_world"
+  '8':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+7200$"
+      - "&e&l-1000 Claim Blocks"
+    rewards:
+      items:
+      commands:
+        - "economy give %user% 7200"
+        - "adjustbonusclaimblocks %user% 1000"
+
+  '9':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+10000$"
+      - "&b&l-2 Diamond Crate key"
+    rewards:
+      items:
+      commands:
+        - "economy give %user% 10000"
+        - "crates key give %user% diamond 2"  
+        
+
+  '10':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-4 Emerald Crate Key"
+      - "&b&l-3 Diamond Crate key"
+      - "&e&l-2 Golden Crate key"
+    rewards:
+      items:
+        
+      commands:
+        - "crates key give %user% emerald 4"
+        - "crates key give %user% diamond 3"  
+        - "crates key give %user% golden 2"  
+
+  '11':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+12500$"
+      - "&a&l-+750 Experience"
+    rewards:
+      items:
+      commands:
+        - "economy give %user% 12500"
+        - "experience add %user% 750 points"  
+  '12':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+15000$"
+      - "&e&l-+1250 Claim Blocks"
+    rewards:
+      items:
+      commands:
+        - "economy give %user% 15000"
+        - "adjustbonusclaimblocks %user% 1250"  
+  '13':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+17500$"
+      - "&7&l-1 Elytra"
+      - "&a&l-+1050 Experience"
+    rewards:
+      items:
+       elytra:
+        amount:1
+      commands:
+        - "economy give %user% 17500"
+        - "experience add %user% 1050 points"  
+  '14':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&cPermission to RTP in &d&lᴇɴᴅ ᴡᴏʀʟᴅ &7(For 30 Days)"
+      - ""
+    rewards:
+      items:
+      commands:
+        - "msg %user% You Can RTP in End Now GGs"
+        - "lp user %user% permission settemp betterrtp.world.world_the_end true 30d"  
+  '15':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l "
+      - "&6&l-Supreme Kit"
+      - "&c&n Note : Keep Atleast &c&l13&c&n inventory slots empty"
+    rewards:
+      items:
+      commands:
+        - "economy give %user% 10000"
+        - "playerkits:kits give Supreme %user%"  
+  '16':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+22500$"
+      - "&a&l-+1200 Experience"
+    rewards:
+      items:
+      commands:
+        - "economy give %user% 22500"
+        - "experience add %user% 1200 points"  
+  '17':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+25000$"
+      - "&e&l-+1750 Claim Blocks"
+    rewards:
+      items:
+      commands:
+        - "economy give %user% 25000"
+        - "adjustbonusclaimblocks %user% 1750"  
+  '18':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+27500$"
+      - "&f&l-1 Beacon"
+      - "&a&l-+1200 Experience"
+    rewards:
+      items: 
+        beacon:
+         amount:1
+      commands:
+        - "economy give %user% 27500"
+        - "experience add %user% 1200 points"
+  '19':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+30000$"
+      - "&e&l-+2050 Claim Blocks"
+    rewards:
+      items:
+      commands:
+        - "economy give %user% 30000"
+        - "adjustbonusclaimblocks %user% 2050"  
+  '20':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+32500$"
+      - "&b&l-Godlike Kit"
+      - "&a&l-+1050 Experience"
+    rewards:
+      items:
+      commands:
+        - "economy give %user% 32500"
+        - "experience add %user% 1050 points"
+        - "playerkits:kits give Godlike %user%"
+  '21':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+35000$"
+      - "&e&l-+2250 Claim Blocks"
+    rewards:
+      items:
+      commands:
+        - "economy give %user% 35000"
+        - "adjustbonusclaimblocks %user% 2250"
+  '22':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+37500$"
+      - "&7&l-3 Wither Skeleton Skull"
+      - "&a&l-+2500 Experience"
+    rewards:
+      items:
+      commands:
+        - "minecraft:give LEKING001 minecraft:wither_skeleton_skull 3"
+        - "economy give %user% 37000"
+        - "experience add %user% 2500 points" 
+  '23':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+40000$"
+      - "&e&l-+2500 Claim Blocks"
+    rewards:
+      items:
+      commands:
+        - "economy give %user% 40000"
+        - "adjustbonusclaimblocks %user% 2500" 
+  '24':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+42500$"
+      - "&a&l-+2750 Experience"
+    rewards:
+      items:
+      commands:
+        - "economy give %user% 42500"
+        - "experience add %user% 2750 points" 
+  '25':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+45000$"
+      - "&6&l-DE&f&lVI&a&lNE &6&lK&f&li&a&lt"
+      - "&e&l-+2500 Claim Blocks"
+    rewards:
+      items:
+      commands:
+        - "economy give %user% 45000"
+        - "adjustbonusclaimblocks %user% 2500"
+        - "playerkits:kits give Divine %user%"
+  '26':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+47500$"
+      - "&a&l-+3050 Experience"
+    rewards:
+      items:
+      commands:
+        - "economy give %user% 47500"
+        - "experience add %user% 3050 points" 
+  '27':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+50000$"
+      - "&e&l-+2750 Claim Blocks"
+    rewards:
+      items:
+      commands:
+        - "economy give %user% 50000"
+        - "adjustbonusclaimblocks %user% 2750" 
+  '28':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+52500$"
+      - "&e&l-1 Totem of Undyings"
+      - "&a&l-+3250 Experience"
+    rewards:
+      items: 
+        totem_of_undying:
+         amount:1
+      commands:
+        - "economy give %user% 52500"
+        - "experience add %user% 3250 points"
+  '29':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&a&l-+55000$"
+      - "&e&l-+3050 Claim Blockse"
+    rewards:
+      items:
+      commands:
+        - "economy give %user% 55000"
+        - "adjustbonusclaimblocks %user% 3050"  
+
+  '30':
+    size: LARGE
+    lore:
+      - "&6&lRewards:"
+      - "&b&l-3x Fly 1 Day Vocuhers "
+    rewards:
+      items:
+      commands:
+        - "voucher give %user% Fly1d 1"
+        - "voucher give %user% Fly1d 1"
+        - "voucher give %user% Fly1d 1"
+
+
+# Debug Modes: none, hourly, daily, all
+debug-mode: none

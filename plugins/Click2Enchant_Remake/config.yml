@@ -1,0 +1,76 @@
+
+# This defines which lore will be checked to apply the enchantment instantaneously
+DragNDropLore: "§8§lDrag 'n Drop to apply"
+
+# Skip lore checkage and apply instantaneously the enchantment of the book. Suggested by "Hakaze"
+# Failure chances will be skipped too, soo any book with a compatible enchantment will enchant
+skip_lore_check: true
+
+#Should failure chances be added to the book's lore? (chances will be added upon enchanting)
+Add_Chance_To_Lore: false
+
+#What percentage out of 100 should the chance be that an instant enchantment fails? 
+#NOTE: This is only used if the Add_Chance_To_Lore setting is false, otherwise the chance is calculated using the maximum and minimum and added to the lore.
+Failure_Chance: 0
+
+#What message should be sent when the book fails to enchant? (Set to: "none" to disable the message)
+Failure_Message: "§4Oh no! Your enchantment book has FAILED!"
+
+#Should enchantments add up to levels above that possible in vanilla?
+#An example of this is adding a power V book and a power III book to a bow to get a power VIII bow
+Add_Unsafe_Enchantments: true
+
+
+#What colors should the lore messages be? (This is only used if the Add_Chance_To_Lore setting is true)
+#Options: AQUA, BLACK, BLUE, DARK_AQUA, DARK_BLUE, DARK_GREEN, DARK_PURPLE, DARK_RED, GOLD, GRAY, GREEN, LIGHT_PURPLE, MAGIC, RED, WHITE, YELLOW
+Lore_Success_Color: "GREEN"
+Lore_Success_Text: "Success: "
+
+Lore_Failure_Color: "RED"
+Lore_Failure_Text: "Failure: "
+#What percentage out of 100 should the maximum failure chance be? (This is only used if the Add_Chance_To_Lore setting is true)
+#The chance added to the books lore will be a random value between the maximum and minimum failure chance values.
+Maximum_Failure_Chance: 0
+
+#What percentage out of 100 should the minimum failure chance be? (This is only used if the Add_Chance_To_Lore setting is true)
+Minimum_Failure_Chance: 0
+
+#Delete Item upon faliure? (eg. if enchanting a sword fails, the sword would also get deleted not just the book)
+Delete_Item_On_Fail: false
+
+#Should the players inventory close upon enchant failure (can be used to make sure player sees failure message)
+Close_Invent_On_Fail: false
+
+
+# Execute commands listed down below as player or console
+ExecuteAsPlayer: true
+
+#List of commands to execute upon enchantment failure - Insert %p for the players name
+Failure_Commands:
+- ""
+
+#List of commands to execute upon enchantment success - Insert %p for the players name
+Success_Commands:
+- ""
+
+
+# Without Permission message.
+WithoutPermission: "You don't have permission to do this!"
+
+# Translate as you wish the player, it will be used in the [willbereplaced] placeholder, PAPI placeholders may work..
+Player: "§fplayer"
+# Same for this.
+Enchantment: "§5enchantment"
+
+# Not found default message, it will be converted to "enchantment not found" or "player not found" or something else in the future
+NotFound: "[willbereplaced]§4 not found"
+
+# Other messages
+InventoryFull: "§4Player needs to have at least one empty inventory slot!"
+InvalidLevel: "§4Invalid enchantment level!"
+FailureChanceMessage: "§4Failure chance must be between 0 and 100"
+UnknownEnchantment: "§4Unknown Enchantment!"
+NotHighEnough: "§4The enchantment book does not have a high enough level to complete this action!"
+MaxLevel: "§4This enchantment is already at its maximum level!"
+CostsMessage: "§4You need [willbereplaced] levels to peform this action"
+IncompatibleLevel: "§4This enchantment is incompatible with a level this high!"

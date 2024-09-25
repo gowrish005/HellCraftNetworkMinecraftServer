@@ -1,0 +1,30 @@
+quests:
+  48: # Quest id
+    name: 'Fisher' # The name given to the quest.
+    type: fish # The type of quest
+    variable: none # The block the player must break.
+    required-progress: 25 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: fishing_rod:0
+      amount: 1
+      name: '&eFisher'
+      lore:
+        - '&7Fish &e25 items'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)' # If you wish, you can use a progress/required (23/1000) style format instead. Take a look a bit further down for examples.
+
+  49: # Quest id
+    name: 'Smelter' # The name given to the quest.
+    type: smelt # The type of quest
+    variable: cooked_cod:0 # The block the player must break.
+    required-progress: 16 # The amount of times the player should break the coal ore block.
+    points: 10 # The amount of points that will be rewarded
+    item: # The item that will be displayed in menus.
+      material: cooked_cod:0
+      amount: 1
+      name: '&eSmelter'
+      lore:
+        - '&7Smelt &e16 Cooked Cod'
+        - ''
+        - '%progress_bar% &7(&a%percentage_progress%&7)'
